@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tiebreak_17,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Post-Mutiny Tribes,Post-Mutiny Tribes,Post-Mutiny Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,6,8,9,10,10,11,12,13,14,15,15,15,15,15,15
+Voted out:,Sekou,Billy,Cecilia,J.P.,Stephannie,Cao Boi,Cristina,Jessica,Brad,Rebecca,Jenny,Nate,Candice,Jonathan,Parvati,Adam,Tie,Sundra,Becky,Ozzy,Yul
+Vote:,3-2,4-1,5-3,7-2,7-1,6-1-1,4-2,6-1,7-1,6-1,4-2,5-4,5-3,6-1,4-2,4-1,2-2,Tiebreaker,5-4-0,5-4-0,5-4-0
+Yul,-,-,Cecilia,-,-,Cao Boi,-,Jessica,-,-,-,Nate,Candice,Jonathan,Parvati,Adam,Sundra,-,Jury Vote,Jury Vote,Jury Vote
+Ozzy,-,Billy,Becky,-,-,Cao Boi,-,Jessica,-,-,-,Nate,Candice,Jonathan,Parvati,Adam,Becky,-,Jury Vote,Jury Vote,Jury Vote
+Becky,-,-,Cecilia,-,-,Cao Boi,-,Jessica,-,-,-,Nate,Candice,Jonathan,Parvati,Adam,Sundra,-,Jury Vote,Jury Vote,Jury Vote
+Sundra,Sekou,-,Becky,-,-,Cao Boi,-,Jessica,-,-,-,Nate,Candice,Jonathan,Parvati,Adam,Becky,Voted out,,,Yul
+Adam,-,-,-,J.P.,Stephannie,-,Cristina,-,Brad,Rebecca,Jenny,Yul,Jonathan,Jonathan,Sundra,Yul,,,,,Yul
+Parvati,-,-,-,J.P.,Stephannie,-,Cristina,-,Brad,Rebecca,Jenny,Yul,Jonathan,Jonathan,Sundra,,,,,Ozzy,
+Jonathan,-,-,Cecilia,-,-,Cao Boi,-,Jessica,Brad,Rebecca,Jenny,Nate,Candice,Adam,,,,,,,Yul
+Candice,-,-,Exiled,-,-,Cao Boi,-,Jessica,Brad,Rebecca,Jenny,Yul,Jonathan,,,,,,,,Yul
+Nate,Sundra,-,-,Stephannie,Stephannie,-,Kidnapped,-,Brad,Rebecca,Jonathan,Yul,,,,,,,,Ozzy,
+Jenny,-,-,-,J.P.,Stephannie,-,Cristina,-,Brad,Rebecca,Jonathan,,,,,,,,,Ozzy,
+Rebecca,Sekou,-,-,J.P.,Stephannie,-,Cristina,-,Brad,Jonathan,,,,,,,,,,Ozzy,
+Brad,-,-,-,J.P.,Stephannie,-,Jenny,-,Jonathan,,,,,,,,,,,,Yul
+Jessica,-,-,Cecilia,-,-,Jonathan,-,Jonathan,,,,,,,,,,,,,
+Cristina,-,Billy,-,J.P.,Stephannie,-,Jenny,,,,,,,,,,,,,,
+Cao Boi,-,-,Cecilia,-,-,Candice,,,,,,,,,,,,,,,
+Stephannie,Sekou,-,-,J.P.,Cristina,,,,,,,,,,,,,,,,
+J.P.,-,Billy,-,Stephannie,,,,,,,,,,,,,,,,,
+Cecilia,-,Billy,Becky,,,,,,,,,,,,,,,,,,
+Billy,-,Ozzy,,,,,,,,,,,,,,,,,,,
+Sekou,Sundra,,,,,,,,,,,,,,,,,,,,

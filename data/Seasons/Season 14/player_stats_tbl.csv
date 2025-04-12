@@ -1,0 +1,20 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Switched Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Jessica deBen,Jessica,[],27,Los Angeles,CA,Fashion Stylist,Ravu,,,1st Voted OutDay 3,6,19.0,False,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,6
+1,Erica Durousseau,Erica,[],26,Baton Rouge,LA,Non-profit Fundraiser,Ravu,,,2nd Voted OutDay 6,6,18.0,False,False,False,2,False,2,0,0,0,3,2,0,2,0,0,2,0.0,,0,6
+2,Sylvia Kwan,Sylvia,[],52,Ross,CA,Architect,Ravu,,,3rd Voted OutDay 8,6,17.0,False,False,False,3,False,3,0,0,0,4,3,0,2,1,1,1,0.0,,0,6
+3,Gary Stritesky,Gary,[],55,Ramsey,MN,School Bus Driver,Moto,,,QuitDay 10,0,16.0,False,False,False,4,False,3,3,0,0,4,3,3,0,0,0,0,1.0,,0,0
+4,Liliana Gomez,Liliana,[],25,Los Angeles,CA,Loan Officer,Moto,,,4th Voted OutDay 11,6,15.0,False,False,False,5,False,4,4,0,0,6,4,3,1,0,0,1,1.0,,0,6
+5,Rita Verreos,Rita,[],38,San Antonio,TX,Single Mother,Ravu,,,5th Voted OutDay 14,6,14.0,False,False,False,6,False,5,0,0,0,7,5,1,4,0,2,2,0.0,,0,6
+6,Anthony Robinson,Anthony,[],32,Compton,CA,Expert Witness Locator,Ravu,Ravu,,6th Voted OutDay 16,10,13.0,False,False,False,7,False,6,0,0,0,8,6,1,5,0,3,2,0.0,,0,10
+7,Rocky Reid,Rocky,[],28,Los Angeles,CA,Bartender,Ravu,Ravu,,7th Voted Out1st Jury MemberDay 19,5,12.0,False,False,False,8,False,7,0,0,0,9,7,1,6,0,3,3,0.0,,0,5
+8,Lisi Linares,Lisi,[],36,Los Angeles,CA,Customer Service Representative,Moto,Ravu,,8th Voted Out2nd Jury MemberDay 21,7,11.0,False,False,False,9,False,8,5,0,0,10,8,4,3,1,2,1,0.625,,0,7
+9,Michelle Yi,Michelle,[],22,Cincinnati,OH,Student,Ravu,Moto,Bula Bula,9th Voted Out3rd Jury MemberDay 24,3,10.0,False,False,False,10,True,8,3,0,0,11,9,4,5,0,3,2,0.375,,0,3
+10,Edgardo Rivera,Edgardo,[],28,Miami Beach,FL,Advertising Executive,Moto,Ravu,Bula Bula,10th Voted Out4th Jury MemberDay 27,5,9.0,False,False,False,11,True,8,5,1,0,12,10,5,5,0,4,1,0.5555555555555556,0.0,0,5
+11,Mookie Lee,Mookie,[],24,Chicago,IL,Business Consultant,Ravu,Ravu,Bula Bula,11th Voted Out5th Jury MemberDay 30,6,8.0,False,False,False,12,True,8,0,2,0,13,11,1,10,0,5,5,0.0,0.0,0,6
+12,Alex Angarita,Alex,[],28,Los Angeles,CA,Lawyer,Moto,Ravu,Bula Bula,12th Voted Out6th Jury MemberDay 33,9,7.0,False,False,False,13,True,8,5,3,0,14,12,4,8,0,6,2,0.45454545454545453,0.0,0,9
+13,Stacy Kimball,Stacy,[],27,Boulder,CO,Web Producer,Moto,Moto,Bula Bula,13th Voted Out7th Jury MemberDay 36,4,6.0,False,False,False,14,True,8,8,4,1,15,13,7,6,0,4,2,1.25,1.75,0,4
+14,Boo Bernis,Boo,[],34,Lafayette,LA,Construction Worker,Moto,Moto,Bula Bula,14th Voted Out8th Jury MemberDay 37,5,5.0,False,False,False,15,True,8,8,5,2,16,14,8,6,0,4,2,1.4615384615384615,2.2,0,5
+15,Yau-Man Chan,Yau-Man,[],54,Martinez,CA,Internet Technology Director,Ravu,Moto,Bula Bula,15th Voted Out9th Jury MemberDay 38,9,4.0,False,False,False,16,True,8,3,6,2,17,15,5,10,0,8,2,1.0714285714285714,2.0,0,9
+16,Cassandra Franklin,Cassandra,[],42,Los Angeles,CA,College Administrator,Moto,Moto,Bula Bula,Runners-Up,5,3.0,False,False,True,17,True,8,8,6,0,18,15,8,7,0,5,2,0.5714285714285714,0.0,0,5
+17,Dreamz Herd,Dreamz,[],24,Wilmington,NC,Cheerleading Coach,Moto,Ravu,Bula Bula,Runners-Up,2,2.0,False,False,True,17,True,8,5,6,1,18,15,4,11,0,9,2,0.5714285714285714,0.5,0,2
+18,Earl Cole,Earl,[],35,Santa Monica,CA,Advertising Executive,Ravu,Moto,Bula Bula,Sole Survivor,1,1.0,False,True,True,17,True,8,3,6,0,18,15,5,9,1,8,1,0.21428571428571427,0.0,9,1

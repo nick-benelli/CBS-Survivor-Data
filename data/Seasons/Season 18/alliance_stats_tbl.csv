@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+J.T.,Stephen,10.0,0.9,Joe,4.0,0.75,Sydney,4.0,0.75,Erinn,6.0,0.6666666666666666,Taj,10.0,0.6
+Stephen,J.T.,10.0,0.9,Erinn,6.0,0.8333333333333334,Joe,4.0,0.75,Sydney,4.0,0.75,Taj,10.0,0.7
+Erinn,Stephen,6.0,0.8333333333333334,Taj,6.0,0.8333333333333334,Sierra,5.0,0.8,Tyson,4.0,0.75,J.T.,6.0,0.6666666666666666
+Taj,Erinn,6.0,0.8333333333333334,Stephen,10.0,0.7,J.T.,10.0,0.6,Joe,4.0,0.5,Sydney,4.0,0.5
+Coach,Tyson,4.0,1.0,Debbie,6.0,0.8333333333333334,J.T.,5.0,0.6,Erinn,7.0,0.42857142857142855,Sierra,5.0,0.4
+Debbie,Tyson,4.0,1.0,Coach,6.0,0.8333333333333334,Erinn,6.0,0.5,J.T.,4.0,0.5,Stephen,4.0,0.5
+Sierra,Erinn,5.0,0.8,Tyson,4.0,0.5,Coach,5.0,0.4,Debbie,5.0,0.4,,,
+Tyson,Coach,4.0,1.0,Debbie,4.0,1.0,Erinn,4.0,0.75,Sierra,4.0,0.5,,,
+Joe,Sydney,4.0,1.0,J.T.,4.0,0.75,Stephen,4.0,0.75,Taj,4.0,0.5,,,
+Sydney,Joe,4.0,1.0,J.T.,4.0,0.75,Stephen,4.0,0.75,Taj,4.0,0.5,,,

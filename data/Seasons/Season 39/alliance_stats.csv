@@ -1,0 +1,15 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Tommy,Dean,6.0,1.0,Lauren,8.0,0.875,Noura,7.0,0.8571428571428571,Janet,7.0,0.5714285714285714,Dan,7.0,0.5714285714285714
+Dean,Tommy,6.0,1.0,Noura,8.0,0.875,Lauren,7.0,0.8571428571428571,Tom,4.0,0.75,Elaine,8.0,0.5
+Noura,Dean,8.0,0.875,Tommy,7.0,0.8571428571428571,Lauren,8.0,0.75,Janet,9.0,0.6666666666666666,Dan,7.0,0.42857142857142855
+Lauren,Tommy,8.0,0.875,Dean,7.0,0.8571428571428571,Noura,8.0,0.75,Elizabeth,4.0,0.75,Elaine,6.0,0.6666666666666666
+Janet,Kellee,4.0,1.0,Jamal,4.0,0.75,Noura,9.0,0.6666666666666666,Karishma,6.0,0.6666666666666666,Tommy,7.0,0.5714285714285714
+Dan,Tommy,7.0,0.5714285714285714,Janet,7.0,0.5714285714285714,Lauren,8.0,0.5,Dean,6.0,0.5,Aaron,4.0,0.5
+Elaine,Elizabeth,7.0,0.8571428571428571,Missy,7.0,0.7142857142857143,Lauren,6.0,0.6666666666666666,Tommy,7.0,0.5714285714285714,Dean,8.0,0.5
+Karishma,Missy,6.0,0.6666666666666666,Janet,6.0,0.6666666666666666,Elaine,8.0,0.5,Tom,4.0,0.5,Dan,4.0,0.5
+Elizabeth,Elaine,7.0,0.8571428571428571,Missy,6.0,0.8333333333333334,Lauren,4.0,0.75,Aaron,5.0,0.6,Dean,5.0,0.4
+Missy,Elizabeth,6.0,0.8333333333333334,Elaine,7.0,0.7142857142857143,Karishma,6.0,0.6666666666666666,Aaron,6.0,0.5,Dean,5.0,0.4
+Aaron,Elizabeth,5.0,0.6,Dean,6.0,0.5,Elaine,6.0,0.5,Missy,6.0,0.5,Dan,4.0,0.5
+Jamal,Janet,4.0,0.75,Kellee,4.0,0.75,,,,,,,,,
+Kellee,Janet,4.0,1.0,Jamal,4.0,0.75,,,,,,,,,
+Tom,Dean,4.0,0.75,Karishma,4.0,0.5,,,,,,,,,

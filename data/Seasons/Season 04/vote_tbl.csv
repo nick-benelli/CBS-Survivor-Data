@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tiebreak_13,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,10,11,12,13,14,14,14,14,14
+Voted out:,Peter,Patricia,Hunter,Sarah,Gabriel,Gina,Rob,John,Zoe,Tammy,Robert,Sean,Tie,Paschal,Kathy,Neleh,Vecepia
+Vote:,5-2-1,4-3,4-2,4-1,7-1,3-1,7-2-1,6-3,7-1,5-2,5-1,3-2,2-2,Lottery,1-0,4-3,4-3
+Vecepia,Sarah,Patricia,Hunter,-,Gabriel,-,Rob,John,Zoe,Tammy,Robert,Neleh,Neleh,-,None,Jury Vote,Jury Vote
+Neleh,-,-,-,Sarah,-,Gina,Rob,John,Zoe,Tammy,Robert,Sean,Kathy,-,Kathy,Jury Vote,Jury Vote
+Kathy,-,-,-,Sarah,-,Gina,Zoe,John,Zoe,Tammy,Robert,Sean,Neleh,-,None,Neleh,
+Paschal,-,-,-,Sarah,-,Gina,Rob,John,Zoe,Tammy,Robert,Sean,Kathy,Eliminated,,Neleh,
+Sean,Sarah,Patricia,Hunter,-,Gabriel,-,John,John,Zoe,Tammy,Robert,Neleh,,,,,Vecepia
+Robert,-,-,-,-,Gabriel,-,Rob,Sean,Zoe,Vecepia,Sean,,,,,,Vecepia
+Tammy,-,-,-,-,Gabriel,-,Rob,Sean,Zoe,Vecepia,,,,,,,Vecepia
+Zoe,-,-,-,-,Gabriel,-,Rob,John,Robert,,,,,,,Neleh,
+John,-,-,-,-,Gabriel,-,Rob,Sean,,,,,,,,,Vecepia
+Rob,Peter,Patricia,Hunter,-,Gabriel,-,John,,,,,,,,,,
+Gina,Peter,Sarah,Sarah,Sarah,-,Kathy,,,,,,,,,,,
+Gabriel,-,-,-,-,Rob,,,,,,,,,,,,
+Sarah,Peter,Patricia,Hunter,Kathy,,,,,,,,,,,,,
+Hunter,Peter,Sarah,Sarah,,,,,,,,,,,,,,
+Patricia,Peter,Sarah,,,,,,,,,,,,,,,
+Peter,Patricia,,,,,,,,,,,,,,,,

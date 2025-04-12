@@ -1,0 +1,22 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""The Stakes Have Been Raised""","March 8, 2017",Nuku,"['', 'Nuku']","['Ciera', '9-1']",1st Voted OutDay 3,7.64,1.7/6,['Nuku']
+1,1,"""The Stakes Have Been Raised""","March 8, 2017",Nuku,Nuku,"['Tony', '7-2']",2nd Voted OutDay 6,7.64,1.7/6,['Nuku']
+2,2,"""Survivor Jackpot""","March 15, 2017","['Nuku', 'Tavua']","['Nuku', 'Tavua']","['Caleb', '5-1']",3rd Voted OutDay 9,7.87,1.7/7,"['Nuku', 'Tavua']"
+3,3,"""The Tables Have Turned""","March 22, 2017","['Nuku', 'Mana']",Tavua,"['Malcolm', '5-0']",4th Voted OutDay 11,8.10,1.7/7,['Tavua']
+4,4,"""Dirty Deed""","March 29, 2017","['Tavua', 'Nuku']","['Mana', 'Tavua']","['J.T.', '3-2']",5th Voted OutDay 13,8.26,1.8/7,"['Mana', 'Tavua']"
+5,5,"""Vote Early, Vote Often""","April 5, 2017",None,"['Debbie', 'Mana']","['Sandra', '5-2']",6th Voted OutDay 16,8.40,1.7/7,"['Debbie', 'Mana']"
+6,6,"""What Happened on Exile, Stays on Exile""","April 12, 2017",Nuku,Mana,"['Jeff', '6-0']",7th Voted OutDay 18,8.31,1.7/7,['Mana']
+7,7,"""There's a New Sheriff in Town""","April 19, 2017",None,Andrea,"['Hali', '7-4-2']",8th Voted Out1st Jury MemberDay 21,7.92,1.7/7,['Andrea']
+8,7,"""There's a New Sheriff in Town""","April 19, 2017","Andrea,DebbieOzzy, Tai,Troyzan,Zeke",Tai,"['Ozzy', '7-4-1-1']",9th Voted Out2nd Jury MemberDay 24,7.92,1.7/7,['Tai']
+9,8,"""A Line Drawn in Concrete""","April 26, 2017","Andrea,Aubry, Brad,Debbie,Sierra",Troyzan,"['Debbie', '6-5']",10th Voted Out3rd Jury MemberDay 26,8.49,1.8/7,['Troyzan']
+10,9,"""Reinventing How This Game Is Played""","May 3, 2017","Andrea,Aubry, Brad,Sarah, Zeke",Andrea,"['Zeke', '5-3-2']",11th Voted Out4th Jury MemberDay 29,8.26,1.8/8,['Andrea']
+11,10,"""It Is Not a High Without a Low""","May 10, 2017","Andrea,Aubry, Brad[Cirie, Sarah]",Brad,"['Sierra', '6-3']",12th Voted Out5th Jury MemberDay 32,8.30,1.7/7,['Brad']
+12,11,"""Parting Is Such Sweet Sorrow""","May 17, 2017",None,Aubry,"['Andrea', '6-2']",13th Voted Out6th Jury MemberDay 33,8.27,1.7/7,['Aubry']
+13,11,"""Parting Is Such Sweet Sorrow""","May 17, 2017",None,Brad,"['Michaela', '4-2-1']",14th Voted Out7th Jury MemberDay 35,8.27,1.7/7,['Brad']
+14,12,"""No Good Deed Goes Unpunished""","May 24, 2017","['Brad', '[Sarah,Troyzan]']","['Brad', '']","['Cirie', '0-0-0;Default']",Eliminated8th Jury MemberDay 36,8.48,1.9/8,['Brad']
+15,12,"""No Good Deed Goes Unpunished""","May 24, 2017",None,Brad,"['Aubry', '4-1']",15th Voted Out9th Jury MemberDay 37,8.48,1.9/8,['Brad']
+16,12,"""No Good Deed Goes Unpunished""","May 24, 2017",None,Brad,"['Tai', '3-1']",16th Voted Out10th Jury MemberDay 38,8.48,1.9/8,['Brad']
+17,12,"""No Good Deed Goes Unpunished""","May 24, 2017",Jury Vote,Jury Vote,"['Troyzan', '7-3-0']",Second Runner-Up,8.48,1.9/8,[]
+18,12,"""No Good Deed Goes Unpunished""","May 24, 2017",Jury Vote,Jury Vote,"['Brad', '7-3-0']",Runner-Up,8.48,1.9/8,[]
+19,12,"""No Good Deed Goes Unpunished""","May 24, 2017",Jury Vote,Jury Vote,"['Sarah', '7-3-0']",Sole Survivor,8.48,1.9/8,[]
+20,13,"""Reunion""","May 24, 2017",,,,,5.84,1.3/5,[]

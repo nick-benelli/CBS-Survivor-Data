@@ -1,0 +1,15 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Sandra,Courtney,5.0,0.8,Parvati,12.0,0.75,Russell,12.0,0.6666666666666666,Jerri,12.0,0.6666666666666666,Danielle,9.0,0.6666666666666666
+Parvati,Danielle,9.0,1.0,Sandra,12.0,0.75,Russell,12.0,0.75,Jerri,12.0,0.5833333333333334,Coach,4.0,0.5
+Russell,Jerri,12.0,0.8333333333333334,Parvati,12.0,0.75,Coach,4.0,0.75,Sandra,12.0,0.6666666666666666,Danielle,9.0,0.6666666666666666
+Jerri,Coach,4.0,1.0,Russell,12.0,0.8333333333333334,Sandra,12.0,0.6666666666666666,Parvati,12.0,0.5833333333333334,Danielle,9.0,0.5555555555555556
+Colby,Tom,4.0,1.0,Rupert,10.0,0.7,J.T.,6.0,0.6666666666666666,Amanda,7.0,0.5714285714285714,Candice,8.0,0.375
+Rupert,Amanda,7.0,1.0,J.T.,6.0,0.8333333333333334,James,5.0,0.8,Candice,8.0,0.75,Colby,10.0,0.7
+Danielle,Parvati,9.0,1.0,Sandra,9.0,0.6666666666666666,Russell,9.0,0.6666666666666666,Jerri,9.0,0.5555555555555556,Coach,4.0,0.5
+Candice,Amanda,7.0,0.8571428571428571,J.T.,6.0,0.8333333333333334,James,5.0,0.8,Rupert,8.0,0.75,Colby,8.0,0.375
+Amanda,Rupert,7.0,1.0,Candice,7.0,0.8571428571428571,J.T.,6.0,0.8333333333333334,James,5.0,0.8,Colby,7.0,0.5714285714285714
+J.T.,Rupert,6.0,0.8333333333333334,Candice,6.0,0.8333333333333334,Amanda,6.0,0.8333333333333334,Colby,6.0,0.6666666666666666,James,5.0,0.6
+Courtney,Sandra,5.0,0.8,Coach,4.0,0.5,Parvati,5.0,0.4,Jerri,5.0,0.4,Danielle,5.0,0.4
+Coach,Jerri,4.0,1.0,Russell,4.0,0.75,Sandra,4.0,0.5,Parvati,4.0,0.5,Danielle,4.0,0.5
+James,Rupert,5.0,0.8,Candice,5.0,0.8,Amanda,5.0,0.8,J.T.,5.0,0.6,Tom,4.0,0.25
+Tom,Colby,4.0,1.0,J.T.,4.0,0.5,Rupert,4.0,0.25,Candice,4.0,0.25,Amanda,4.0,0.25

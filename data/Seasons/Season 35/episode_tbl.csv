@@ -1,0 +1,20 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""I'm Not Crazy, I'm Confident""","September 27, 2017","['Soko', 'Levu']","['Soko', 'Yawa']","['Katrina', '5-1']",1st Voted OutDay 3,8.33,1.8/7,"['Soko', 'Yawa']"
+1,2,"""I'm a Wild Banshee""","October 4, 2017","['Soko', 'Levu']","['Soko', 'Levu']","['Simone', '5-1']",2nd Voted OutDay 6,8.15,1.6/6,"['Soko', 'Levu']"
+2,3,"""My Kisses Are Very Private""","October 11, 2017","['Levu', 'Soko']","['Levu', 'Soko']","['Patrick', '4-1']",3rd Voted OutDay 8,8.02,1.7/7,"['Levu', 'Soko']"
+3,4,"""I Don't Like Having Snakes Around""","October 18, 2017",Yawa,"['Yawa', 'Soko']","['Alan', '2-0']",4th Voted OutDay 11,8.12,1.8/7,"['Yawa', 'Soko']"
+4,5,"""The Past Will Eat You Alive""","October 25, 2017","['Levu', 'Yawa']","['Yawa', 'Levu']","['Roark', '3-2']",5th Voted OutDay 14,8.22,1.7/7,"['Yawa', 'Levu']"
+5,6,"""This Is Why You Play Survivor""","November 1, 2017","['Soko', 'Yawa']","['Yawa', 'Levu']","['Ali', '3-1']",6th Voted OutDay 16,7.69,1.6/6,"['Yawa', 'Levu']"
+6,7,"""Get to Gettin'""","November 8, 2017",None,Desi,"['Jessica', '7-5']",7th Voted OutDay 19,7.82,1.6/6,['Desi']
+7,8,"""Playing with the Devil""","November 15, 2017","Chrissy,Cole, Devon,JP, Ryan[Joe]",Cole,"['Desi', '4-4-1-1;7-1']",8th Voted Out1st Jury MemberDay 21,8.85,1.7/6,['Cole']
+8,9,"""Fear of the Unknown""","November 22, 2017","Chrissy,Cole, JP,Joe, Mike",Lauren,"['Cole', '7-1-0']",9th Voted Out2nd Jury MemberDay 24,7.37,1.4/5,['Lauren']
+9,10,"""Buy One, Get One Free""","November 29, 2017","Lauren[Ashley,Ben, Devon]",Ashley,"['JP', '5-3-1']",10th Voted Out3rd Jury MemberDay 27,8.27,1.8/7,['Ashley']
+10,10,"""Buy One, Get One Free""","November 29, 2017","Ashley, Ben,Devon, Joe",Chrissy,"['Joe', '4-2-0']",11th Voted Out4th Jury MemberDay 30,8.27,1.8/7,['Chrissy']
+11,11,"""Not Going to Roll Over and Die""","December 6, 2017","Chrissy[Ashley,Mike, Ryan]",Ashley,"['Lauren', '1-0']",12th Voted Out5th Jury MemberDay 33,8.96,1.8/7,['Ashley']
+12,12,"""The Survivor Devil""","December 13, 2017","Chrissy,Devon[Ryan]",Chrissy,"['Ashley', '5-1']",13th Voted Out6th Jury MemberDay 36,8.74,1.8/7,['Chrissy']
+13,13,"""Million Dollar Night""","December 20, 2017","['Chrissy', '[Devon,Mike]']","['Chrissy', '']","['Mike', '1-1-0;2-1']",14th Voted Out7th Jury MemberDay 37,8.70,1.9/8,['Chrissy']
+14,13,"""Million Dollar Night""","December 20, 2017",None,Chrissy,"['Devon', 'No Vote']",Eliminated8th Jury MemberDay 38,8.70,1.9/8,['Chrissy']
+15,13,"""Million Dollar Night""","December 20, 2017",Jury Vote,Jury Vote,"['Ryan', '5-2-1']",Second Runner-Up,8.70,1.9/8,[]
+16,13,"""Million Dollar Night""","December 20, 2017",Jury Vote,Jury Vote,"['Chrissy', '5-2-1']",Runner-Up,8.70,1.9/8,[]
+17,13,"""Million Dollar Night""","December 20, 2017",Jury Vote,Jury Vote,"['Ben', '5-2-1']",Sole Survivor,8.70,1.9/8,[]
+18,14,"""Reunion""","December 20, 2017",,,,,5.97,1.2/5,[]

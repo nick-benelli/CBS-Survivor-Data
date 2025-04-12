@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tiebreak_17,Tribal_17,Tribal_18,Tribal_19,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17,18,19,20,20,20
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,1,2,3,4,5,6,6,7,8,9,10,11,12,13,13,14,14,14,14,14,14,14
+Voted out:,Natalie,Amber,Danni,Ethan,Tyson,Rob,Sandra,Parvati,Yul,Wendell,Adam,Tyson,Sophie,Kim,Jeremy,Nick,Null,Denise,Ben,Sarah,Michele,Natalie,Tony
+Vote:,7-2-1,6-3-1,8-1,4-3-1,7-1-1,4-1,1-0,3-2,3-1,9-3,8-2-1,5-2-0,4-3-2,5-3,3-2-0,4-2,0-0,4-0,3-2,No Vote,12-4-0,12-4-0,12-4-0
+Tony,-,Kim,-,-,Tyson,-,Denise,-,-,Wendell,Adam,Tyson,Sophie,Kim,Jeremy,Nick,Natalie,Denise,Michele,-,Jury Vote,Jury Vote,Jury Vote
+Natalie,Denise,,,,,,,,,,,,,,,,Ben,Denise,Ben,-,Jury Vote,Jury Vote,Jury Vote
+Michele,Denise,-,Danni,Ethan,-,-,-,Wendell,Yul,Adam,Adam,Tyson,Sophie,Jeremy,Ben,Denise,Ben,Denise,Ben,-,Jury Vote,Jury Vote,Jury Vote
+Sarah,-,Kim,-,-,Tyson,Rob,-,-,-,Wendell,Nick,"['Tyson', 'Denise']",Michele,Kim,Michele,Nick,Natalie,None,Ben,Eliminated,,,Tony
+Ben,Natalie,-,Danni,Ethan,-,Rob,-,-,-,Wendell,Adam,Tyson,Jeremy,Kim,Jeremy,Nick,Natalie,Denise,Michele,,,,Tony
+Denise,Natalie,-,Danni,Ethan,-,-,Sandra,-,-,Wendell,Nick,None,Jeremy,Jeremy,Michele,Nick,Natalie,None,,,,,Tony
+Nick,-,Amber,-,-,Kim,-,-,Parvati,Yul,Adam,Adam,Tyson,Sophie,Kim,Jeremy,Denise,Eliminated,Eliminated,,,,,Tony
+Jeremy,Adam,-,Danni,Ethan,-,-,Denise,-,-,Wendell,Adam,None,Sophie,Kim,Ben,,Eliminated,Eliminated,,,,Natalie,
+Kim,-,Amber,-,-,Tyson,-,Denise,-,-,Wendell,Adam,Sophie,Michele,Jeremy,,,Eliminated,Eliminated,,,,,Tony
+Sophie,-,Kim,-,-,Tyson,Rob,-,-,-,Wendell,Adam,Denise,Jeremy,,,,Eliminated,Eliminated,,,,,Tony
+Tyson,-,Amber,-,-,Nick,,,,,Wendell,Adam,Sophie,,,,,Eliminated,Eliminated,,,,Natalie,
+Adam,Natalie,-,Danni,Parvati,-,Rob,-,-,-,Wendell,Sarah,,,,,,Eliminated,Eliminated,,,,,Tony
+Wendell,-,Amber,-,-,Tyson,-,-,Parvati,Yul,Adam,,,,,,,Eliminated,Eliminated,,,,,Tony
+Yul,-,Amber,-,-,Tyson,-,-,Parvati,Wendell,,,,,,,,Eliminated,Eliminated,,,,,Tony
+Parvati,Natalie,-,Danni,Adam,-,-,-,Wendell,,,,,,,,,Eliminated,Eliminated,,,,Natalie,
+Sandra,-,Amber,-,-,Tyson,-,Denise,,Quit,,,,,,,,,,,,,,
+Rob,Natalie,-,Danni,Adam,-,Sarah,,,,,,,,,,,Eliminated,Eliminated,,,,,Tony
+Ethan,Natalie,-,Danni,Adam,,,,,,,,,,,,,Eliminated,Eliminated,,,,Natalie,
+Danni,Natalie,-,Parvati,,,,,,,,,,,,,,Eliminated,Eliminated,,,,,Tony
+Amber,-,Nick,,,,,,,,,,,,,,,Eliminated,Eliminated,,,,,Tony

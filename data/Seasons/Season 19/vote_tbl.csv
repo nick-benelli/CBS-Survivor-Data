@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tiebreak_11,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,11,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,2,3,4,5,6,7,8,9,10,10,12,13,13,14,15,15,15,15,15
+Voted out:,Marisa,Mike,Betsy,Ben,Yasmin,Ashley,Russell S.,Liz,Erik,Kelly,Tie,Laura,John,Dave,Monica,Shambo,Jaison,Brett,Mick,Russell H.,Natalie
+Vote:,7-3,No Vote,7-1,6-1,8-2,5-1,No Vote,4-1,10-2-0,4-0,5-5,5-3,7-1-1,7-1,5-2,5-1,4-1,3-1,7-2-0,7-2-0,7-2-0
+Natalie,Marisa,-,Betsy,Ben,-,Ashley,-,Liz,Erik,Kelly,Laura,None,John,Dave,Monica,Shambo,Jaison,Brett,Jury Vote,Jury Vote,Jury Vote
+Russell H.,Marisa,-,Betsy,Ben,-,Ashley,-,Liz,Erik,Kelly,Laura,Laura,John,Dave,Monica,Shambo,Jaison,Brett,Jury Vote,Jury Vote,Jury Vote
+Mick,Ashley,-,Betsy,Ben,-,Ashley,-,Liz,Erik,Kelly,Laura,Laura,John,Dave,Monica,Shambo,Jaison,Brett,Jury Vote,Jury Vote,Jury Vote
+Brett,-,-,-,-,Yasmin,-,-,-,Erik,Russell H.,Natalie,Natalie,John,Dave,Russell H.,Shambo,Jaison,Mick,,,Natalie
+Jaison,Marisa,-,Betsy,Ben,-,Ashley,-,Liz,Erik,Kelly,Laura,Laura,John,Dave,Monica,Shambo,Mick,,,,Natalie
+Shambo,-,-,-,-,Monica,-,-,-,Jaison,Russell H.,Laura,Laura,Dave,Dave,Monica,Mick,,,,Russell H.,
+Monica,-,-,-,-,Yasmin,-,-,-,Erik,Russell H.,Natalie,Natalie,John,Dave,Russell H.,,,,,,Natalie
+Dave,-,-,-,-,Yasmin,-,-,-,Erik,Russell H.,Natalie,Natalie,John,Shambo,,,,,,,Natalie
+John,-,-,-,-,Yasmin,-,-,-,Erik,Russell H.,Natalie,Laura,Mick,,,,,,,Russell H.,
+Laura,-,-,-,-,Yasmin,-,-,-,Erik,Russell H.,Natalie,None,,,,,,,,,Natalie
+Kelly,-,-,-,-,Yasmin,-,-,-,Erik,Russell H.,,,,,,,,,,,Natalie
+Erik,-,-,-,-,Yasmin,-,-,-,Jaison,,,,,,,,,,,,Natalie
+Liz,Marisa,-,Betsy,Ben,-,Ashley,-,Jaison,,,,,,,,,,,,,
+Russell S.,-,-,-,-,Yasmin,-,Evacuated,,,,,,,,,,,,,,
+Ashley,Marisa,-,Betsy,Ben,-,Liz,,,,,,,,,,,,,,,
+Yasmin,-,-,-,-,Monica,,,,,,,,,,,,,,,,
+Ben,Marisa,-,Betsy,Ashley,,,,,,,,,,,,,,,,,
+Betsy,Ashley,-,Ben,,,,,,,,,,,,,,,,,,
+Mike,Marisa,Evacuated,,,,,,,,,,,,,,,,,,,
+Marisa,Ashley,,,,,,,,,,,,,,,,,,,,

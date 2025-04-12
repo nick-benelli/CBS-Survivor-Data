@@ -1,0 +1,23 @@
+,Idx,Episode,Air date,Left Game,Finish,Reward,Immunity,Voted Out(Vote),Status,BequeathedFire TokenRecipient,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""Greatest of the Greats""","February 12, 2020",,,Dakal,Dakal,"['Natalie', '7-2-1']",1st Voted OutRemoved from JuryDay 2,Jeremy (1),6.68,1.3/7,['Dakal']
+1,1,"""Greatest of the Greats""","February 12, 2020",None,None,None,Sele,"['Amber', '6-3-1']",2nd Voted Out1st Jury MemberDay 3,Rob (1),6.68,1.3/7,['Sele']
+2,2,"""It's Like a Survivor Economy""","February 19, 2020",None,None,Dakal,Dakal,"['Danni', '8-1']",3rd Voted Out2nd Jury MemberDay 6,Denise (1),7.16,1.4/7,['Dakal']
+3,3,"""Out for Blood""","February 26, 2020",None,None,Dakal,Dakal,"['Ethan', '4-3-1']",4th Voted Out3rd Jury MemberDay 9,Parvati (1),7.14,1.4/7,['Dakal']
+4,4,"""I Like Revenge""","March 4, 2020",None,None,Sele,Sele,"['Tyson', '7-1-1']",5th Voted OutDay 11,Nick (1),7.08,1.4/7,['Sele']
+5,5,"""The Buddy System on Steroids""","March 11, 2020",None,None,None,"['Sele', 'Dakal']","['Rob', '4-1']",6th Voted Out4th Jury MemberDay 14,Parvati (2),6.91,1.4/6,"['Sele', 'Dakal']"
+6,6,"""Quick on the Draw""","March 18, 2020",None,None,Yara,Yara,"['Sandra', '1-0']",7th Voted OutDay 16,Yul (1),7.83,1.6/7,['Yara']
+7,6,"""Quick on the Draw""","March 18, 2020",None,None,Yara,Yara,"['Parvati', '3-2']",8th Voted Out5th Jury MemberDay 16,Michele (3),7.83,1.6/7,['Yara']
+8,7,"""We're in the Majors""","March 25, 2020",Sandra,QuitDay 16,"['Yara', 'Sele']","['Yara', 'Dakal']","['Yul', '3-1']",9th Voted Out6th Jury MemberDay 18,"['Sarah (1)', 'Sophie (1)']",8.18,1.7/8,"['Yara', 'Dakal']"
+9,8,"""This Is Where the Battle Begins""","April 1, 2020",Tyson,1st ReturneeDay 19,None,"['Denise', 'Jeremy']","['Wendell', '9-3']",10th Voted Out7th Jury MemberDay 21,"['Michele (1)', 'Nick (1)']",8.23,1.6/7,"['Denise', 'Jeremy']"
+10,9,"""War Is Not Pretty""","April 8, 2020",None,None,"Ben, KimMichele,Sarah,Sophie(Nick)",Kim,"['Adam', '8-2-1']",11th Voted Out8th Jury MemberDay 23,Denise (1),7.85,1.5/6,['Kim']
+11,10,"""The Full Circle""","April 15, 2020",None,None,None,Tony,"['Tyson', '5-2-0']",12th Voted Out9th Jury MemberDay 25,None,8.14,1.6/7,['Tony']
+12,11,"""This Is Extortion""","April 22, 2020",None,None,"Ben,Kim,Sophie",Tony,"['Sophie', '4-3-2']",13th Voted Out10th Jury MemberDay 28,"['Kim (1)', 'Sarah (1)']",8.16,1.5/6,['Tony']
+13,12,"""Friendly Fire""","April 29, 2020",None,None,None,"['Denise', 'Tony']","['Kim', '5-3']",14th Voted Out11th Jury MemberDay 29,"['Denise (1)', 'Michele (1)', 'Sarah (1)']",8.08,1.5/6,"['Denise', 'Tony']"
+14,13,"""The Penultimate Step of the War""","May 6, 2020",None,None,None,Nick,"['Jeremy', '3-2-0']",15th Voted Out12th Jury MemberDay 31,Michele (2),7.57,1.4/5,['Nick']
+15,13,"""The Penultimate Step of the War""","May 6, 2020",None,None,None,Michele,"['Nick', '4-2']",16th Voted Out13th Jury MemberDay 34,,7.57,1.4/5,['Michele']
+16,14,"""It All Boils Down to This""","May 13, 2020","['Amber', 'Danni', 'Ethan', 'Rob', 'Parvati', 'Yul', 'Wendell', 'Adam', 'Tyson', 'Sophie', 'Kim', 'Jeremy', 'Nick', 'Natalie']","['EliminatedDay 35', '2nd ReturneeDay 35']","['Michele', '[Denise,Sarah]']","['Michele', '']","['Denise', '0-0;4-0']",17th Voted Out14th Jury MemberDay 36,,7.94,1.6/7,['Michele']
+17,14,"""It All Boils Down to This""","May 13, 2020",,,None,Tony,"['Ben', '3-2']",18th Voted Out15th Jury MemberDay 37,,7.94,1.6/7,['Tony']
+18,14,"""It All Boils Down to This""","May 13, 2020",,,None,Natalie,"['Sarah', 'No Vote']",Eliminated16th Jury MemberDay 38,,7.94,1.6/7,['Natalie']
+19,14,"""It All Boils Down to This""","May 13, 2020",Jury Vote,Jury Vote,Jury Vote,Jury Vote,"['Michele', '12-4-0']",Second Runner-Up,,7.94,1.6/7,[]
+20,14,"""It All Boils Down to This""","May 13, 2020",Jury Vote,Jury Vote,Jury Vote,Jury Vote,"['Natalie', '12-4-0']",Runner-Up,,7.94,1.6/7,[]
+21,14,"""It All Boils Down to This""","May 13, 2020",Jury Vote,Jury Vote,Jury Vote,Jury Vote,"['Tony', '12-4-0']",Sole Survivor,,7.94,1.6/7,[]

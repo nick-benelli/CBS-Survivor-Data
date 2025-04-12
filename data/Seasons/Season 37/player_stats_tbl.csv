@@ -1,0 +1,21 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe1,Tribe Affiliation Expanded Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Pat Cusack,Pat,[],41,Watervliet,NY,Maintenance Manager,David,,,EvacuatedDay 3,0,20.0,False,False,False,1,False,1,0,0,0,2,0,0,0,0,0,0,0.0,,0,0
+1,Jessica Peet,Jessica,[],19,Lakeland,FL,Waitress,David,,,1st Voted OutDay 6,5,19.0,False,False,False,2,False,2,0,0,0,3,1,0,1,0,0,1,0.0,,0,5
+2,Jeremy Crawford,Jeremy,[],39,New York City,NY,Attorney,Goliath,,,2nd Voted OutDay 9,9,18.0,False,False,False,3,False,3,2,0,0,4,2,1,1,0,0,1,0.6666666666666666,,0,9
+3,Bi Nguyen,Bi,[],28,Houston,TX,MMA Fighter,David,,,QuitDay 10,0,17.0,False,False,False,4,False,3,1,0,0,4,2,1,1,0,0,1,0.3333333333333333,,0,0
+4,Natalia Azoqa,Natalia,[],25,Irvine,CA,Industrial Engineer,Goliath,Vuku,,3rd Voted OutDay 11,3,16.0,False,False,False,5,False,4,2,1,0,6,3,1,2,0,1,1,0.4,,0,3
+5,Natalie Cole,Natalie,[],57,Los Angeles,CA,Publishing CEO,Goliath,Jabeni,,4th Voted OutDay 15,4,15.0,False,False,False,6,False,5,3,1,0,7,4,2,2,0,1,1,0.4166666666666667,,0,4
+6,Lyrsa Torres,Lyrsa,[],36,Boston,MA,Airline Agent,David,Jabeni,,5th Voted OutDay 17,9,14.0,False,False,False,7,False,6,2,1,0,8,5,2,3,0,2,1,0.21428571428571427,,0,9
+7,Elizabeth Olson,Elizabeth,[],31,Longview,TX,Kitchen Staff,David,Vuku,Kalokalo,6th Voted Out1st Jury MemberDay 20,13,13.0,False,False,False,8,True,6,3,2,0,9,6,3,3,0,2,1,0.25,0.0,0,13
+8,John Hennigan,John,[],38,Los Angeles,CA,Professional Wrestler,Goliath,Tiva,Kalokalo,7th Voted Out2nd Jury MemberDay 22,3,12.0,False,False,False,9,True,6,5,3,0,10,7,4,3,0,2,1,0.3888888888888889,0.0,0,3
+9,Dan Rengering,Dan,[],27,Gainesville,FL,S.W.A.T. Officer,Goliath,Tiva,Kalokalo,8th Voted Out3rd Jury MemberDay 25,6,11.0,False,False,False,10,True,6,5,4,1,11,8,4,4,0,2,2,1.45,3.6666666666666665,0,5
+10,Alec Merlino,Alec,[],24,San Clemente,CA,Bartender,Goliath,Vuku,Kalokalo,9th Voted Out4th Jury MemberDay 28,9,10.0,False,False,False,11,True,6,4,5,1,12,9,3,6,0,3,3,1.1818181818181819,2.5,0,9
+11,Carl Boudreaux,Carl,[],41,Houston,TX,Truck Driver,David,Vuku,Kalokalo,10th Voted Out5th Jury MemberDay 30,6,9.0,False,False,False,12,True,6,3,6,1,13,10,3,6,1,3,3,0.6666666666666666,0.0,0,6
+12,Gabby Pascuzzi,Gabby,[],25,Denver,CO,Technical Writer,David,Tiva,Kalokalo,11th Voted Out6th Jury MemberDay 32,2,8.0,False,False,False,13,True,6,4,7,0,14,11,4,7,0,5,2,0.19230769230769232,0.0,0,2
+13,Christian Hubicki,Christian,[],32,Tallahassee,FL,Robotics Scientist,David,Tiva,Kalokalo,12th Voted Out7th Jury MemberDay 35,18,7.0,False,False,False,14,True,6,4,8,1,15,12,4,8,0,6,2,0.8214285714285714,1.2857142857142858,0,18
+14,Davie Rickenbacker,Davie,[],30,Atlanta,GA,Social Media Manager,David,Vuku,Kalokalo,13th Voted Out8th Jury MemberDay 36,7,6.0,False,False,False,15,True,6,3,9,1,16,13,3,10,0,5,5,0.6666666666666666,1.0,0,7
+15,Alison Raybould,Alison,[],28,Chapel Hill,NC,Physician,Goliath,Tiva,Kalokalo,14th Voted Out9th Jury MemberDay 37,13,5.0,False,False,False,16,True,6,5,10,1,17,14,4,9,1,5,4,0.96875,1.3333333333333333,0,13
+16,Kara Kay,Kara,[],30,San Diego,CA,Realtor,Goliath,Vuku,Kalokalo,Eliminated10th Jury MemberDay 38,0,4.0,False,False,False,17,True,6,4,10,1,17,14,3,11,0,7,4,0.625,0.7777777777777778,0,0
+17,Angelina Keeley,Angelina,[],28,San Clemente,CA,Financial Consultant,Goliath,Jabeni,Kalokalo,SecondRunner-Up,6,3.0,False,False,True,18,True,6,3,11,0,19,14,2,12,0,8,4,0.14705882352941177,0.0,0,6
+18,Mike White,Mike,[],47,Los Angeles,CA,Filmmaker,Goliath,Jabeni,Kalokalo,Runner-Up,1,2.0,False,False,True,18,True,6,3,11,1,19,14,2,12,0,9,3,0.5,0.6,3,1
+19,Nick Wilson,Nick,[],27,Williamsburg,KY,Public Defender,David,Jabeni,Kalokalo,Sole Survivor,0,1.0,False,True,True,18,True,6,2,11,3,19,14,2,12,0,9,3,0.7352941176470589,1.1,7,0

@@ -1,0 +1,13 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Tom,Katie,5.0,1.0,Ian,5.0,1.0,Jenn,5.0,0.8,Caryn,5.0,0.8,Gregg,4.0,0.75
+Katie,Tom,5.0,1.0,Ian,5.0,1.0,Jenn,5.0,0.8,Caryn,5.0,0.8,Gregg,4.0,0.75
+Ian,Tom,5.0,1.0,Katie,5.0,1.0,Jenn,5.0,0.8,Caryn,5.0,0.8,Gregg,4.0,0.75
+Jenn,Gregg,4.0,1.0,Tom,5.0,0.8,Katie,5.0,0.8,Ian,5.0,0.8,Caryn,5.0,0.6
+Caryn,Tom,5.0,0.8,Katie,5.0,0.8,Ian,5.0,0.8,Gregg,4.0,0.75,Jenn,5.0,0.6
+Gregg,Jenn,4.0,1.0,Tom,4.0,0.75,Katie,4.0,0.75,Ian,4.0,0.75,Caryn,4.0,0.75
+Stephenie,Angie,5.0,1.0,Kim,4.0,0.75,James,6.0,0.6666666666666666,Bobby Jon,7.0,0.42857142857142855,Ibrehem,7.0,0.42857142857142855
+Bobby Jon,James,6.0,0.6666666666666666,Stephenie,7.0,0.42857142857142855,Ibrehem,7.0,0.42857142857142855,Angie,5.0,0.4,Kim,4.0,0.25
+Ibrehem,Angie,5.0,0.6,Stephenie,7.0,0.42857142857142855,Bobby Jon,7.0,0.42857142857142855,Kim,4.0,0.25,James,6.0,0.16666666666666666
+James,Stephenie,6.0,0.6666666666666666,Bobby Jon,6.0,0.6666666666666666,Angie,5.0,0.6,Kim,4.0,0.5,Ibrehem,6.0,0.16666666666666666
+Angie,Stephenie,5.0,1.0,Kim,4.0,0.75,Ibrehem,5.0,0.6,James,5.0,0.6,Bobby Jon,5.0,0.4
+Kim,Stephenie,4.0,0.75,Angie,4.0,0.75,James,4.0,0.5,Bobby Jon,4.0,0.25,Ibrehem,4.0,0.25

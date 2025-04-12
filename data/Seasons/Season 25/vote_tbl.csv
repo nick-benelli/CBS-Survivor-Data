@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,16,16
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Absorbed Tribes,Absorbed Tribes,Absorbed Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,5,6,7,8,9,10,11,12,13,14,14,14,14
+Voted out:,Zane,Roxy,Angie,Russell,Dana,Dawson,Katie,RC,Jeff,Artis,Pete,Jonathan,Carter,Abi-Maria,Malcolm,Michael,Lisa,Denise
+Vote:,5-1,4-1,3-1,2-1,No Vote,5-1,4-1,4-2-0,5-4-1,5-4,3-2-0,4-3,5-1,4-1,3-1,6-1-1,6-1-1,6-1-1
+Denise,Zane,Roxy,Angie,Russell,-,Dawson,Katie,Jonathan,Pete,Artis,Abi-Maria,Jonathan,Carter,Abi-Maria,Malcolm,Jury Vote,Jury Vote,Jury Vote
+Lisa,-,-,-,-,-,-,-,Jonathan,Jeff,Jonathan,Abi-Maria,Jonathan,Carter,Abi-Maria,Malcolm,Jury Vote,Jury Vote,Jury Vote
+Michael,-,-,-,-,-,-,-,Jonathan,Jeff,Artis,Abi-Maria,Jonathan,Carter,Abi-Maria,Malcolm,Jury Vote,Jury Vote,Jury Vote
+Malcolm,Zane,Roxy,Angie,Russell,-,-,-,Jonathan,Pete,Artis,Pete,Jonathan,Carter,Abi-Maria,Denise,,,Denise
+Abi-Maria,-,-,-,-,-,-,-,Jonathan,Jeff,Jonathan,Malcolm,Denise,Carter,Denise,,,,Denise
+Carter,-,-,-,-,-,Dawson,Katie,RC,Pete,Artis,Pete,Denise,Abi-Maria,,,Michael,,
+Jonathan,-,-,-,-,-,Dawson,Katie,Pete,Abi-Maria,Artis,Pete,Denise,,,,,,Denise
+Pete,-,-,-,-,-,-,-,RC,Jeff,Jonathan,Malcolm,,,,,,,Denise
+Artis,-,-,-,-,-,-,-,RC,Jeff,Jonathan,,,,,,,,Denise
+Jeff,-,-,-,-,-,Dawson,Katie,RC,Pete,,,,,,,,,Denise
+RC,-,-,-,-,-,-,-,Pete,,,,,,,,,Lisa,
+Katie,-,-,-,-,-,Dawson,Jonathan,,,,,,,,,,,
+Dawson,-,-,-,-,-,Denise,,,,,,,,,,,,
+Dana,-,-,-,-,Quit,,,,,,,,,,,,,
+Russell,Zane,Roxy,Angie,Malcolm,,,,,,,,,,,,,,
+Angie,Zane,Roxy,Russell,,,,,,,,,,,,,,,
+Roxy,Zane,Angie,,,,,,,,,,,,,,,,
+Zane,Russell,,,,,,,,,,,,,,,,,

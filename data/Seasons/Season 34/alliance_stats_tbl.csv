@@ -1,0 +1,16 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Sarah,Zeke,6.0,0.8333333333333334,Brad,10.0,0.8,Troyzan,10.0,0.8,Andrea,8.0,0.75,Cirie,8.0,0.75
+Brad,Troyzan,10.0,1.0,Sierra,7.0,1.0,Debbie,5.0,1.0,Sarah,10.0,0.8,Tai,11.0,0.6363636363636364
+Troyzan,Brad,10.0,1.0,Sierra,5.0,1.0,Sarah,10.0,0.8,Tai,9.0,0.5555555555555556,Cirie,8.0,0.5
+Tai,Debbie,6.0,1.0,Zeke,6.0,0.8333333333333334,Ozzy,4.0,0.75,Sierra,7.0,0.7142857142857143,Brad,11.0,0.6363636363636364
+Aubry,Andrea,6.0,1.0,Jeff,4.0,0.75,Michaela,11.0,0.7272727272727273,Cirie,8.0,0.625,Hali,4.0,0.5
+Cirie,Sarah,8.0,0.75,Andrea,6.0,0.6666666666666666,Aubry,8.0,0.625,Tai,7.0,0.5714285714285714,Michaela,7.0,0.5714285714285714
+Michaela,Jeff,4.0,1.0,Hali,4.0,0.75,Sandra,4.0,0.75,Aubry,11.0,0.7272727272727273,Andrea,6.0,0.6666666666666666
+Andrea,Aubry,6.0,1.0,Ozzy,4.0,1.0,Sarah,8.0,0.75,Zeke,6.0,0.6666666666666666,Cirie,6.0,0.6666666666666666
+Sierra,Brad,7.0,1.0,Debbie,5.0,1.0,Troyzan,5.0,1.0,Tai,7.0,0.7142857142857143,Sarah,5.0,0.6
+Zeke,Sarah,6.0,0.8333333333333334,Tai,6.0,0.8333333333333334,Ozzy,4.0,0.75,Debbie,4.0,0.75,Andrea,6.0,0.6666666666666666
+Debbie,Tai,6.0,1.0,Brad,5.0,1.0,Sierra,5.0,1.0,Sarah,4.0,0.75,Zeke,4.0,0.75
+Ozzy,Andrea,4.0,1.0,Sarah,4.0,0.75,Tai,4.0,0.75,Zeke,4.0,0.75,,,
+Hali,Michaela,4.0,0.75,Aubry,4.0,0.5,,,,,,,,,
+Jeff,Michaela,4.0,1.0,Sandra,5.0,0.8,Aubry,4.0,0.75,,,,,,
+Sandra,Jeff,5.0,0.8,Michaela,4.0,0.75,Aubry,4.0,0.5,,,,,,

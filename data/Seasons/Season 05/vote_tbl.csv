@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,9,10,12,13,14,14,14,14
+Voted out:,John,Tanya,Jed,Ghandia,Stephanie,Robb,Shii Ann,Erin,Ken,Penny,Jake,Ted,Helen,Jan,Clay,Brian
+Vote:,6-1-1,5-2,5-3,4-2,5-2,5-1,4-1,3-1,5-3,4-2-1,5-1,4-1,3-1,1-0,4-3,4-3
+Brian,John,Tanya,-,Ghandia,-,-,-,-,Ken,Penny,Jake,Ted,Helen,Jan,Jury Vote,Jury Vote
+Clay,John,Tanya,-,Ghandia,-,-,-,-,Ken,Jake,Jake,Ted,Helen,None,Jury Vote,Jury Vote
+Jan,John,Tanya,-,Clay,-,-,-,-,Ken,Penny,Jake,Ted,Helen,None,,Brian
+Helen,Clay,Tanya,-,Ghandia,-,-,-,-,Ken,Penny,Jake,Ted,Jan,,,Brian
+Ted,John,Tanya,-,Ghandia,-,-,-,-,Ken,Penny,Jake,Jan,,,,Brian
+Jake,-,-,Jed,-,Stephanie,Robb,Shii Ann,Erin,Ted,Jan,Jan,,,,,Brian
+Penny,-,-,Jed,-,Stephanie,Robb,Shii Ann,Erin,Ted,Jake,,,,,Clay,
+Ken,-,-,Jed,-,Stephanie,Robb,Shii Ann,Erin,Ted,,,,,,Clay,
+Erin,-,-,Jed,-,Stephanie,Robb,Shii Ann,Ken,,,,,,,Clay,
+Shii Ann,-,-,Jed,-,Stephanie,Robb,Penny,,,,,,,,,
+Robb,-,-,Shii Ann,-,Shii Ann,Shii Ann,,,,,,,,,,
+Stephanie,-,-,Shii Ann,-,Shii Ann,,,,,,,,,,,
+Ghandia,John,Helen,-,Clay,,,,,,,,,,,,
+Jed,-,-,Shii Ann,,,,,,,,,,,,,
+Tanya,John,Helen,,,,,,,,,,,,,,
+John,Ghandia,,,,,,,,,,,,,,,

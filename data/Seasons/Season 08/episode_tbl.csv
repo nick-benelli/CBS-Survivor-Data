@@ -1,0 +1,22 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""They're Back!""","February 1, 2004",None,"['Chapera', 'Mogo Mogo']","['Tina', '4-2']",1st Voted OutDay 3,33.27,14.9/37,"['Chapera', 'Mogo Mogo']"
+1,2,"""Panicked, Desperate, Thirsty as Hell""","February 5, 2004",Saboga,"['Chapera', 'Mogo Mogo']","['Rudy', '3-2']",2nd Voted OutDay 6,23.07,8.9/22,"['Chapera', 'Mogo Mogo']"
+2,3,"""Shark Attack""","February 12, 2004","['Chapera', 'Mogo Mogo']",None,"['Jenna M.', 'No Vote']",QuitDay 9,22.35,8.0/20,[]
+3,4,"""Wipe Out!""","February 19, 2004","['Chapera', 'Saboga']","['Saboga', 'Mogo Mogo']","['Rob C.', '5-1']",3rd Voted OutDay 12,22.80,8.7/22,"['Saboga', 'Mogo Mogo']"
+4,5,"""I've Been Bamboozled!""","February 26, 2004","['Mogo Mogo', 'Chapera']",Chapera,"['Richard', '6-1']",4th Voted OutDay 15,22.19,8.6/23,['Chapera']
+5,6,"""Outraged""","March 4, 2004",Mogo Mogo,None,"['Susan', 'No Vote']",QuitDay 17,23.22,8.7/23,[]
+6,7,"""Sorry... I Blew It""","March 11, 2004","['Chapera', '[Kathy]']","['Chapera', '[Kathy]']","['Colby', '3-2']",5th Voted OutDay 19,22.63,8.7/23,"['Chapera', '']"
+7,8,"""Pick a Tribemate""","March 17, 2004",Chapera,Chapera,"['Ethan', '4-1']",6th Voted OutDay 21,21.89,8.5/22,['Chapera']
+8,9,"""A Closer Look""","March 24, 2004",Recap Episode,Recap Episode,Recap Episode,Recap Episode,N/A,N/A,['Recap Episode']
+9,10,"""Mad Scramble and Broken Hearts""","April 1, 2004",None,Mogo Mogo,"['Jerri', '4-1']",7th Voted OutDay 24,21.70,8.3/23,['Mogo Mogo']
+10,11,"""Anger, Tears and Chaos""","April 8, 2004","Rupert[Amber,Jenna L.]","['Kathy', 'Rob M.']","['Lex', '7-2']",8th Voted Out1st Jury MemberDay 27,20.76,7.9/24,"['Kathy', 'Rob M.']"
+11,12,"""A Thoughtful Gesture or a Deceptive Plan""","April 15, 2004","Alicia,Amber,Rob M.,Shii Ann",Rob M.,"['Kathy', '6-2']",9th Voted Out2nd Jury MemberDay 28,20.78,7.5/21,['Rob M.']
+12,13,"""Stupid People, Stupid, Stupid People""","April 22, 2004",Rupert,Shii Ann,"['Alicia', '6-1']",10th Voted Out3rd Jury MemberDay 30,20.99,7.6/22,['Shii Ann']
+13,14,"""A Chapera Surprise""","April 29, 2004",Tom[Rob M.],Tom,"['Shii Ann', '5-1']",11th Voted Out4th Jury MemberDay 33,20.78,7.5/21,['Tom']
+14,15,"""The Instigator""","May 6, 2004",Rob M.[Amber],Rob M.,"['Tom', '4-1']",12th Voted Out5th Jury MemberDay 36,19.21,7.2/20,['Rob M.']
+15,16,"""The Sole Surviving All-Star""","May 9, 2004",None,Amber,"['Rupert', '3-1']",13th Voted Out6th Jury MemberDay 37,24.8,8.2/23,['Amber']
+16,16,"""The Sole Surviving All-Star""","May 9, 2004",None,Rob M.,"['Jenna L.', '1-0']",14th Voted Out7th Jury MemberDay 38,24.8,8.2/23,['Rob M.']
+17,16,"""The Sole Surviving All-Star""","May 9, 2004",Jury Vote,Jury Vote,"['Rob M.', '4-3']",Runner-Up,24.8,8.2/23,[]
+18,16,"""The Sole Surviving All-Star""","May 9, 2004",Jury Vote,Jury Vote,"['Amber', '4-3']",Sole Survivor,24.8,8.2/23,[]
+19,17,"""Reunion""","May 9, 2004",,,,,28.36,12.8/29,[]
+20,18,"""America's Tribal Council""","May 13, 2004",Public Vote,Public Vote,"['Rupert', '26%']",Fan Favorite,N/A,N/A,['Public Vote']

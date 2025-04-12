@@ -1,0 +1,21 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Expanded Tribe,Tribe Affiliation Switched Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Ciera Eastin,Ciera,"['Blood vs. Water', 'Cambodia']",27,Salem,OR,,Mana,,,,1st Voted OutDay 3,9,20.0,True,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,9
+1,Tony Vlachos,Tony,['Cagayan'],42,Jersey City,NJ,,Mana,,,,2nd Voted OutDay 6,7,19.0,True,False,False,2,False,2,0,0,0,3,2,0,2,0,1,1,0.0,,0,7
+2,Caleb Reynolds,Caleb,['Kaôh Rōng'],28,Hopkinsville,KY,,Mana,Mana,,,3rd Voted OutDay 9,5,18.0,True,False,False,3,False,3,0,0,0,4,3,0,3,0,2,1,0.0,,0,5
+3,Malcolm Freberg,Malcolm,"['Philippines', 'Caramoan']",29,Hermosa Beach,CA,,Mana,Nuku,,,4th Voted OutDay 11,5,17.0,True,False,False,4,False,4,1,0,0,5,4,1,3,0,2,1,0.125,,0,5
+4,J.T. Thomas,J.T.,"['Tocantins', 'Heroes vs. Villains']",31,Mobile,AL,,Nuku,Nuku,,,5th Voted OutDay 13,3,16.0,True,False,False,5,False,5,3,0,0,6,5,3,2,0,0,2,0.5,,0,3
+5,Sandra Diaz-Twine,Sandra,"['Pearl Islands', 'Heroes vs. Villains']",41,Fayetteville,NC,,Mana,Nuku,Nuku,,6th Voted OutDay 16,5,15.0,True,False,False,6,False,6,1,1,0,7,6,1,5,0,2,3,0.07142857142857142,,0,5
+6,Jeff Varner,Jeff,"['The Australian Outback', 'Cambodia']",50,High Point,NC,,Mana,Nuku,Nuku,,7th Voted OutDay 18,6,14.0,True,False,False,7,False,7,1,1,0,8,7,1,5,1,3,2,0.0625,,0,6
+7,Hali Ford,Hali,['Worlds Apart'],26,Knoxville,TN,,Mana,Mana,Mana,Maku Maku,8th Voted Out1st Jury MemberDay 21,8,13.0,True,False,False,8,True,7,3,2,0,9,8,3,5,0,4,1,0.23333333333333334,0.0,0,8
+8,Ozzy Lusth,Ozzy,"['Cook Islands', 'Micronesia', 'South Pacific']",34,Venice,CA,,Nuku,Tavua,Nuku,Maku Maku,9th Voted Out2nd Jury MemberDay 24,7,12.0,True,False,False,9,True,7,5,3,0,10,9,5,4,0,3,1,0.5,0.0,0,6
+9,Debbie Wanner,Debbie,['Kaôh Rōng'],50,Reading,PA,,Nuku,Mana,Nuku,Maku Maku,10th Voted Out3rd Jury MemberDay 26,6,11.0,True,False,False,10,True,7,3,4,1,11,10,3,6,1,5,1,0.2818181818181818,0.0,0,6
+10,Zeke Smith,Zeke,['Millennials vs. Gen X'],28,Brooklyn,NY,,Nuku,Tavua,Nuku,Maku Maku,11th Voted Out4th Jury MemberDay 29,11,10.0,True,False,False,11,True,7,5,5,0,12,11,5,6,0,3,3,0.4166666666666667,0.0,0,11
+11,Sierra Dawn Thomas,Sierra,['Worlds Apart'],29,Roy,UT,,Nuku,Mana,Mana,Maku Maku,12th Voted Out5th Jury MemberDay 32,15,9.0,True,False,False,12,True,7,5,6,0,13,12,5,7,0,4,3,0.3153846153846154,0.0,0,15
+12,Andrea Boehlke,Andrea,"['Redemption Island', 'Caramoan']",27,New York City,NY,,Nuku,Tavua,Nuku,Maku Maku,13th Voted Out6th Jury MemberDay 33,14,8.0,True,False,False,13,True,7,5,7,2,14,13,5,8,0,5,3,1.8571428571428572,3.5,0,14
+13,Michaela Bradshaw,Michaela,['Millennials vs. Gen X'],25,Fort Worth,TX,,Mana,Nuku,Mana,Maku Maku,14th Voted Out7th Jury MemberDay 35,11,7.0,True,False,False,14,True,7,3,8,0,15,14,3,11,0,7,4,0.14,0.0,0,10
+14,Cirie Fields,Cirie,"['Panama', 'Micronesia', 'Heroes vs. Villains']",45,Norwalk,CT,,Nuku,Tavua,Mana,Maku Maku,Eliminated8th Jury MemberDay 36,0,6.0,True,False,False,15,True,7,7,9,0,16,15,7,8,0,4,4,0.4125,0.0,0,0
+15,Aubry Bracco,Aubry,['Kaôh Rōng'],30,Cambridge,MA,,Mana,Nuku,Mana,Maku Maku,15th Voted Out9th Jury MemberDay 37,9,5.0,True,False,False,16,True,7,3,10,1,17,16,3,13,0,6,7,0.5352941176470588,0.7777777777777778,0,9
+16,Tai Trang,Tai,['Kaôh Rōng'],52,San Francisco,CA,,Nuku,Mana,Nuku,Maku Maku,16th Voted Out10th Jury MemberDay 38,12,4.0,True,False,False,17,True,7,3,11,1,18,17,3,13,1,9,4,0.75,1.1,0,12
+17,Troyzan Robertson,Troyzan,['One World'],54,Miami,FL,,Mana,Tavua,Mana,Maku Maku,SecondRunner-Up,2,3.0,True,False,True,18,True,7,5,11,1,19,17,5,12,0,8,4,0.8111111111111111,1.0,0,2
+18,Brad Culpepper,Brad,['Blood vs. Water'],47,Tampa,FL,,Nuku,Mana,Mana,Maku Maku,Runner-Up,2,2.0,True,False,True,18,True,7,5,11,5,19,17,5,12,0,8,4,1.6722222222222223,2.6,3,2
+19,Sarah Lacina,Sarah,['Cagayan'],31,Marion,IA,,Nuku,Tavua,Nuku,Maku Maku,Sole Survivor,3,1.0,True,True,True,18,True,7,5,11,0,19,17,5,12,0,10,2,0.2777777777777778,0.0,7,3

@@ -1,0 +1,14 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Earl,Yau-Man,9.0,0.8888888888888888,Stacy,4.0,0.75,Cassandra,6.0,0.6666666666666666,Dreamz,6.0,0.6666666666666666,Mookie,5.0,0.6
+Cassandra,Dreamz,7.0,0.8571428571428571,Boo,6.0,0.6666666666666666,Earl,6.0,0.6666666666666666,Stacy,5.0,0.6,Yau-Man,6.0,0.5
+Dreamz,Cassandra,7.0,0.8571428571428571,Boo,6.0,0.8333333333333334,Stacy,6.0,0.8333333333333334,Edgardo,5.0,0.8,Alex,8.0,0.75
+Yau-Man,Earl,9.0,0.8888888888888888,Michelle,4.0,0.75,Anthony,4.0,0.75,Stacy,4.0,0.75,Mookie,6.0,0.6666666666666666
+Boo,Dreamz,6.0,0.8333333333333334,Stacy,5.0,0.8,Cassandra,6.0,0.6666666666666666,Alex,4.0,0.5,Earl,5.0,0.4
+Stacy,Dreamz,6.0,0.8333333333333334,Boo,5.0,0.8,Earl,4.0,0.75,Yau-Man,4.0,0.75,Cassandra,5.0,0.6
+Alex,Edgardo,5.0,1.0,Dreamz,8.0,0.75,Mookie,6.0,0.5,Boo,4.0,0.5,Stacy,5.0,0.4
+Mookie,Rocky,6.0,0.8333333333333334,Rita,4.0,0.75,Edgardo,4.0,0.75,Yau-Man,6.0,0.6666666666666666,Earl,5.0,0.6
+Edgardo,Alex,5.0,1.0,Dreamz,5.0,0.8,Mookie,4.0,0.75,,,,,,
+Michelle,Yau-Man,4.0,0.75,Rita,4.0,0.75,Mookie,5.0,0.6,Anthony,4.0,0.5,Rocky,4.0,0.25
+Rocky,Mookie,6.0,0.8333333333333334,Yau-Man,4.0,0.5,Rita,4.0,0.5,Michelle,4.0,0.25,Anthony,5.0,0.2
+Anthony,Yau-Man,4.0,0.75,Michelle,4.0,0.5,Mookie,5.0,0.4,Rita,4.0,0.25,Rocky,5.0,0.2
+Rita,Mookie,4.0,0.75,Michelle,4.0,0.75,Yau-Man,4.0,0.5,Rocky,4.0,0.5,Anthony,4.0,0.25

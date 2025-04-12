@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tiebreak_8,Tribal_8,Tiebreak_9,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tiebreak_17,Tiebreak_17,Tribal_17,Tribal_18,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,8,9,9,10,11,12,13,14,15,16,17,17,17,18,19,19
+Tribe Status:,Tribe Selection,Tribe Selection,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption,Tribe Absorption
+Episode #:,1,1,1,2,3,4,5,5,5,6,6,7,8,9,10,11,12,13,14,14,14,14,14,14
+Voted out:,Jonathan,Wanda,Jolanda,Ashlee,Jeff,Kim,Willard,Tie,Angie,Tie,James,Ibrehem,Bobby Jon,Coby,Janu,Stephenie,Gregg,Caryn,Tie,Deadlock,Jenn,Ian,Katie,Tom
+Vote:,No Vote,No Vote,6-3,6-1-1,4-2-1,5-1,8-1,2-2-1,3-0,2-2,2-0,2-1,No Vote,7-1-1,No Vote,6-1,4-2,4-1,2-2,1-1,Tiebreaker,1-0,6-1,6-1
+Tom,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Coby,-,Stephenie,Gregg,Caryn,Ian,Ian,-,Ian,Jury Vote,Jury Vote
+Katie,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Coby,-,Stephenie,Gregg,Caryn,Jenn,Jenn,-,None,Jury Vote,Jury Vote
+Ian,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Coby,-,Stephenie,Gregg,Caryn,Jenn,None,-,None,,Tom
+Jenn,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Coby,-,Stephenie,Caryn,Caryn,Ian,None,Voted out,,,Tom
+Caryn,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Coby,-,Stephenie,Gregg,Ian,,,,,,Tom
+Gregg,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Coby,-,Stephenie,Caryn,,,,,,,Tom
+Stephenie,-,-,Jolanda,Ashlee,Jeff,Kim,-,Bobby Jon,Angie,Ibrehem,James,Ibrehem,-,Coby,-,Caryn,,,,,,,,Tom
+Janu,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Stephenie,Quit,,,,,,,,,Tom
+Coby,-,-,-,-,-,-,Willard,-,-,-,-,-,-,Janu,,,,,,,,,Katie,
+Bobby Jon,-,-,Angie,Ashlee,Kim,Kim,-,Angie,None,James,James,Ibrehem,Eliminated,,,,,,,,,,,
+Ibrehem,-,-,Angie,Kim,Jeff,Kim,-,James,Angie,James,None,Stephenie,,,,,,,,,,,,
+James,-,-,Jolanda,Ashlee,Kim,Kim,-,Angie,Angie,Ibrehem,None,,,,,,,,,,,,,
+Angie,-,-,Jolanda,Ashlee,Jeff,Kim,-,Bobby Jon,None,,,,,,,,,,,,,,,
+Willard,-,-,-,-,-,-,Katie,,,,,,,,,,,,,,,,,
+Kim,-,-,Jolanda,Ashlee,Jeff,James,,,,,,,,,,,,,,,,,,
+Jeff,-,-,Jolanda,Ashlee,James,,,,,,,,,,,,,,,,,,,
+Ashlee,-,-,Jolanda,Jeff,,,,,,,,,,,,,,,,,,,,
+Jolanda,-,-,Angie,,,,,,,,,,,,,,,,,,,,,
+Jonathan,Eliminated,Eliminated,,,,,,,,,,,,,,,,,,,,,,
+Wanda,Eliminated,Eliminated,,,,,,,,,,,,,,,,,,,,,,

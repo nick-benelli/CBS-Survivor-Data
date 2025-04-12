@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Denise,Jeff,4.0,1.0,Malcolm,12.0,0.9166666666666666,Michael,8.0,0.875,Carter,8.0,0.75,Lisa,8.0,0.75
+Lisa,Michael,8.0,0.875,Denise,8.0,0.75,Pete,4.0,0.75,Malcolm,8.0,0.625,Abi-Maria,7.0,0.5714285714285714
+Michael,Denise,8.0,0.875,Lisa,8.0,0.875,Malcolm,8.0,0.75,Carter,6.0,0.5,Pete,4.0,0.5
+Malcolm,Denise,12.0,0.9166666666666666,Michael,8.0,0.75,Russell,4.0,0.75,Carter,6.0,0.6666666666666666,Lisa,8.0,0.625
+Abi-Maria,Pete,4.0,1.0,Lisa,7.0,0.5714285714285714,Michael,7.0,0.42857142857142855,Carter,6.0,0.3333333333333333,Denise,7.0,0.2857142857142857
+Carter,Jeff,4.0,1.0,Jonathan,7.0,0.8571428571428571,Denise,8.0,0.75,Malcolm,6.0,0.6666666666666666,Michael,6.0,0.5
+Jonathan,Carter,7.0,0.8571428571428571,Jeff,4.0,0.75,Denise,7.0,0.7142857142857143,Malcolm,5.0,0.6,Michael,5.0,0.4
+Pete,Abi-Maria,4.0,1.0,Lisa,4.0,0.75,Michael,4.0,0.5,Denise,4.0,0.25,Malcolm,4.0,0.25
+Jeff,Denise,4.0,1.0,Carter,4.0,1.0,Jonathan,4.0,0.75,,,,,,
+Russell,Denise,4.0,0.75,Malcolm,4.0,0.75,,,,,,,,,

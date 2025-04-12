@@ -1,0 +1,19 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewership(in millions),Rating/Share(18-49),Immunity_2
+0,1,"""Survivor Smacked Me in the Chops""","September 19, 2012","['Kalabaw', 'Tandang']","['Kalabaw', 'Tandang']","['Zane', '5-1']",1st Voted OutDay 3,11.37,3.2/10,"['Kalabaw', 'Tandang']"
+1,2,"""Don't Be Blinded by the Headlights""","September 26, 2012","['Tandang', 'Kalabaw']","['Tandang', 'Kalabaw']","['Roxy', '4-1']",2nd Voted OutDay 6,10.31,3.1/9,"['Tandang', 'Kalabaw']"
+2,3,"""This Isn't a 'We' Game""","October 3, 2012","['Kalabaw', 'Tandang']","['Kalabaw', 'Tandang']","['Angie', '3-1']",3rd Voted OutDay 8,10.38,3.0/9,"['Kalabaw', 'Tandang']"
+3,4,"""Create a Little Chaos""","October 10, 2012","['Tandang', 'Kalabaw']","['Tandang', 'Kalabaw']","['Russell', '2-1']",4th Voted OutDay 10,9.82,2.8/8,"['Tandang', 'Kalabaw']"
+4,5,"""Got My Swag Back""","October 17, 2012",Tandang,Tandang,"['Dana', 'No Vote']",QuitDay 12,10.43,2.8/8,['Tandang']
+5,5,"""Got My Swag Back""","October 17, 2012",Tandang,Tandang,"['Dawson', '5-1']",5th Voted OutDay 13,10.43,2.8/8,['Tandang']
+6,6,"""Down and Dirty""","October 24, 2012",Kalabaw,Tandang,"['Katie', '4-1']",6th Voted OutDay 16,10.23,2.8/8,['Tandang']
+7,7,"""Not the Only Actor on This Island""","October 31, 2012",None,"['Denise', 'Carter']","['RC', '4-2-0']",7th Voted Out1st Jury MemberDay 19,9.83,2.5/8,"['Denise', 'Carter']"
+8,8,"""Dead Man Walking""","November 7, 2012","Denise,Jeff,Jonathan,Lisa,Malcolm",Jonathan,"['Jeff', '5-4-1']",8th Voted Out2nd Jury MemberDay 22,10.31,2.8/8,['Jonathan']
+9,9,"""Little Miss Perfect""","November 14, 2012","Carter,Denise,Jonathan,Malcolm",Michael,"['Artis', '5-4']",9th Voted Out3rd Jury MemberDay 25,10.06,2.6/8,['Michael']
+10,10,"""Whiners Are Wieners""","November 21, 2012","Abi-Maria,Carter,Malcolm,Pete",Carter,"['Pete', '3-2-0']",10th Voted Out4th Jury MemberDay 27,9.37,2.3/8,['Carter']
+11,11,"""Hell Hath Frozen Over""","November 28, 2012",SurvivorAuction,Abi-Maria,"['Jonathan', '4-3']",11th Voted Out5th Jury MemberDay 30,10.37,2.7/8,['Abi-Maria']
+12,12,"""Shot into Smithereens""","December 5, 2012","Malcolm[Lisa,Michael]",Malcolm,"['Carter', '5-1']",12th Voted Out6th Jury MemberDay 33,10.64,2.9/8,['Malcolm']
+13,13,"""Gouge My Eyes Out""","December 12, 2012","Michael[Lisa,Malcolm]",Malcolm,"['Abi-Maria', '4-1']",13th Voted Out7th Jury MemberDay 36,10.37,2.8/8,['Malcolm']
+14,14,"""Million Dollar Question""","December 16, 2012",Malcolm,Michael,"['Malcolm', '3-1']",14th Voted Out8th Jury MemberDay 38,11.46,3.2/8,['Michael']
+15,14,"""Million Dollar Question""","December 16, 2012",Jury Vote,Jury Vote,"['MichaelLisa', '6-1-1']",Runners-Up,11.46,3.2/8,[]
+16,14,"""Million Dollar Question""","December 16, 2012",Jury Vote,Jury Vote,"['Denise', '6-1-1']",Sole Survivor,11.46,3.2/8,[]
+17,15,"""Reunion""","December 16, 2012",Jury Vote,Jury Vote,,,8.77,2.3/N/A,[]

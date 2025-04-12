@@ -1,0 +1,21 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Marisa Calihan,Marisa,[],25,Cincinnati,OH,Student,Foa Foa,,1st Voted OutDay 3,7,20.0,False,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,7
+1,Mike Borassi,Mike,[],62,Marina del Rey,CA,Personal Chef,Foa Foa,,EvacuatedDay 5,0,19.0,False,False,False,2,False,2,0,0,0,3,1,0,1,0,1,0,0.0,,0,0
+2,Betsy Bolan,Betsy,[],48,Campton,NH,Police Officer,Foa Foa,,2nd Voted OutDay 6,7,18.0,False,False,False,3,False,3,0,0,0,4,2,0,2,0,0,2,0.0,,0,7
+3,Ben Browning,Ben,[],28,Los Angeles,CA,Bar Manager,Foa Foa,,3rd Voted OutDay 8,7,17.0,False,False,False,4,False,4,0,0,0,5,3,0,3,0,2,1,0.0,,0,7
+4,Yasmin Giles,Yasmin,[],33,Los Angeles,CA,Hairstylist,Galu,,4th Voted OutDay 11,8,16.0,False,False,False,5,False,5,4,0,0,6,4,3,1,0,0,1,0.8,,0,8
+5,Ashley Trainer,Ashley,[],22,Maple Grove,MN,Spa Saleswoman,Foa Foa,,5th Voted OutDay 14,9,15.0,False,False,False,6,False,6,1,0,0,7,5,1,4,0,3,1,0.16666666666666666,,0,9
+6,Russell Swan,Russell S.,[],42,Glenside,PA,Attorney,Galu,,EvacuatedDay 15,0,14.0,False,False,False,7,False,6,5,0,0,8,5,4,1,0,1,0,0.8333333333333334,,0,0
+7,Liz Kim,Liz,[],33,New York City,NY,Urban Planner,Foa Foa,,6th Voted OutDay 18,5,13.0,False,False,False,8,False,7,1,0,0,9,6,1,5,0,4,1,0.14285714285714285,,0,5
+8,Erik Cardona,Erik,[],28,Los Angeles,CA,Bartender,Galu,Aiga,7th Voted Out1st Jury MemberDay 21,10,12.0,False,False,False,9,True,7,6,1,0,10,7,5,2,0,1,1,0.75,0.0,0,10
+9,Kelly Sharbaugh,Kelly,[],25,San Diego,CA,Hairstylist,Galu,Aiga,8th Voted Out2nd Jury MemberDay 24,4,11.0,False,False,False,10,True,7,6,2,0,11,8,5,3,0,2,1,0.6666666666666666,0.0,0,4
+10,Laura Morett,Laura,[],39,Salem,OR,Office Manager,Galu,Aiga,9th Voted Out3rd Jury MemberDay 27,10,10.0,False,False,False,11,True,7,6,3,2,12,9,5,4,0,2,2,2.1,5.0,0,5
+11,John Fincher,John,[],25,Santa Monica,CA,Rocket Scientist,Galu,Aiga,10th Voted Out4th Jury MemberDay 30,7,9.0,False,False,False,12,True,7,6,4,1,13,10,5,5,0,2,3,1.0,1.25,0,7
+12,Dave Ball,Dave,[],38,Los Angeles,CA,Fitness Instructor,Galu,Aiga,11th Voted Out5th Jury MemberDay 31,8,8.0,False,False,False,13,True,7,6,5,0,14,11,5,6,0,3,3,0.5,0.0,0,8
+13,Monica Padilla,Monica,[],24,San Diego,CA,Law Student,Galu,Aiga,12th Voted Out6th Jury MemberDay 33,7,7.0,False,False,False,14,True,7,6,6,0,15,12,5,7,0,4,3,0.46153846153846156,0.0,0,7
+14,Shambo Waters,Shambo,[],45,Renton,WA,Saleswoman,Galu,Aiga,13th Voted Out7th Jury MemberDay 36,6,6.0,False,False,False,15,True,7,6,7,0,16,13,5,8,0,3,5,0.42857142857142855,0.0,0,6
+15,Jaison Robinson,Jaison,[],28,Chicago,IL,Law Student,Foa Foa,Aiga,14th Voted Out8th Jury MemberDay 37,7,5.0,False,False,False,16,True,7,1,8,2,17,14,1,13,0,12,1,1.0666666666666667,1.875,0,7
+16,Brett Clouser,Brett,[],23,Los Angeles,CA,T-shirt Designer,Galu,Aiga,15th Voted Out9th Jury MemberDay 38,3,4.0,False,False,False,17,True,7,6,9,3,18,15,5,10,0,6,4,1.3125,1.6666666666666667,0,3
+17,Mick Trimming,Mick,[],33,Los Angeles,CA,Doctor,Foa Foa,Aiga,SecondRunner-Up,4,3.0,False,False,True,18,True,7,1,9,1,19,15,1,14,0,13,1,0.625,1.0,0,4
+18,Russell Hantz,Russell H.,[],36,Dayton,TX,Oil Company Owner,Foa Foa,Aiga,Runner-Up,9,2.0,False,False,True,18,True,7,1,9,1,19,15,1,14,0,14,0,0.25,0.3333333333333333,2,9
+19,Natalie White,Natalie,[],26,Van Buren,AR,Pharmaceutical Saleswoman,Foa Foa,Aiga,Sole Survivor,8,1.0,False,True,True,18,True,7,1,9,0,19,15,1,14,0,14,0,0.0625,0.0,7,5

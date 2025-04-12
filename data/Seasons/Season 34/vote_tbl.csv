@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tiebreak_15,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,1,2,3,4,5,6,7,7,8,9,10,11,11,12,12,12,12,12,12,12
+Voted out:,Ciera,Tony,Caleb,Malcolm,J.T.,Sandra,Jeff,Hali,Ozzy,Debbie,Zeke,Sierra,Andrea,Michaela,Null,Cirie,Aubry,Tai,Troyzan,Brad,Sarah
+Vote:,9-1,7-2,5-1,5-0,3-2,5-2,6-0,7-4-2,7-4-1-1,6-5,5-3-2,6-3,6-2,4-2-1,0-0-0,Default,4-1,3-1,7-3-0,7-3-0,7-3-0
+Sarah,-,-,-,-,-,Sandra,Jeff,Michaela,Ozzy,Debbie,Zeke,Sierra,Andrea,Michaela,Tai,-,Aubry,Tai,Jury Vote,Jury Vote,Jury Vote
+Brad,-,-,Caleb,Malcolm,-,-,-,Hali,Ozzy,Andrea,Tai,Andrea,Andrea,Michaela,Aubry,-,Aubry,Tai,Jury Vote,Jury Vote,Jury Vote
+Troyzan,Ciera,Tony,-,-,-,-,-,Hali,Ozzy,Andrea,Tai,Andrea,Andrea,Michaela,Tai,-,Aubry,Tai,Jury Vote,Jury Vote,Jury Vote
+Tai,-,-,Caleb,Malcolm,-,Sandra,Jeff,Hali,Ozzy,Andrea,Sierra,Sierra,Andrea,None,Sarah,-,Aubry,Troyzan,,,Sarah
+Aubry,Ciera,Tony,-,Sierra,Michaela,-,-,Hali,Zeke,Debbie,Zeke,Sierra,Brad,Tai,Sarah,-,Troyzan,,,,Sarah
+Cirie,-,-,-,-,-,-,-,Michaela,Sierra,Debbie,Zeke,Sierra,Andrea,Aubry,Sarah,Eliminated,,,,,Sarah
+Michaela,Ciera,Tony,-,Sierra,J.T.,-,-,Zeke,Zeke,Debbie,Zeke,Sierra,Andrea,Tai,,,,,,,Sarah
+Andrea,-,-,-,-,-,Sandra,Jeff,Michaela,Zeke,Debbie,Zeke,Sierra,Brad,,,,,,,,Sarah
+Sierra,-,-,Caleb,Malcolm,-,-,-,Hali,Ozzy,Andrea,Tai,Andrea,,,,,,,,Brad,
+Zeke,-,-,-,-,-,Sandra,Jeff,Michaela,Aubry,Debbie,Sierra,,,,,,,,,,Sarah
+Debbie,-,-,Caleb,Malcolm,-,Exiled,Jeff,Hali,Ozzy,Andrea,,,,,,,,,,Brad,
+Ozzy,-,-,-,-,-,Sandra,Jeff,Hali,Zeke,,,,,,,,,,,Brad,
+Hali,Ciera,Tony,Caleb,Malcolm,-,-,-,Zeke,,,,,,,,,,,,,Sarah
+Jeff,Ciera,Tony,-,Sierra,J.T.,Tai,None,,,,,,,,,,,,,,
+Sandra,Ciera,Aubry,-,Sierra,J.T.,Tai,,,,,,,,,,,,,,,
+J.T.,-,-,-,Sierra,Michaela,,,,,,,,,,,,,,,,
+Malcolm,Ciera,Tony,-,Sierra,,,,,,,,,,,,,,,,,
+Caleb,Ciera,Tony,Hali,,,,,,,,,,,,,,,,,,
+Tony,Ciera,Aubry,,,,,,,,,,,,,,,,,,,
+Ciera,Michaela,,,,,,,,,,,,,,,,,,,,

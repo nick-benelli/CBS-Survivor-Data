@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tiebreak_13,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,13,14,15,15
+Tribe Status:,OriginalTribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,8,9,10,11,12,13,14,15,15,15,15
+Voted out:,Tina,Melinda,Misty,Ruth Marie,Bobby,Dan,Nick,Austin,Sally,Bruce,Courtney,Shane,Tie,Cirie,Terry,Danielle,Aras
+Vote:,3-1,5-2,5-2,4-2,3-2-1-1,3-1,6-4,6-3,6-2,No Vote,3-2-1,3-1-1,2-2,Tiebreaker,1-0,5-2,5-2
+Aras,-,Melinda,-,-,Bruce,-,Nick,Austin,Sally,-,Courtney,Shane,Danielle,-,None,Jury Vote,Jury Vote
+Danielle,-,Melinda,-,-,Bobby,-,Nick,Austin,Sally,-,Courtney,Shane,Cirie,-,Terry,Jury Vote,Jury Vote
+Terry,-,-,Misty,Ruth Marie,-,Dan,Shane,Aras,Aras,-,Aras,Aras,Cirie,-,None,,Aras
+Cirie,Tina,Shane,-,-,Bobby,-,Nick,Austin,Sally,-,Courtney,Shane,Danielle,Voted out,,,Aras
+Shane,-,Melinda,-,-,Aras,-,Nick,Austin,Sally,-,Danielle,Danielle,,,,Danielle,
+Courtney,-,Melinda,-,-,Bobby,-,Nick,Austin,Sally,-,Aras,,,,,,Aras
+Bruce,-,Exiled,-,-,Courtney,-,Nick,Austin,Sally,Evacuated,,,,,,Danielle,
+Sally,-,-,Ruth Marie,Ruth Marie,-,Exiled,Shane,Aras,Aras,,,,,,,,Aras
+Austin,-,-,Misty,Ruth Marie,-,Dan,Shane,Aras,,,,,,,,,Aras
+Nick,-,-,Misty,Ruth Marie,-,Dan,Shane,,,,,,,,,,
+Dan,-,-,Misty,Sally,-,Austin,,,,,,,,,,,
+Bobby,-,Melinda,-,-,Bruce,,,,,,,,,,,,
+Ruth Marie,Tina,-,Misty,Sally,,,,,,,,,,,,,
+Misty,-,-,Ruth Marie,,,,,,,,,,,,,,
+Melinda,Tina,Shane,,,,,,,,,,,,,,,
+Tina,Cirie,,,,,,,,,,,,,,,,

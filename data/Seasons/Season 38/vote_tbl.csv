@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tiebreak_6,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,6,7,8,9,10,11,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,5,5,6,7,8,9,9,10,11,12,13,13,13,13,13,13
+Voted out:,Reem,Keith,Chris,Rick,Aubry,Tie,Wendy,Joe,Eric,Julia,David,Kelley,Wardog,Ron,Aurora,Victoria,Lauren,Rick,Julie,Gavin,Chris
+Vote:,4-3-1-1,6-1-1,5-2,3-2,4-1,4-4,6-0,6-3-2-2,8-2-2,9-1-0,8-2,5-4,6-2,3-1-0,5-1,2-0-0,2-0,No Vote,9-4-0,9-4-0,9-4-0
+Chris,Reem,Keith,Kelley,,,,,,,,,,,,,Victoria,Lauren,-,Jury Vote,Jury Vote,Jury Vote
+Gavin,-,-,-,-,Aubry,Lauren,Wendy,Joe,Eric,Julia,David,Aurora,Wardog,Ron,Aurora,Rick,Chris,-,Jury Vote,Jury Vote,Jury Vote
+Julie,-,-,-,-,-,-,-,Joe,Lauren,Julia,David,Aurora,Wardog,Rick,Aurora,Rick,Chris,-,Jury Vote,Jury Vote,Jury Vote
+Rick,Reem,Keith,Chris,Lauren,,,,Kelley,Lauren,Julia,Wardog,Kelley,Aurora,Aurora,Aurora,Victoria,Lauren,Eliminated,,Gavin,
+Lauren,Wendy,Keith,Chris,Rick,-,Wendy,None,David,Eric,Julia,David,Aurora,Wardog,Ron,Aurora,Rick,Chris,,,Gavin,
+Victoria,-,-,-,-,Aubry,Lauren,Wendy,Joe,Eric,Julia,David,Kelley,Wardog,Rick,Aurora,Chris,,,,,Chris
+Aurora,-,-,-,-,-,-,-,Rick,Eric,David,David,Kelley,Wardog,Rick,Julie,Eliminated,,,,Gavin,
+Ron,-,-,-,-,-,-,-,Joe,Kelley,Julia,David,Kelley,Wardog,Rick,,Eliminated,,,,,Chris
+Wardog,Wendy,Keith,Chris,Rick,-,Wendy,Wendy,David,Eric,Julia,David,Kelley,Aurora,,,Eliminated,,,,,Chris
+Kelley,Wendy,Keith,Chris,Rick,-,Wendy,Wendy,David,Eric,Julia,David,Aurora,,,,Eliminated,,,,Gavin,
+David,Reem,Keith,Chris,Lauren,-,Wendy,Wendy,Kelley,Eric,Julia,Wardog,,,,,Eliminated,,,,,Chris
+Julia,-,-,-,-,-,-,-,Joe,Eric,Kelley,,,,,,Eliminated,,,,,Chris
+Eric,-,-,-,-,Aubry,Lauren,Wendy,Joe,Kelley,,,,,,,Eliminated,,,,,Chris
+Joe,-,-,-,-,-,-,-,Rick,,,,,,,,Eliminated,,,,,Chris
+Wendy,Lauren,Kelley,Kelley,-,Aubry,Lauren,None,Quit,,,,,,,,,,,,,
+Aubry,-,-,-,-,Wendy,,,,,,,,,,,Eliminated,,,,,Chris
+Keith,Reem,Wendy,,,,,,Quit,,,,,,,,,,,,,
+Reem,Kelley,,,,,,,,,,,,,,,Eliminated,,,,,Chris

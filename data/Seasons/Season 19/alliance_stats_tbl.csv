@@ -1,0 +1,13 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Natalie,Russell H.,14.0,1.0,Mick,14.0,0.9285714285714286,Jaison,13.0,0.9230769230769231,Liz,5.0,0.8,Ashley,4.0,0.75
+Russell H.,Natalie,14.0,1.0,Mick,14.0,0.9285714285714286,Jaison,13.0,0.9230769230769231,Liz,5.0,0.8,Ashley,4.0,0.75
+Mick,Natalie,14.0,0.9285714285714286,Russell H.,14.0,0.9285714285714286,Jaison,13.0,0.8461538461538461,Liz,5.0,0.6,Brett,9.0,0.5555555555555556
+Brett,Monica,7.0,1.0,Laura,4.0,1.0,Dave,6.0,0.8333333333333334,John,5.0,0.8,Natalie,9.0,0.5555555555555556
+Jaison,Natalie,13.0,0.9230769230769231,Russell H.,13.0,0.9230769230769231,Mick,13.0,0.8461538461538461,Liz,5.0,0.8,Ashley,4.0,0.75
+Shambo,Natalie,7.0,0.42857142857142855,Russell H.,7.0,0.42857142857142855,Mick,7.0,0.42857142857142855,Jaison,7.0,0.42857142857142855,John,5.0,0.4
+Monica,Brett,7.0,1.0,Laura,4.0,1.0,Dave,6.0,0.8333333333333334,John,5.0,0.8,Natalie,6.0,0.5
+Dave,Laura,4.0,1.0,Brett,6.0,0.8333333333333334,Monica,6.0,0.8333333333333334,John,5.0,0.8,Natalie,5.0,0.4
+John,Laura,4.0,1.0,Brett,5.0,0.8,Monica,5.0,0.8,Dave,5.0,0.8,Shambo,5.0,0.4
+Laura,Brett,4.0,1.0,Monica,4.0,1.0,Dave,4.0,1.0,John,4.0,1.0,Shambo,4.0,0.25
+Liz,Natalie,5.0,0.8,Russell H.,5.0,0.8,Jaison,5.0,0.8,Ashley,4.0,0.75,Mick,5.0,0.6
+Ashley,Natalie,4.0,0.75,Russell H.,4.0,0.75,Jaison,4.0,0.75,Liz,4.0,0.75,Mick,4.0,0.5

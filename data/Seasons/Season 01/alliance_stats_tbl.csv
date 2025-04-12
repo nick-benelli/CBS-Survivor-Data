@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Richard,Rudy,10.0,1.0,Susan,10.0,0.9,Sean,9.0,0.6666666666666666,Kelly,10.0,0.5,Colleen,5.0,0.0
+Kelly,Susan,10.0,0.6,Richard,10.0,0.5,Rudy,10.0,0.5,Colleen,5.0,0.4,Gervase,4.0,0.25
+Rudy,Richard,10.0,1.0,Susan,10.0,0.9,Sean,9.0,0.6666666666666666,Kelly,10.0,0.5,Colleen,5.0,0.0
+Susan,Richard,10.0,0.9,Rudy,10.0,0.9,Sean,9.0,0.6666666666666666,Kelly,10.0,0.6,Colleen,5.0,0.0
+Sean,Richard,9.0,0.6666666666666666,Rudy,9.0,0.6666666666666666,Susan,9.0,0.6666666666666666,Kelly,9.0,0.2222222222222222,Colleen,5.0,0.0
+Colleen,Gretchen,4.0,1.0,Gervase,7.0,0.7142857142857143,Jenna,6.0,0.6666666666666666,Greg,5.0,0.4,Kelly,5.0,0.4
+Gervase,Colleen,7.0,0.7142857142857143,Gretchen,4.0,0.5,Greg,5.0,0.4,Jenna,6.0,0.3333333333333333,Kelly,4.0,0.25
+Jenna,Gretchen,4.0,0.75,Colleen,6.0,0.6666666666666666,Gervase,6.0,0.3333333333333333,Greg,5.0,0.2,,,
+Greg,Colleen,5.0,0.4,Gervase,5.0,0.4,Gretchen,4.0,0.25,Jenna,5.0,0.2,,,
+Gretchen,Colleen,4.0,1.0,Jenna,4.0,0.75,Gervase,4.0,0.5,Greg,4.0,0.25,,,

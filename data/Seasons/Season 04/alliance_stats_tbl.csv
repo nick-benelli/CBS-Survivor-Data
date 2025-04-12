@@ -1,0 +1,12 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Vecepia,Sean,10.0,0.9,Zoe,4.0,0.75,Neleh,7.0,0.7142857142857143,Kathy,7.0,0.7142857142857143,Paschal,7.0,0.7142857142857143
+Neleh,Paschal,9.0,1.0,Kathy,9.0,0.7777777777777778,Vecepia,7.0,0.7142857142857143,Sean,6.0,0.6666666666666666,Tammy,4.0,0.5
+Kathy,Sean,6.0,0.8333333333333334,Neleh,9.0,0.7777777777777778,Paschal,9.0,0.7777777777777778,Vecepia,7.0,0.7142857142857143,Tammy,4.0,0.25
+Paschal,Neleh,9.0,1.0,Kathy,9.0,0.7777777777777778,Vecepia,7.0,0.7142857142857143,Sean,6.0,0.6666666666666666,Tammy,4.0,0.5
+Sean,Vecepia,10.0,0.9,Kathy,6.0,0.8333333333333334,Rob,5.0,0.8,Neleh,6.0,0.6666666666666666,Paschal,6.0,0.6666666666666666
+Robert,Tammy,5.0,1.0,Vecepia,6.0,0.5,Zoe,4.0,0.5,Neleh,5.0,0.4,Paschal,5.0,0.4
+Tammy,Robert,5.0,1.0,Vecepia,5.0,0.6,Zoe,4.0,0.5,Neleh,4.0,0.5,Paschal,4.0,0.5
+Zoe,Vecepia,4.0,0.75,Sean,4.0,0.5,Robert,4.0,0.5,Tammy,4.0,0.5,,,
+Rob,Sean,5.0,0.8,Vecepia,5.0,0.6,,,,,,,,,
+Gina,Sarah,4.0,0.25,,,,,,,,,,,,
+Sarah,Gina,4.0,0.25,,,,,,,,,,,,

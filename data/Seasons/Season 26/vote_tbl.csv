@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tiebreak_3,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tiebreak_8,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tiebreak_12,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,3,4,5,6,7,8,8,9,10,11,12,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,3,4,4,5,6,7,7,8,9,10,11,11,12,12,13,14,14,14,14,14
+Voted out:,Francesca,Allie,Tie,Hope,Shamar,Laura,Brandon,Matt,Tie,Julia,Corinne,Michael,Phillip,Tie,Malcolm,Reynold,Andrea,Brenda,Erik,Eddie,Sherri,Dawn,Cochran
+Vote:,6-4,6-4,3-3-3,5-1-0,No Vote,6-0,8-1,4-2-1,3-3,4-0,7-5,7-3-1,4-0-0,3-3-3,6-0-0,4-2-1-1,3-2-2,3-2-1,No Vote,3-1,8-0-0,8-0-0,8-0-0
+Cochran,Francesca,-,-,-,-,-,Brandon,Matt,Michael,Julia,Corinne,Michael,Malcolm,Malcolm,Malcolm,Eddie,Eddie,Brenda,-,Eddie,Jury Vote,Jury Vote,Jury Vote
+Dawn,Francesca,-,-,-,-,-,Brandon,Matt,Julia,Julia,Corinne,Michael,Eddie,Reynold,Malcolm,Reynold,Eddie,Brenda,-,Eddie,Jury Vote,Jury Vote,Jury Vote
+Sherri,-,Allie,Hope,Hope,-,Laura,-,-,-,-,Corinne,Michael,Eddie,Reynold,Malcolm,Reynold,Andrea,Brenda,-,Eddie,Jury Vote,Jury Vote,Jury Vote
+Eddie,-,Shamar,Shamar,None,-,Laura,-,-,-,-,Sherri,Andrea,Phillip,Andrea,Malcolm,Sherri,Brenda,Erik,-,Dawn,,,Cochran
+Erik,Andrea,-,-,-,-,-,Brandon,-,-,-,Corinne,Michael,Phillip,Malcolm,Malcolm,Eddie,Andrea,Eddie,Evacuated,,,,Cochran
+Brenda,Andrea,-,-,-,-,-,Brandon,-,-,-,Corinne,Michael,Eddie,Reynold,Malcolm,Reynold,Andrea,Eddie,,,,,Cochran
+Andrea,Francesca,-,-,-,-,-,Brandon,-,-,-,Corinne,Michael,Eddie,Malcolm,None,Reynold,Brenda,,,,,,Cochran
+Reynold,-,Shamar,Shamar,Shamar,-,Laura,-,-,-,-,Sherri,Andrea,Phillip,Andrea,None,Erik,,,,,,,Cochran
+Malcolm,Francesca,-,-,-,-,-,Brandon,-,-,-,Sherri,Reynold,Phillip,Andrea,None,,,,,,,,Cochran
+Phillip,Francesca,-,-,-,-,-,Brandon,Matt,Michael,Julia,Corinne,Michael,Malcolm,,,,,,,,,,Cochran
+Michael,-,Allie,Eddie,Hope,-,Laura,-,Julia,Julia,None,Sherri,Andrea,,,,,,,,,,,Cochran
+Corinne,Francesca,-,-,-,-,-,Brandon,Matt,Julia,Julia,Sherri,,,,,,,,,,,,
+Julia,-,Allie,Hope,Hope,-,Laura,-,Dawn,Michael,None,,,,,,,,,,,,,
+Matt,-,Allie,Eddie,Hope,-,Laura,-,Julia,,,,,,,,,,,,,,,
+Brandon,Andrea,-,-,-,-,-,Phillip,,,,,,,,,,,,,,,,
+Laura,-,Allie,Hope,Hope,-,Reynold,,,,,,,,,,,,,,,,,
+Shamar,-,Allie,Eddie,None,Evacuated,,,,,,,,,,,,,,,,,,
+Hope,-,Shamar,Shamar,None,,,,,,,,,,,,,,,,,,,
+Allie,-,Shamar,,,,,,,,,,,,,,,,,,,,,
+Francesca,Andrea,,,,,,,,,,,,,,,,,,,,,,

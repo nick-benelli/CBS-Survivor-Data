@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tiebreak_8,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,8,9,10,11,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,8,9,9,10,10,12,13,14,15,15,15,15,15
+Voted out:,Semhar,Christine,Mark,Stacey,Elyse,Mikayla,Ozzy,Tie,Keith,Ozzy,Jim,Dawn,Whitney,Cochran,Edna,Brandon,Rick,Ozzy,Albert,Coach,Sophie
+Vote:,8-1,4-3-1-1,6-1-1,7-1,3-2-2,4-3,5-1,6-6,6-4,9-2,7-3,7-2,7-1,5-2,5-1,3-2,3-2,3-1,6-3-0,6-3-0,6-3-0
+Sophie,-,Stacey,-,Stacey,-,Edna,-,Keith,Keith,Ozzy,Jim,Dawn,Whitney,Cochran,Edna,Brandon,Rick,Ozzy,Jury Vote,Jury Vote,Jury Vote
+Coach,-,Christine,-,Stacey,-,Mikayla,-,Keith,Keith,Ozzy,Jim,Dawn,Whitney,Cochran,Edna,Brandon,Rick,Ozzy,Jury Vote,Jury Vote,Jury Vote
+Albert,-,Christine,-,Stacey,-,Edna,-,Keith,Keith,Ozzy,Jim,Dawn,Whitney,Cochran,Edna,Sophie,Rick,Ozzy,Jury Vote,Jury Vote,Jury Vote
+Ozzy,Semhar,-,Mark,-,Cochran,-,Cochran,Rick,Rick,Cochran,,,,,,,Sophie,Albert,,,Sophie
+Rick,-,Stacey,-,Stacey,-,Mikayla,-,Keith,None,Ozzy,Jim,Dawn,Whitney,Cochran,Edna,Brandon,Sophie,,,Coach,
+Brandon,-,Christine,-,Stacey,-,Mikayla,-,Keith,Keith,Ozzy,Jim,Dawn,Whitney,Cochran,Edna,Sophie,Eliminated,,,,Sophie
+Edna,-,Stacey,-,Stacey,-,Mikayla,-,Keith,Keith,Ozzy,Jim,Dawn,Whitney,Rick,Brandon,Eliminated,,,,Coach,
+Cochran,Semhar,-,Mark,-,Elyse,-,Ozzy,Rick,Keith,Ozzy,Jim,Dawn,Whitney,Rick,Eliminated,,,,,Coach,
+Whitney,Semhar,-,Mark,-,Dawn,-,Ozzy,Rick,Rick,Ozzy,Edna,Edna,Cochran,Eliminated,,,,,,,Sophie
+Dawn,Semhar,-,Mark,-,Elyse,-,Ozzy,Rick,Rick,Ozzy,Edna,Edna,,Eliminated,,,,,,,Sophie
+Jim,Semhar,-,Cochran,-,Elyse,-,Ozzy,Rick,Rick,Cochran,Edna,Eliminated,,,,,,,,,Sophie
+Keith,Semhar,-,Mark,-,Dawn,-,Ozzy,Rick,None,,,Eliminated,,,,,,,,,Sophie
+Mikayla,-,Christine,-,Stacey,-,Edna,Eliminated,,,,,,,,,,,,,,
+Elyse,Semhar,-,Mark,-,Cochran,Eliminated,,,,,,,,,,,,,,,
+Stacey,-,Sophie,-,Edna,Eliminated,,,,,,,,,,,,,,,,
+Mark,Semhar,-,Jim,Eliminated,,,,,,,,,,,,,,,,,
+Christine,-,Edna,,,,,,Eliminated,Eliminated,,,,,,,,,,,,
+Semhar,Cochran,,Eliminated,,,,,,,,,,,,,,,,,,

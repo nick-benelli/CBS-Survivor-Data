@@ -1,0 +1,25 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17,17
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,4,5,6,7,8,9,10,11,12,13,14,14,14,14,14
+Voted out:,Jessica,Erica,Sylvia,Gary,Liliana,Rita,Anthony,Rocky,Lisi,Michelle,Edgardo,Mookie,Alex,Stacy,Boo,Yau-Man,Dreamz,Cassandra,Earl
+Vote:,6-1-1-1,6-2,4-3-1,No Vote,6-1-1,5-2,5-1,4-2,4-1,3-2,5-3-1,4-3-1,6-1,2-0,4-1,3-1,9-0-0,9-0-0,9-0-0
+Earl,Jessica,Exiled,Sylvia,-,-,Rita,-,-,-,-,Edgardo,Alex,Alex,Stacy,Boo,Yau-Man,Jury Vote,Jury Vote,Jury Vote
+Cassandra,-,-,-,-,Lisi,-,-,-,-,-,Edgardo,Mookie,Alex,Yau-Man,Boo,Yau-Man,Jury Vote,Jury Vote,Jury Vote
+Dreamz,-,-,-,-,Liliana,-,Anthony,Rocky,Lisi,Michelle,Mookie,Mookie,Alex,Yau-Man,Boo,Yau-Man,Jury Vote,Jury Vote,Jury Vote
+Yau-Man,Jessica,Erica,Sylvia,-,-,Rita,-,-,-,-,Edgardo,Alex,Alex,Stacy,Boo,Cassandra,,,Earl
+Boo,-,-,-,-,Liliana,-,-,-,-,-,Edgardo,Mookie,Alex,Yau-Man,Dreamz,,,,Earl
+Stacy,-,-,-,-,Liliana,-,-,-,-,Michelle,Edgardo,Alex,Alex,Yau-Man,,,,,Earl
+Alex,-,-,-,-,Liliana,-,Anthony,Rocky,Lisi,Michelle,Cassandra,Mookie,Yau-Man,,,,,,Earl
+Mookie,Jessica,Erica,Anthony,-,-,Rita,Anthony,Lisi,Lisi,Stacy,Cassandra,Boo,,,,,,,Earl
+Edgardo,-,-,-,-,Liliana,-,Anthony,Rocky,Lisi,-,Cassandra,,,,,,,,Earl
+Michelle,Jessica,Erica,Sylvia,-,-,Anthony,-,-,-,Stacy,,,,,,,,,Earl
+Lisi,-,-,-,-,Liliana,-,Exiled,Rocky,Dreamz,,,,,,,,,,Earl
+Rocky,Mookie,Erica,Anthony,-,-,Rita,Anthony,Lisi,,,,,,,,,,,Earl
+Anthony,Jessica,Sylvia,Sylvia,-,-,Rita,Rocky,,,,,,,,,,,,
+Rita,Jessica,Erica,Earl,-,-,Anthony,,,,,,,,,,,,,
+Liliana,-,-,-,-,Cassandra,,,,,,,,,,,,,,
+Gary,-,-,-,Quit,,,,,,,,,,,,,,,
+Sylvia,Exiled,Erica,Anthony,,,,,,,,,,,,,,,,
+Erica,Yau-Man,Sylvia,,,,,,,,,,,,,,,,,
+Jessica,Rita,,,,,,,,,,,,,,,,,,

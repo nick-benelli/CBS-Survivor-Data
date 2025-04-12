@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tiebreak_4,Tiebreak_4,Tribal_4,Tribal_5,Tribal_6,Tiebreak_7,Tiebreak_7,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,4,4,5,6,7,7,7,8,9,10,11,12,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,4,4,5,6,7,7,7,8,10,11,12,13,14,15,15,15
+Voted out:,Debb,Kel,Maralyn,Tie,Deadlock,Mitchell,Kimmi,Michael,Tie,Deadlock,Jeff,Alicia,Jerri,Nick,Amber,Rodger,Elisabeth,Keith,Colby,Tina
+Vote:,7-1,7-1,5-1-1,3-3,2-2,Past votes,6-1,No Vote,5-5,4-4,Past votes,5-4,6-2,4-2-1,4-2,3-2,3-1,1-0,4-3,4-3
+Tina,-,Kel,Maralyn,Mitchell,Mitchell,-,-,-,Jeff,Jeff,-,Alicia,Jerri,Nick,Amber,Rodger,Elisabeth,None,Jury Vote,Jury Vote
+Colby,-,Kel,Maralyn,Mitchell,Mitchell,-,-,-,Jeff,None,-,Alicia,Jerri,Nick,Rodger,Rodger,Elisabeth,Keith,Jury Vote,Jury Vote
+Keith,-,Kel,Mitchell,Mitchell,None,-,-,-,Jeff,Jeff,-,Alicia,Jerri,Nick,Amber,Rodger,Elisabeth,None,,Tina
+Elisabeth,Debb,-,-,-,-,-,Kimmi,-,Colby,Colby,-,Jerri,Jerri,Amber,Amber,Keith,Keith,,,Tina
+Rodger,Debb,-,-,-,-,-,Kimmi,-,Colby,Colby,-,Jerri,Jerri,Amber,Amber,Keith,,,Colby,
+Amber,-,Kel,Maralyn,Keith,Keith,-,-,-,Jeff,Jeff,-,Alicia,Elisabeth,Nick,Rodger,,,,Colby,
+Nick,Debb,-,-,-,-,-,Kimmi,-,Colby,Colby,-,Jerri,Jerri,Keith,,,,,Colby,
+Jerri,-,Kel,Maralyn,Keith,Keith,-,-,-,Jeff,Jeff,-,Alicia,Elisabeth,,,,,,,Tina
+Alicia,Debb,-,-,-,-,-,Kimmi,-,Colby,Colby,-,Jerri,,,,,,,,Tina
+Jeff,Debb,-,-,-,-,-,Kimmi,-,Colby,None,Voted out,,,,,,,,,
+Michael,Debb,-,-,-,-,-,Kimmi,Evacuated,,,,,,,,,,,,
+Kimmi,Debb,-,-,-,-,-,Jeff,,,,,,,,,,,,,
+Mitchell,-,Kel,Maralyn,Keith,None,Voted out,,,,,,,,,,,,,,
+Maralyn,-,Kel,Jerri,,,,,,,,,,,,,,,,,
+Kel,-,Jerri,,,,,,,,,,,,,,,,,,
+Debb,Jeff,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Switched Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Katrina Radke,Katrina,[],46,Excelsior,MN,Olympian,Levu,,,1st Voted OutDay 3,5,18.0,False,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,5
+1,Simone Nguyen,Simone,[],25,New York City,NY,Diversity Advocate,Yawa,,,2nd Voted OutDay 6,5,17.0,False,False,False,2,False,2,1,0,0,3,2,1,1,0,0,1,0.25,,0,5
+2,Patrick Bolton,Patrick,[],25,Auburn,AL,Small Business Owner,Yawa,,,3rd Voted OutDay 8,5,16.0,False,False,False,3,False,3,1,0,0,4,3,1,2,0,1,1,0.16666666666666666,,0,5
+3,Alan Ball,Alan,[],32,Houston,TX,NFL Player,Levu,Levu,,4th Voted OutDay 11,2,15.0,False,False,False,4,False,4,2,0,0,5,4,2,2,0,1,1,0.25,,0,2
+4,Roark Luskin,Roark,[],27,Santa Monica,CA,Social Worker,Soko,Soko,,5th Voted OutDay 14,3,14.0,False,False,False,5,False,5,4,0,0,6,5,4,1,0,0,1,0.4,,0,3
+5,Ali Elliott,Ali,[],24,Los Angeles,CA,Celebrity Assistant ,Yawa,Soko,,6th Voted OutDay 16,3,13.0,False,False,False,6,False,6,2,0,0,7,6,2,4,0,2,2,0.16666666666666666,,0,3
+6,Jessica Johnston,Jessica,[],29,Louisville,KY,Nurse Practitioner,Soko,Yawa,Solewa,7th Voted OutDay 19,7,12.0,False,False,False,7,True,6,6,1,0,8,7,6,1,0,0,1,0.42857142857142855,0.0,0,7
+7,Desi Williams,Desi,[],27,Newport News,VA,Physical Therapist,Soko,Levu,Solewa,8th Voted Out1st Jury MemberDay 21,11,11.0,False,False,False,8,True,6,5,2,1,9,8,5,3,0,1,2,1.6875,5.5,0,4
+8,Cole Medders,Cole,[],24,Little Rock,AR,Wilderness Therapy Guide,Soko,Yawa,Solewa,9th Voted Out2nd Jury MemberDay 24,7,10.0,False,False,False,9,True,6,6,3,1,10,9,6,3,0,0,3,1.4444444444444444,3.3333333333333335,0,7
+9,JP Hilsabeck,JP,[],28,Los Angeles,CA,Firefighter,Levu,Soko,Solewa,10th Voted Out3rd Jury MemberDay 27,6,9.0,False,False,False,10,True,6,3,4,0,11,10,3,7,0,5,2,0.15,0.0,0,6
+10,Joe Mena,Joe,[],34,Tolland,CT,Probation Officer,Soko,Levu,Solewa,11th Voted Out4th Jury MemberDay 30,12,8.0,False,False,False,11,True,6,5,5,0,12,11,5,6,0,3,3,0.22727272727272727,0.0,0,11
+11,Lauren Rimmer,Lauren,[],35,Beaufort,NC,Fisherman,Yawa,Yawa,Solewa,12th Voted Out5th Jury MemberDay 33,3,7.0,False,False,False,12,True,6,4,6,1,13,12,4,7,1,6,1,0.9166666666666666,1.5,0,3
+12,Ashley Nolan,Ashley,[],26,Satellite Beach,FL,Lifeguard,Levu,Levu,Solewa,13th Voted Out6th Jury MemberDay 36,8,6.0,False,False,False,13,True,6,4,7,2,14,13,4,9,0,5,4,1.2307692307692308,2.0,0,8
+13,Mike Zahalsky,Mike,[],43,Parkland,FL,Urologist,Soko,Yawa,Solewa,14th Voted Out7th Jury MemberDay 37,9,5.0,False,False,False,14,True,6,6,8,0,15,14,6,8,0,3,5,0.21428571428571427,0.0,0,7
+14,Devon Pinto,Devon,[],24,Solana Beach,CA,Surf Instructor,Yawa,Levu,Solewa,Eliminated8th Jury MemberDay 38,2,4.0,False,False,False,15,True,6,3,8,0,15,14,3,10,1,9,1,0.10714285714285714,0.0,0,1
+15,Ryan Ulrich,Ryan,[],23,North Arlington,NJ,Bellhop,Yawa,Soko,Solewa,SecondRunner-Up,2,3.0,False,False,True,16,True,6,2,9,0,17,14,2,12,0,8,4,0.06666666666666667,0.0,1,2
+16,Chrissy Hofbeck,Chrissy,[],46,Lebanon Township,NJ,Actuary,Levu,Soko,Solewa,Runner-Up,7,2.0,False,False,True,16,True,6,3,9,4,17,14,3,11,0,5,6,1.3,2.0,2,7
+17,Ben Driebergen,Ben,[],34,Boise,ID,Marine,Levu,Yawa,Solewa,Sole Survivor,11,1.0,False,True,True,16,True,6,5,9,0,17,14,5,9,0,7,2,0.16666666666666666,0.0,5,11

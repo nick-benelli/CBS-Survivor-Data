@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tiebreak_13,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,9,10,11,12,13,13,13,13,13
+Voted out:,Sonja,B.B.,Stacey,Ramona,Dirk,Joel,Gretchen,Greg,Jenna,Gervase,Colleen,Sean,Tie,Susan,Rudy,Kelly,Richard
+Vote:,4-3-1,6-2,5-2,4-2-1,4-1-1,4-2,4-1-1-1-1-1-1,6-3,4-3-1,5-2,4-2,4-1,2-2,2-0,1-0,4-3,4-3
+Richard,Stacey,-,Stacey,-,Dirk,-,Gretchen,Greg,Jenna,Gervase,Colleen,Sean,Susan,None,None,Jury Vote,Jury Vote
+Kelly,Rudy,-,Rudy,-,Dirk,-,Gretchen,Greg,Sean,Gervase,Sean,Sean,Richard,Susan,Rudy,Jury Vote,Jury Vote
+Rudy,Sonja,-,Stacey,-,Dirk,-,Gretchen,Greg,Jenna,Gervase,Colleen,Sean,Susan,Susan,None,,Richard
+Susan,Sonja,-,Stacey,-,Dirk,-,Gretchen,Greg,Jenna,Gervase,Colleen,Sean,Richard,None,,,Richard
+Sean,Sonja,-,Stacey,-,Rudy,-,Colleen,Greg,Jenna,Gervase,Colleen,Susan,,,,,Richard
+Colleen,-,B.B.,-,Ramona,-,Joel,Richard,Jenna,Richard,Sean,Sean,,,,,Kelly,
+Gervase,-,B.B.,-,Colleen,-,Jenna,Susan,Jenna,Richard,Sean,,,,,,Kelly,
+Jenna,-,B.B.,-,Ramona,-,Joel,Gervase,Greg,Richard,,,,,,,Kelly,
+Greg,-,Ramona,-,Jenna,-,Joel,Jenna,Jenna,,,,,,,,,Richard
+Gretchen,-,B.B.,-,Ramona,-,Joel,Rudy,,,,,,,,,,
+Joel,-,B.B.,-,Ramona,-,Jenna,,,,,,,,,,,
+Dirk,Sonja,-,Stacey,-,Susan,,,,,,,,,,,,
+Ramona,-,B.B.,-,Colleen,,,,,,,,,,,,,
+Stacey,Rudy,-,Rudy,,,,,,,,,,,,,,
+B.B.,-,Ramona,,,,,,,,,,,,,,,
+Sonja,Rudy,,,,,,,,,,,,,,,,

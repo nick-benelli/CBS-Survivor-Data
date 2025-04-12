@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,4,5,6,7,8,9,10,10,11,12,13,13,13,13,13,13
+Voted Out:,Pat,Jessica,Jeremy,Bi,Natalia,Natalie,Lyrsa,Elizabeth,John,Dan,Alec,Carl,Gabby,Christian,Davie,Alison,Kara,Angelina,Mike,Nick
+Vote:,No Vote,5-4,9-1,No Vote,3-1-1,3-2,3-1,12-1,3-0-0,6-3-2,9-1,5-4,2-1-0,3-2-0,4-2,4-1-0,No Vote,7-3-0,7-3-0,7-3-0
+Nick,-,Jessica,-,-,-,Natalie,Lyrsa,Elizabeth,John,Dan,Alec,Alison,Christian,Christian,Alison,Alison,-,Jury Vote,Jury Vote,Jury Vote
+Mike,-,-,Jeremy,-,-,Natalie,Lyrsa,Elizabeth,Christian,Christian,Alec,Carl,Gabby,Davie,Davie,Alison,-,Jury Vote,Jury Vote,Jury Vote
+Angelina,-,-,Jeremy,-,-,Lyrsa,Lyrsa,Elizabeth,Christian,Christian,Alec,Alison,Gabby,Christian,Davie,Alison,-,Jury Vote,Jury Vote,Jury Vote
+Kara,-,-,Jeremy,-,Davie,-,-,Elizabeth,Christian,Angelina,Alec,Carl,Christian,Christian,Davie,Alison,Eliminated,,Mike,
+Alison,-,-,Jeremy,-,-,-,-,Elizabeth,Christian,None,Alec,Carl,Christian,Davie,Davie,Mike,,,Mike,
+Davie,-,Lyrsa,-,-,Natalia,-,-,Elizabeth,John,Dan,Alec,Alison,Christian,Alison,Alison,,,,,Nick
+Christian,-,Jessica,-,-,-,-,-,Elizabeth,John,Dan,Alec,Carl,Alison,Alison,,,,,Mike,
+Gabby,-,Jessica,-,-,-,-,-,Elizabeth,Angelina,Dan,Alec,Carl,Christian,,,,,,,Nick
+Carl,-,Lyrsa,-,-,Exiled,-,-,Elizabeth,Angelina,Dan,Alec,Alison,,,,,,,,Nick
+Alec,-,-,Jeremy,-,Natalia,-,-,Elizabeth,Christian,Angelina,Carl,,,,,,,,,Nick
+Dan,-,-,Jeremy,-,-,-,-,Elizabeth,Christian,Christian,,,,,,,,,,Nick
+John,-,-,Jeremy,-,-,-,-,Elizabeth,Christian,,,,,,,,,,,Nick
+Elizabeth,-,Jessica,-,-,Natalia,-,-,Angelina,,,,,,,,,,,,Nick
+Lyrsa,-,Jessica,-,-,-,Natalie,Angelina,,,,,,,,,,,,,
+Natalie,-,-,Jeremy,-,-,Lyrsa,,,,,,,,,,,,,,
+Natalia,-,-,Jeremy,-,Elizabeth,,,,,,,,,,,,,,,
+Bi,-,Lyrsa,-,Quit,,,,,,,,,,,,,,,,
+Jeremy,-,-,Natalie,,,,,,,,,,,,,,,,,
+Jessica,-,Lyrsa,,,,,,,,,,,,,,,,,,
+Pat,Evacuated,,,,,,,,,,,,,,,,,,,

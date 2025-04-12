@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Todd,Amanda,9.0,1.0,Denise,9.0,0.8888888888888888,James,5.0,0.8,Courtney,9.0,0.7777777777777778,Jean-Robert,4.0,0.75
+Courtney,Todd,9.0,0.7777777777777778,Amanda,9.0,0.7777777777777778,Denise,9.0,0.6666666666666666,James,5.0,0.6,Frosti,4.0,0.5
+Amanda,Todd,9.0,1.0,Denise,9.0,0.8888888888888888,James,5.0,0.8,Courtney,9.0,0.7777777777777778,Jean-Robert,4.0,0.75
+Denise,Todd,9.0,0.8888888888888888,Amanda,9.0,0.8888888888888888,James,5.0,0.8,Jean-Robert,4.0,0.75,Frosti,4.0,0.75
+Peih-Gee,Jaime,4.0,1.0,Erik,8.0,0.875,Frosti,5.0,0.4,James,5.0,0.2,Todd,6.0,0.16666666666666666
+Erik,Jaime,4.0,1.0,Peih-Gee,8.0,0.875,Frosti,5.0,0.4,Todd,5.0,0.4,Courtney,5.0,0.4
+James,Todd,5.0,0.8,Amanda,5.0,0.8,Denise,5.0,0.8,Courtney,5.0,0.6,Peih-Gee,5.0,0.2
+Frosti,Todd,4.0,0.75,Amanda,4.0,0.75,Denise,4.0,0.75,Courtney,4.0,0.5,Peih-Gee,5.0,0.4
+Jean-Robert,Todd,4.0,0.75,Amanda,4.0,0.75,Denise,4.0,0.75,Courtney,4.0,0.25,,,
+Jaime,Peih-Gee,4.0,1.0,Erik,4.0,1.0,,,,,,,,,

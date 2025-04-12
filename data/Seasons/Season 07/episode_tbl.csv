@@ -1,0 +1,21 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""Beg, Barter, Steal""","September 18, 2003",None,Drake,"['Nicole', '7-1']",1st Voted OutDay 3,21.50,8.4/23,['Drake']
+1,2,"""To Quit or Not to Quit""","September 25, 2003",Drake,Drake,"['Ryan S.', '5-2']",2nd Voted OutDay 6,19.86,7.5/21,['Drake']
+2,3,"""United We Stand, Divided We...?""","October 2, 2003",Drake,Drake,"['Lillian', '5-1']",3rd Voted OutDay 9,19.68,7.5/21,['Drake']
+3,4,"""Pick a Castaway... Any Castaway""","October 9, 2003",Drake,"['Morgan', '[Rupert]']","['Burton', '5-2']",4th Voted OutDay 12,19.40,7.4/20,"['Morgan', '']"
+4,5,"""Everyone's Hero""","October 16, 2003",Morgan,Morgan,"['Michelle', '6-1']",5th Voted OutDay 15,19.35,7.4/20,['Morgan']
+5,6,"""Me and My Snake""","October 23, 2003",Drake,Morgan,"['Trish', '4-2']",6th Voted OutDay 18,20.19,7.5/20,['Morgan']
+6,7,"""What the...? (Part 1)""","October 30, 2003",None,The Outcasts,"['Shawn', '4-1']",7th Voted OutDay 19,20.70,7.7/21,['The Outcasts']
+7,7,"""What the...? (Part 1)""","October 30, 2003",None,The Outcasts,"['Osten', 'No Vote']",QuitDay 19,20.70,7.7/21,['The Outcasts']
+8,8,"""What the...? (Part 2)""","November 6, 2003",None,The Outcasts,"['Burton,Lillian', '3-3-2-2-1-1']",ReturnedDay 19,21.30,7.7/21,['The Outcasts']
+9,8,"""What the...? (Part 2)""","November 6, 2003",None,"['Burton', 'Lillian', 'Burton(Rupert)']","['Andrew', '6-4']",8th Voted OutDay 21,21.30,7.7/21,"['Burton', 'Lillian', 'Burton']"
+10,9,"""Shocking! Simply Shocking!""","November 13, 2003",Rupert(Burton)[Lillian],Rupert,"['Ryan O.', '8-1']",9th Voted Out1st Jury MemberDay 24,21.10,8.3/22,['Rupert']
+11,10,"""Swimming with Sharks""","November 20, 2003","Burton,Lillian(Jon)",Burton,"['Rupert', '5-2-1']",10th Voted Out2nd Jury MemberDay 27,19.90,7.0/20,['Burton']
+12,11,"""The Great Lie""","November 26, 2003",Jon,Darrah,"['Tijuana', '5-2']",11th Voted Out3rd Jury MemberDay 30,20.06,7.2/22,['Darrah']
+13,12,"""Would You Be My Brutus Today?""","December 4, 2003","Darrah,Jon,Lillian",Darrah,"['Christa', '4-2']",12th Voted Out4th Jury MemberDay 33,22.00,8.0/23,['Darrah']
+14,13,"""Mutiny""","December 11, 2003",Burton[Jon],Darrah,"['Burton', '3-2']",13th Voted Out5th Jury MemberDay 36,22.41,8.3/22,['Darrah']
+15,14,"""Flames and Endurance""","December 14, 2003",None,Jury,"['Darrah', '3-1']",14th Voted Out6th Jury MemberDay 37,25.23,9.7/22,['Jury']
+16,14,"""Flames and Endurance""","December 14, 2003",None,Lillian,"['Jon', '1-0']",15th Voted Out7th Jury MemberDay 38,25.23,9.7/22,['Lillian']
+17,14,"""Flames and Endurance""","December 14, 2003",Jury Vote,Jury Vote,"['Lillian', '6-1']",Runner-Up,25.23,9.7/22,[]
+18,14,"""Flames and Endurance""","December 14, 2003",Jury Vote,Jury Vote,"['Sandra', '6-1']",Sole Survivor,25.23,9.7/22,[]
+19,15,"""Reunion""","December 14, 2003",,,,,26.19,10.3/25,[]

@@ -1,0 +1,12 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Bob,Corinne,5.0,1.0,Sugar,7.0,0.5714285714285714,Susie,8.0,0.375,Matty,6.0,0.3333333333333333,Ken,6.0,0.16666666666666666
+Susie,Matty,8.0,1.0,Crystal,7.0,0.8571428571428571,Sugar,6.0,0.8333333333333334,Ken,8.0,0.625,Randy,5.0,0.4
+Sugar,Crystal,7.0,0.8571428571428571,Susie,6.0,0.8333333333333334,Matty,9.0,0.7777777777777778,Ace,4.0,0.75,Ken,8.0,0.625
+Matty,Susie,8.0,1.0,Crystal,10.0,0.8,Sugar,9.0,0.7777777777777778,GC,4.0,0.75,Ace,4.0,0.75
+Ken,Crystal,11.0,0.9090909090909091,GC,4.0,0.75,Matty,11.0,0.6363636363636364,Susie,8.0,0.625,Sugar,8.0,0.625
+Crystal,Ken,11.0,0.9090909090909091,Susie,7.0,0.8571428571428571,Sugar,7.0,0.8571428571428571,Matty,10.0,0.8,GC,4.0,0.75
+Corinne,Bob,5.0,1.0,Sugar,4.0,0.25,Susie,4.0,0.25,,,,,,
+Randy,Matty,4.0,0.5,Ken,4.0,0.5,Crystal,4.0,0.5,Susie,5.0,0.4,,,
+Ace,Sugar,4.0,0.75,Matty,4.0,0.75,Ken,4.0,0.5,Crystal,4.0,0.5,Kelly,4.0,0.25
+Kelly,Ace,4.0,0.25,,,,,,,,,,,,
+GC,Matty,4.0,0.75,Ken,4.0,0.75,Crystal,4.0,0.75,,,,,,

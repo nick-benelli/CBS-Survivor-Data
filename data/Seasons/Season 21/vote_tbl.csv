@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tiebreak_6,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,6,7,8,9,10,11,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,6,6,7,8,9,10,12,12,13,14,15,15,15,15,15
+Voted out:,Wendy,Shannon,Jimmy J.,Jimmy T.,Tyrone,Tie,Kelly B.,Yve,Jill,Alina,Marty,Brenda,NaOnka,Kelly S.,Benry,Jane,Dan,Holly,Sash,Chase,Fabio
+Vote:,9-1,7-3,8-1,5-3,6-2,3-3-2,5-1,6-1,3-2-2,10-2,7-4,8-1-1,No Vote,No Vote,4-2-1,5-0-0,4-1,3-1,5-4-0,5-4-0,5-4-0
+Fabio,-,Brenda,-,-,-,Kelly B.,Kelly B.,-,Marty,Alina,Jane,Brenda,-,-,Holly,Jane,Dan,Holly,Jury Vote,Jury Vote,Jury Vote
+Chase,-,Shannon,-,-,Tyrone,-,-,Yve,-,Alina,Marty,Brenda,-,-,Benry,Jane,Dan,Holly,Jury Vote,Jury Vote,Jury Vote
+Sash,-,Shannon,-,-,-,Marty,Kelly B.,-,Jill,Alina,Marty,Brenda,-,-,Benry,Jane,Dan,Holly,Jury Vote,Jury Vote,Jury Vote
+Holly,Wendy,-,Jimmy J.,Dan,Tyrone,-,-,Yve,-,Alina,Marty,Brenda,-,-,Benry,Jane,Dan,Sash,,Chase,
+Dan,Wendy,-,Jimmy J.,Jimmy T.,Tyrone,-,-,Yve,-,Alina,Jane,Brenda,-,-,Fabio,Jane,Chase,,,,Fabio
+Jane,Wendy,-,Jimmy J.,Dan,-,Marty,Marty,-,Marty,Marty,Marty,Brenda,-,-,Benry,Sash,,,,Chase,
+Benry,-,Shannon,-,-,Tyrone,-,-,Yve,-,Alina,Jane,Brenda,-,-,Fabio,,,,,,Fabio
+Kelly S.,-,Shannon,-,-,-,Kelly B.,Kelly B.,-,Jill,Alina,Marty,Benry,Quit,Quit,,,,,,,Fabio
+NaOnka,-,Shannon,-,-,Tyrone,-,-,Yve,-,Alina,Marty,Brenda,Quit,Quit,,,,,,,Fabio
+Brenda,-,Shannon,-,-,-,Kelly B.,Kelly B.,-,Jill,Alina,Marty,NaOnka,,,,,,,,Chase,
+Marty,Wendy,-,Jimmy J.,Jimmy T.,-,Brenda,None,-,Jane,Alina,Jane,,,,,,,,,,Fabio
+Alina,-,Brenda,-,-,Tyrone,-,-,Yve,-,Marty,,,,,,,,,,Chase,
+Jill,Wendy,-,Jimmy J.,Jimmy T.,-,Brenda,Kelly B.,-,Jane,,,,,,,,,,,,
+Yve,Wendy,-,Jimmy J.,Jimmy T.,NaOnka,-,-,Dan,,,,,,,,,,,,,
+Kelly B.,-,Shannon,-,-,-,Marty,None,,,,,,,,,,,,,,
+Tyrone,Wendy,-,Jimmy J.,Jimmy T.,NaOnka,,,,,,,,,,,,,,,,
+Jimmy T.,Wendy,-,Jimmy J.,Dan,,,,,,,,,,,,,,,,,
+Jimmy J.,Wendy,-,Dan,,,,,,,,,,,,,,,,,,
+Shannon,-,Brenda,,,,,,,,,,,,,,,,,,,
+Wendy,Yve,,,,,,,,,,,,,,,,,,,,

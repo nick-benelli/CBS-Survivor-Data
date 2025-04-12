@@ -1,0 +1,19 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Switched Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Brook Geraghty,Brook,[],27,Winthrop,MA,Document Manager,Lopevi,,,1st Voted OutDay 3,5,18.0,False,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,5
+1,Dolly Neely,Dolly,[],25,Mercer,PA,Sheep Farmer,Yasur,,,2nd Voted OutDay 6,5,17.0,False,False,False,2,False,2,1,0,0,3,2,1,1,0,0,1,0.5,,0,5
+2,John Palyok,John P.,[],31,Los Angeles,CA,Sales Manager,Lopevi,,,3rd Voted OutDay 7,5,16.0,False,False,False,3,False,2,1,1,0,4,3,1,2,0,0,2,0.3333333333333333,,0,5
+3,Mia Galeotalanza,Mia,[],29,Boston,MA,Bookkeeper,Yasur,,,4th Voted OutDay 7,5,15.0,False,False,False,4,False,2,1,1,0,5,4,2,2,0,0,2,0.3333333333333333,,0,5
+4,Brady Finta,Brady,[],33,Huntington Beach,CA,FBI Agent,Lopevi,,,5th Voted OutDay 10,6,14.0,False,False,False,5,False,3,1,1,0,6,5,2,3,0,0,3,0.25,,0,6
+5,Travis Sampson,Travis,[],33,Johnson City,TN,Security Officer,Lopevi,Yasur,,6th Voted OutDay 12,6,13.0,False,False,False,6,False,4,1,1,0,7,6,2,4,0,3,1,0.2,,0,6
+6,Lisa Keiffer,Lisa,[],44,Mandeville,LA,Real Estate Agent,Yasur,Yasur,,7th Voted OutDay 15,4,12.0,False,False,False,7,False,5,2,1,0,8,7,3,4,0,2,2,0.3333333333333333,,0,4
+7,John Kenney,John K.,[],22,Los Angeles,CA,Mechanical Bull Operator/Model,Lopevi,Lopevi,,8th Voted OutDay 18,5,11.0,False,False,False,8,False,6,3,1,1,9,8,4,4,0,1,3,1.4285714285714286,,0,5
+8,Rory Freeman,Rory,[],35,Des Moines,IA,Housing Case Manager,Lopevi,Yasur,Alinta,9th Voted OutDay 21,14,10.0,False,False,False,9,True,6,2,2,0,10,9,3,6,0,5,1,0.25,0.0,0,14
+9,Lea Masters,Lea,[],40,Columbia,SC,Drill Sargeant,Lopevi,Lopevi,Alinta,10th Voted Out1st Jury MemberDay 24,7,9.0,False,False,False,10,True,6,3,3,1,11,10,4,6,0,4,2,1.3333333333333333,4.5,0,7
+10,Chad Crittenden,Chad,[],34,Oakland,CA,Teacher,Lopevi,Lopevi,Alinta,11th Voted Out2nd Jury MemberDay 27,7,8.0,False,False,False,11,True,6,3,4,0,12,11,4,7,0,4,3,0.3,0.0,0,7
+11,Leann Slaby,Leann,[],34,Kansasville,WI,Equity Research Assistant,Yasur,Yasur,Alinta,12th Voted Out3rd Jury MemberDay 30,8,7.0,False,False,False,12,True,6,3,5,0,13,12,4,8,0,7,1,0.2727272727272727,0.0,0,8
+12,Ami Cusack,Ami,[],31,Lakewood,CO,Coffee Barista,Yasur,Yasur,Alinta,13th Voted Out4th Jury MemberDay 33,8,6.0,False,False,False,13,True,6,3,6,2,14,13,4,9,0,7,2,1.4166666666666667,2.8,0,8
+13,Julie Berry,Julie,[],23,Gorham,ME,Youth Mentor,Yasur,Lopevi,Alinta,14th Voted Out5th Jury MemberDay 36,4,5.0,False,False,False,14,True,6,4,7,0,15,14,5,10,-1,4,5,0.3076923076923077,0.0,0,4
+14,Eliza Orlins,Eliza,[],21,Syracuse,NY,Pre-Law Student,Yasur,Yasur,Alinta,15th Voted Out6th Jury MemberDay 37,9,4.0,False,False,False,15,True,6,3,8,1,16,15,4,12,-1,8,3,0.5,0.5714285714285714,0,9
+15,Scout Cloud Lee,Scout,[],59,Stillwater,OK,Rancher,Yasur,Yasur,Alinta,16th Voted Out7th Jury MemberDay 38,3,3.0,False,False,False,16,True,6,3,9,0,17,16,4,12,0,10,1,0.2,0.0,0,3
+16,Twila Tanner,Twila,[],41,Marshall,MO,Highway Repair Worker,Yasur,Lopevi,Alinta,Runner-Up,6,2.0,False,False,True,17,True,6,4,9,1,18,16,5,11,0,10,0,0.7333333333333333,0.875,2,6
+17,Chris Daugherty,Chris,[],33,South Vienna,OH,Highway Construction Worker,Lopevi,Lopevi,Alinta,Sole Survivor,3,1.0,False,True,True,17,True,6,3,9,3,18,16,4,13,-1,10,2,0.8666666666666667,1.25,5,3

@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tiebreak_15,Tiebreak_15,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,15,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Expanded Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,6,7,8,9,10,11,12,13,14,14,14,14,14,14,14,14
+Voted out:,Vytas,Shirin,Peih-Gee,Jeff,Monica,Terry,Woo,Kass,Andrew,Kelly,Ciera,Stephen,Joe,Abi-Maria,Null,Deadlock,Kimmi,Keith,Kelley,Tasha,Spencer,Jeremy
+Vote:,6-4,5-4,4-2,4-1,3-2-1,No Vote,4-3,6-4-2-1,3-0,6-3-2,3-2-0,4-3-2,6-1-1,4-2-1,0-0,3-3,Consensus,3-2,3-1,10-0-0,10-0-0,10-0-0
+Jeremy,-,-,-,-,Monica,-,-,Ciera,Kelley,Kelly,Ciera,Joe,Joe,Abi-Maria,Kelley,Kimmi,-,Keith,Kelley,Jury Vote,Jury Vote,Jury Vote
+Spencer,Vytas,Shirin,-,-,Kelly,-,Woo,Ciera,Kelley,Kelly,Stephen,Stephen,Joe,Abi-Maria,Kelley,Kimmi,-,Keith,Kelley,Jury Vote,Jury Vote,Jury Vote
+Tasha,-,-,Peih-Gee,Jeff,-,-,-,Kass,Kelley,Ciera,Stephen,Abi-Maria,Joe,Abi-Maria,Kelley,Kimmi,-,Keith,Kelley,Jury Vote,Jury Vote,Jury Vote
+Kelley,Vytas,Spencer,-,-,-,-,-,Kass,Andrew,Kelly,Kimmi,Stephen,Joe,Tasha,Jeremy,Tasha,-,Spencer,Spencer,,,Jeremy
+Keith,-,-,-,-,-,-,-,Kass,Kelley,Kelley,Stephen,Stephen,Tasha,Tasha,Jeremy,Tasha,-,Spencer,,,,Jeremy
+Kimmi,-,-,-,-,Monica,-,-,Kass,Kelley,Ciera,Ciera,Abi-Maria,Joe,Abi-Maria,Jeremy,Tasha,Voted out,,,,,Jeremy
+Abi-Maria,Vytas,Spencer,Peih-Gee,Jeff,-,-,Woo,Tasha,Andrew,Kelly,Stephen,Stephen,Joe,Keith,,,,,,,,Jeremy
+Joe,-,-,-,-,-,-,-,Ciera,Kelley,Kelley,Stephen,None,Abi-Maria,,,,,,,,,Jeremy
+Stephen,-,-,-,-,Monica,-,-,Kass,Kelley,Kelly,Ciera,"['Joe', 'Abi-Maria']",,,,,,,,,,Jeremy
+Ciera,-,-,-,-,-,-,Woo,Andrew,Andrew,Kelly,Kimmi,,,,,,,,,,,Jeremy
+Kelly,Abi-Maria,Shirin,-,-,Spencer,-,Spencer,Ciera,Kelley,Ciera,,,,,,,,,,,,Jeremy
+Andrew,-,-,Peih-Gee,Jeff,-,-,Spencer,Kass,Kelley,,,,,,,,,,,,,Jeremy
+Kass,-,-,-,-,-,-,Woo,Tasha,,,,,,,,,,,,,,Jeremy
+Woo,Abi-Maria,Shirin,Abi-Maria,Jeff,-,-,Spencer,,,,,,,,,,,,,,,
+Terry,Abi-Maria,Spencer,-,-,-,Evacuated,,,,,,,,,,,,,,,,
+Monica,-,-,-,-,Kelly,,,,,,,,,,,,,,,,,
+Jeff,Vytas,Shirin,Peih-Gee,Woo,,,,,,,,,,,,,,,,,,
+Peih-Gee,Vytas,Shirin,Abi-Maria,,,,,,,,,,,,,,,,,,,
+Shirin,Vytas,Spencer,,,,,,,,,,,,,,,,,,,,
+Vytas,Abi-Maria,,,,,,,,,,,,,,,,,,,,,

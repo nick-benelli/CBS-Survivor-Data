@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tiebreak_12,Tribal_12,Tribal_13,Tiebreak_14,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,12,13,14,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Expanded Tribes,Expanded Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,1,2,3,4,5,6,7,8,9,10,10,10,11,12,12,13,13,13,13,13,13
+Voted out:,Gonzalez,Jacob,Morgan,Brendan,Stephanie,James,Bradley,Chris,Libby,Desiree,Jenna,Tie,Michael,Chelsea,Tie,Kellyn,Sebastian,Donathan,Angela,Laurel,Domenick,Wendell
+Vote:,8-1,5-2-1,4-3-1,5-4,7-1,4-1,4-1,10-2,4-1-0,8-2,3-1-0,2-2-1-1,3-0,5-3,3-3-1,4-1,4-1-1,4-0,No Vote,6-5-0,6-5-0,6-5-0
+Wendell,-,-,Angela,-,-,-,-,Chris,Michael,Desiree,-,Michael,Michael,Chelsea,Kellyn,Kellyn,Sebastian,Donathan,-,Jury Vote,Jury Vote,Jury Vote
+Domenick,-,-,Angela,-,-,-,Bradley,Chris,Michael,Desiree,-,Michael,Michael,Chelsea,Kellyn,Kellyn,Sebastian,Donathan,-,Jury Vote,Jury Vote,Jury Vote
+Laurel,Gonzalez,Jacob,Morgan,-,-,-,-,Chris,Libby,Desiree,-,Kellyn,None,Chelsea,Kellyn,Kellyn,Sebastian,Donathan,-,,,Wendell
+Angela,-,-,Libby,-,-,James,-,Libby,Michael,None,Jenna,-,-,Wendell,Donathan,Kellyn,Sebastian,Donathan,Eliminated,,,Wendell
+Donathan,Gonzalez,Exiled,Morgan,-,-,-,Bradley,Chris,Michael,Desiree,Sebastian,-,-,Chelsea,Domenick,None,Domenick,Laurel,,,,Wendell
+Sebastian,-,-,-,Brendan,Stephanie,-,-,Chris,Michael,Desiree,Jenna,-,-,Chelsea,Donathan,Donathan,Donathan,,,,,Wendell
+Kellyn,-,-,-,Brendan,Stephanie,James,-,Chris,Libby,Desiree,-,Laurel,Michael,Wendell,Donathan,None,,,,,,Wendell
+Chelsea,-,-,-,Brendan,Stephanie,-,Bradley,Chris,Libby,Michael,Jenna,-,-,Wendell,,,,,,,,Wendell
+Michael,Gonzalez,James,-,Bradley,Stephanie,James,-,Chris,Wendell,Desiree,-,Wendell,None,,,,,,,,Domenick,
+Jenna,Gonzalez,Jacob,-,Bradley,Stephanie,-,-,Chris,Michael,Desiree,Donathan,,,,,,,,,,Domenick,
+Desiree,-,-,-,Brendan,Stephanie,James,-,Libby,Libby,Michael,,,,,,,,,,,Domenick,
+Libby,Gonzalez,James,Morgan,-,-,-,Bradley,Chris,Michael,,,,,,,,,,,,Domenick,
+Chris,-,-,Exiled,-,-,-,-,None,,,,,,,,,,,,,Domenick,
+Bradley,-,-,-,Brendan,Stephanie,-,Libby,,,,,,,,,,,,,,,
+James,Gonzalez,Jacob,Morgan,-,-,Desiree,,,,,,,,,,,,,,,,
+Stephanie,Gonzalez,Jacob,-,Bradley,Desiree,,,,,,,,,,,,,,,,,
+Brendan,Gonzalez,Jacob,-,Bradley,,,,,,,,,,,,,,,,,,
+Morgan,-,-,Angela,,,,,,,,,,,,,,,,,,,
+Jacob,Exiled,Michael,,,,,,,,,,,,,,,,,,,,
+Gonzalez,Donathan,,,,,,,,,,,,,,,,,,,,,

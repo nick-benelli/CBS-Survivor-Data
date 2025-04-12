@@ -1,0 +1,12 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Amber,Rob M.,7.0,1.0,Jenna L.,6.0,1.0,Tom,6.0,0.8333333333333334,Rupert,6.0,0.8333333333333334,Alicia,4.0,0.75
+Rob M.,Amber,7.0,1.0,Jenna L.,6.0,1.0,Tom,6.0,0.8333333333333334,Rupert,6.0,0.8333333333333334,Alicia,4.0,0.75
+Jenna L.,Amber,6.0,1.0,Rob M.,6.0,1.0,Tom,5.0,0.8,Rupert,8.0,0.75,Shii Ann,4.0,0.5
+Rupert,Amber,6.0,0.8333333333333334,Rob M.,6.0,0.8333333333333334,Tom,5.0,0.8,Jenna L.,8.0,0.75,Shii Ann,4.0,0.5
+Tom,Amber,6.0,0.8333333333333334,Rob M.,6.0,0.8333333333333334,Jenna L.,5.0,0.8,Rupert,5.0,0.8,Alicia,4.0,0.75
+Shii Ann,Kathy,5.0,0.8,Lex,5.0,0.8,Jerri,4.0,0.75,Amber,5.0,0.6,Rob M.,4.0,0.5
+Alicia,Amber,4.0,0.75,Rob M.,4.0,0.75,Tom,4.0,0.75,,,,,,
+Kathy,Lex,4.0,1.0,Shii Ann,5.0,0.8,,,,,,,,,
+Lex,Kathy,4.0,1.0,Shii Ann,5.0,0.8,Jerri,4.0,0.75,,,,,,
+Jerri,Shii Ann,4.0,0.75,Lex,4.0,0.75,Ethan,5.0,0.4,,,,,,
+Ethan,Jerri,5.0,0.4,,,,,,,,,,,,

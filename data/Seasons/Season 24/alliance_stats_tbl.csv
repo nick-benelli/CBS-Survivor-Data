@@ -1,0 +1,13 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Kim,Alicia,9.0,0.8888888888888888,Sabrina,10.0,0.8,Chelsea,10.0,0.8,Christina,10.0,0.7,Kat,7.0,0.5714285714285714
+Sabrina,Kim,10.0,0.8,Chelsea,10.0,0.8,Tarzan,7.0,0.7142857142857143,Alicia,9.0,0.6666666666666666,Christina,10.0,0.6
+Chelsea,Kat,7.0,0.8571428571428571,Kim,10.0,0.8,Sabrina,10.0,0.8,Alicia,9.0,0.6666666666666666,Christina,10.0,0.5
+Christina,Alicia,10.0,0.8,Kim,10.0,0.7,Sabrina,10.0,0.6,Chelsea,10.0,0.5,Kat,7.0,0.42857142857142855
+Alicia,Kim,9.0,0.8888888888888888,Christina,10.0,0.8,Sabrina,9.0,0.6666666666666666,Chelsea,9.0,0.6666666666666666,Kat,7.0,0.5714285714285714
+Tarzan,Michael,4.0,0.75,Jonas,4.0,0.75,Sabrina,7.0,0.7142857142857143,Jay,5.0,0.6,Troyzan,7.0,0.5714285714285714
+Kat,Chelsea,7.0,0.8571428571428571,Kim,7.0,0.5714285714285714,Sabrina,7.0,0.5714285714285714,Alicia,7.0,0.5714285714285714,Christina,7.0,0.42857142857142855
+Troyzan,Jay,5.0,1.0,Leif,6.0,0.8333333333333334,Sabrina,5.0,0.6,Tarzan,7.0,0.5714285714285714,Michael,4.0,0.5
+Leif,Jonas,4.0,1.0,Troyzan,6.0,0.8333333333333334,Jay,5.0,0.8,Tarzan,7.0,0.42857142857142855,Alicia,5.0,0.4
+Jay,Troyzan,5.0,1.0,Leif,5.0,0.8,Tarzan,5.0,0.6,Michael,4.0,0.5,,,
+Michael,Tarzan,4.0,0.75,Troyzan,4.0,0.5,Jay,4.0,0.5,Leif,4.0,0.25,,,
+Jonas,Leif,4.0,1.0,Tarzan,4.0,0.75,,,,,,,,,

@@ -1,0 +1,13 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Danni,Bobby Jon,6.0,1.0,Gary,7.0,0.8571428571428571,Brandon,5.0,0.8,Stephenie,7.0,0.7142857142857143,Rafe,7.0,0.7142857142857143
+Stephenie,Rafe,11.0,1.0,Lydia,11.0,0.9090909090909091,Jamie,7.0,0.8571428571428571,Judd,7.0,0.7142857142857143,Danni,7.0,0.7142857142857143
+Rafe,Stephenie,11.0,1.0,Lydia,11.0,0.9090909090909091,Jamie,7.0,0.8571428571428571,Judd,7.0,0.7142857142857143,Danni,7.0,0.7142857142857143
+Lydia,Stephenie,11.0,0.9090909090909091,Rafe,11.0,0.9090909090909091,Jamie,7.0,0.8571428571428571,Judd,7.0,0.7142857142857143,Cindy,8.0,0.625
+Cindy,Judd,8.0,0.75,Stephenie,8.0,0.625,Rafe,8.0,0.625,Lydia,8.0,0.625,Jamie,5.0,0.6
+Judd,Jamie,5.0,1.0,Cindy,8.0,0.75,Stephenie,7.0,0.7142857142857143,Rafe,7.0,0.7142857142857143,Lydia,7.0,0.7142857142857143
+Gary,Bobby Jon,5.0,1.0,Danni,7.0,0.8571428571428571,Amy,5.0,0.8,Brian,4.0,0.75,Brandon,4.0,0.75
+Jamie,Judd,5.0,1.0,Stephenie,7.0,0.8571428571428571,Rafe,7.0,0.8571428571428571,Lydia,7.0,0.8571428571428571,Cindy,5.0,0.6
+Bobby Jon,Danni,6.0,1.0,Gary,5.0,1.0,Brandon,5.0,0.8,,,,,,
+Brandon,Danni,5.0,0.8,Bobby Jon,5.0,0.8,Gary,4.0,0.75,,,,,,
+Amy,Gary,5.0,0.8,Brian,4.0,0.75,,,,,,,,,
+Brian,Gary,4.0,0.75,Amy,4.0,0.75,,,,,,,,,

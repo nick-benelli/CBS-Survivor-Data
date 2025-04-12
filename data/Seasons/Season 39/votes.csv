@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tiebreak_12,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,12,13,14,15,16,17,18,18,18
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,8,9,9,10,10,11,12,12,13,13,13,13,13
+Voted out:,Ronnie,Molly,Vince,Chelsea,Tom,Jason,Jack,Kellee,Jamal,Aaron,Missy,Tie,Elizabeth,Karishma,Elaine,Dan,Janet,Lauren,Noura,Dean,Tommy
+Vote:,7-2,7-2-1,5-3-1,6-2,5-2,4-3,2-0,8-5,6-3-0,5-1,3-2,1-1-0,7-0,5-3,5-2,No Vote,4-1,No Vote,8-2-0,8-2-0,8-2-0
+Tommy,-,Molly,-,-,-,Elaine,-,Kellee,Jamal,-,Missy,Karishma,Elizabeth,Karishma,Elaine,-,Janet,-,Jury Vote,Jury Vote,Jury Vote
+Dean,Ronnie,-,Karishma,Karishma,Karishma,-,Jack,Kellee,Jamal,Aaron,-,Karishma,Elizabeth,Karishma,Elaine,-,Janet,-,Jury Vote,Jury Vote,Jury Vote
+Noura,-,Molly,-,-,None,-,Jack,Dan,Jamal,Aaron,-,Karishma,Elizabeth,Karishma,Elaine,-,Janet,-,Jury Vote,Jury Vote,Jury Vote
+Lauren,-,Molly,-,-,-,Elaine,-,Kellee,Karishma,Aaron,-,Karishma,Elizabeth,Karishma,Elaine,-,Janet,Eliminated,,,Tommy
+Janet,-,Molly,-,-,Tom,-,Dean,Dan,Jamal,Aaron,-,Karishma,None,Noura,Elaine,-,Lauren,,,,Tommy
+Dan,-,Molly,-,-,-,Elaine,-,Kellee,Jamal,Aaron,-,Elizabeth,Elizabeth,Noura,Noura,Ejected,,,,,
+Elaine,Ronnie,-,Vince,Chelsea,-,Jason,-,Kellee,Karishma,-,Missy,Karishma,Elizabeth,Karishma,Noura,,,,,,Tommy
+Karishma,Ronnie,-,Vince,Chelsea,Tom,-,Dean,Dan,Janet,-,Missy,Janet,Elizabeth,Noura,,,,,,,Tommy
+Elizabeth,None,-,Vince,Chelsea,-,Jason,-,Kellee,Karishma,-,Tommy,Karishma,None,,,,,,,Dean,
+Missy,Ronnie,-,Vince,Chelsea,-,Jason,-,Kellee,Janet,-,Tommy,,,,,,,,,,Tommy
+Aaron,Vince,-,Karishma,Chelsea,-,Jason,-,Kellee,Jamal,Janet,,,,,,,,,,Dean,
+Jamal,-,Jason,-,-,Tom,-,Dean,Dan,None,,,,,,,,,,,,Tommy
+Kellee,-,Molly,-,-,Tom,-,Dean,Dan,,,,,,,,,,,,,Tommy
+Jack,-,Jason,-,-,Tom,-,Dean,,,,,,,,,,,,,,Tommy
+Jason,-,Molly,-,-,-,None,,,,,,,,,,,,,,,
+Tom,Ronnie,-,Karishma,Chelsea,Karishma,,,,,,,,,,,,,,,,
+Chelsea,Ronnie,-,Vince,Karishma,,,,,,,,,,,,,,,,,
+Vince,Ronnie,-,Tom,,,,,,,,,,,,,,,,,,
+Molly,-,Noura,,,,,,,,,,,,,,,,,,,
+Ronnie,Vince,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Ethan,Kim J.,10.0,1.0,Lex,9.0,0.8888888888888888,Kelly,4.0,0.75,Clarence,4.0,0.75,Tom,9.0,0.6666666666666666
+Kim J.,Ethan,10.0,1.0,Lex,9.0,0.8888888888888888,Kelly,4.0,0.75,Clarence,4.0,0.75,Tom,9.0,0.6666666666666666
+Lex,Ethan,9.0,0.8888888888888888,Kim J.,9.0,0.8888888888888888,Kelly,4.0,0.75,Tom,9.0,0.5555555555555556,Kim P.,5.0,0.4
+Tom,Ethan,9.0,0.6666666666666666,Kim J.,9.0,0.6666666666666666,Kim P.,5.0,0.6,Lex,9.0,0.5555555555555556,Frank,4.0,0.5
+Teresa,Kim P.,6.0,0.6666666666666666,Frank,6.0,0.6666666666666666,Ethan,7.0,0.42857142857142855,Kim J.,7.0,0.42857142857142855,Tom,6.0,0.3333333333333333
+Kim P.,Teresa,6.0,0.6666666666666666,Frank,5.0,0.6,Ethan,5.0,0.6,Kim J.,5.0,0.6,Tom,5.0,0.6
+Frank,Teresa,6.0,0.6666666666666666,Kim P.,5.0,0.6,Ethan,5.0,0.6,Kim J.,5.0,0.6,Tom,4.0,0.5
+Brandon,Kim P.,4.0,0.5,Frank,4.0,0.25,Teresa,4.0,0.0,,,,,,
+Kelly,Ethan,4.0,0.75,Kim J.,4.0,0.75,Lex,4.0,0.75,Tom,4.0,0.25,,,
+Clarence,Ethan,4.0,0.75,Kim J.,4.0,0.75,,,,,,,,,

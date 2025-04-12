@@ -1,0 +1,19 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Absorbed Tribe,Tribe Affiliation Shuffled Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Tina Wesson,Tina,['The Australian Outback'],42,Knoxville,TN,,Saboga,,,,1st Voted OutDay 3,4,18.0,True,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,4
+1,Rudy Boesch,Rudy,['Borneo'],75,Virginia Beach,VA,,Saboga,,,,2nd Voted OutDay 6,3,17.0,True,False,False,2,False,2,0,0,0,3,2,0,2,0,1,1,0.0,,0,3
+2,Jenna Morasca,Jenna M.,['The Amazon'],22,Bridgeville,PA,,Mogo Mogo,,,,QuitDay 9,0,16.0,True,False,False,3,False,2,2,0,0,3,2,2,0,0,0,0,0.5,,0,0
+3,Rob Cesternino,Rob C.,['The Amazon'],25,Plainview,NY,,Chapera,,,,3rd Voted OutDay 12,5,15.0,True,False,False,4,False,3,2,0,0,5,3,2,1,0,0,1,0.3333333333333333,,0,5
+4,Richard Hatch,Richard,['Borneo'],42,Middletown,RI,,Mogo Mogo,Mogo Mogo,,,4th Voted OutDay 15,6,14.0,True,False,False,5,False,4,3,0,0,6,4,3,1,0,0,1,0.375,,0,6
+5,Susan Hawk,Susan,['Borneo'],42,Las Vegas,NV,,Chapera,Chapera,,,QuitDay 17,0,13.0,True,False,False,6,False,4,3,0,0,6,4,3,1,0,1,0,0.5,,0,0
+6,Colby Donaldson,Colby,['The Australian Outback'],29,Los Angeles,CA,,Mogo Mogo,Mogo Mogo,,,5th Voted OutDay 19,4,12.0,True,False,False,7,False,5,3,0,0,8,5,3,2,0,1,1,0.3,,0,4
+7,Ethan Zohn,Ethan,['Africa'],29,New York City,NY,,Saboga,Mogo Mogo,,,6th Voted OutDay 21,6,11.0,True,False,False,8,False,6,1,0,0,9,6,1,5,0,2,3,0.08333333333333333,,0,6
+8,Jerri Manthey,Jerri,['The Australian Outback'],33,Los Angeles,CA,,Saboga,Mogo Mogo,Chapera,,7th Voted OutDay 24,7,10.0,True,False,False,9,False,7,1,0,0,10,7,1,6,0,5,1,0.07142857142857142,,0,7
+9,Lex van den Berghe,Lex,['Africa'],40,Santa Cruz,CA,,Mogo Mogo,Mogo Mogo,Chapera,Chaboga Mogo,8th Voted Out1st Jury MemberDay 27,7,9.0,True,False,False,10,True,7,3,1,0,11,8,3,5,0,4,1,0.1875,0.0,0,7
+10,Kathy Vavrick-O'Brien,Kathy,['Marquesas'],48,Burlington,VT,,Mogo Mogo,Mogo Mogo,Chapera,Chaboga Mogo,9th Voted Out2nd Jury MemberDay 28,6,8.0,True,False,False,11,True,7,3,2,1,12,9,3,5,1,3,2,0.5555555555555556,1.75,0,6
+11,Alicia Calaway,Alicia,['The Australian Outback'],35,New York City,NY,,Chapera,Chapera,Mogo Mogo,Chaboga Mogo,10th Voted Out3rd Jury MemberDay 30,7,7.0,True,False,False,12,True,7,6,3,0,13,10,6,4,0,3,1,0.5,0.0,0,7
+12,Shii Ann Huang,Shii Ann,['Thailand'],29,New York City,NY,,Mogo Mogo,Mogo Mogo,Chapera,Chaboga Mogo,11th Voted Out4th Jury MemberDay 33,5,6.0,True,False,False,13,True,7,3,4,1,14,11,3,8,0,6,2,0.6818181818181818,1.5,0,5
+13,Tom Buchanan,Tom,['Africa'],48,Rich Valley,VA,,Chapera,Chapera,Mogo Mogo,Chaboga Mogo,12th Voted Out5th Jury MemberDay 36,4,5.0,True,False,False,14,True,7,6,5,1,15,12,6,6,0,5,1,0.8333333333333334,1.0,0,4
+14,Rupert Boneham,Rupert,['Pearl Islands'],39,Indianapolis,IN,,Saboga,Chapera,Mogo Mogo,Chaboga Mogo,13th Voted Out6th Jury MemberDay 37,4,4.0,True,False,False,15,True,7,5,6,0,16,13,5,8,0,6,2,0.34615384615384615,0.0,0,4
+15,Jenna Lewis,Jenna L.,['Borneo'],26,Burbank,CA,,Saboga,Chapera,Mogo Mogo,Chaboga Mogo,14th Voted Out7th Jury MemberDay 38,4,3.0,True,False,False,16,True,7,5,7,0,17,14,5,8,1,8,0,0.32142857142857145,0.0,0,4
+16,Rob Mariano,Rob M.,['Marquesas'],27,Canton,MA,,Chapera,Chapera,Mogo Mogo,Chaboga Mogo,Runner-Up,1,2.0,True,False,True,17,True,7,6,7,4,18,14,6,8,0,8,0,1.5357142857142858,2.357142857142857,3,1
+17,Amber Brkich,Amber,['The Australian Outback'],25,Beaver,PA,,Chapera,Chapera,Chapera,Chaboga Mogo,Sole Survivor,6,1.0,True,True,True,17,True,7,5,7,1,18,14,5,8,1,8,0,0.5,0.42857142857142855,4,6

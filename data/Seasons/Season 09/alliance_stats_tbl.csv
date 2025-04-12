@@ -1,0 +1,14 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Chris,Rory,4.0,1.0,Chad,7.0,0.8571428571428571,Lea,6.0,0.8333333333333334,Twila,8.0,0.75,Scout,7.0,0.7142857142857143
+Twila,Scout,9.0,1.0,Leann,6.0,0.8333333333333334,Chris,8.0,0.75,Ami,7.0,0.7142857142857143,Eliza,9.0,0.6666666666666666
+Scout,Twila,9.0,1.0,Leann,8.0,0.75,Lisa,4.0,0.75,Chris,7.0,0.7142857142857143,Ami,9.0,0.6666666666666666
+Eliza,Leann,8.0,0.75,Twila,9.0,0.6666666666666666,Ami,9.0,0.6666666666666666,Scout,11.0,0.6363636363636364,Julie,8.0,0.625
+Julie,Ami,7.0,0.7142857142857143,Leann,6.0,0.6666666666666666,Eliza,8.0,0.625,Twila,9.0,0.4444444444444444,Scout,8.0,0.375
+Ami,Leann,8.0,1.0,Twila,7.0,0.7142857142857143,Julie,7.0,0.7142857142857143,Scout,9.0,0.6666666666666666,Eliza,9.0,0.6666666666666666
+Leann,Ami,8.0,1.0,Twila,6.0,0.8333333333333334,Scout,8.0,0.75,Eliza,8.0,0.75,Julie,6.0,0.6666666666666666
+Chad,Lea,6.0,1.0,Rory,4.0,1.0,Chris,7.0,0.8571428571428571,John K.,4.0,0.25,Twila,4.0,0.25
+Lea,Chad,6.0,1.0,Rory,4.0,1.0,Chris,6.0,0.8333333333333334,John K.,4.0,0.25,,,
+Rory,Chris,4.0,1.0,Chad,4.0,1.0,Lea,4.0,1.0,Travis,4.0,0.75,,,
+John K.,Chris,4.0,0.25,Chad,4.0,0.25,Lea,4.0,0.25,,,,,,
+Lisa,Scout,4.0,0.75,Ami,4.0,0.5,Leann,4.0,0.5,Eliza,4.0,0.25,,,
+Travis,Rory,4.0,0.75,,,,,,,,,,,,

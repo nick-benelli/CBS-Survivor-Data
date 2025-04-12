@@ -1,0 +1,9 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Tina,Colby,8.0,0.875,Keith,8.0,0.875,Jerri,4.0,0.75,Amber,6.0,0.6666666666666666,Rodger,5.0,0.4
+Colby,Tina,8.0,0.875,Amber,6.0,0.8333333333333334,Keith,8.0,0.75,Jerri,4.0,0.75,Rodger,5.0,0.2
+Keith,Tina,8.0,0.875,Colby,8.0,0.75,Amber,6.0,0.5,Jerri,4.0,0.5,Rodger,5.0,0.4
+Elisabeth,Rodger,7.0,1.0,Nick,5.0,1.0,Tina,6.0,0.3333333333333333,Keith,6.0,0.3333333333333333,Colby,6.0,0.16666666666666666
+Rodger,Elisabeth,7.0,1.0,Nick,5.0,1.0,Tina,5.0,0.4,Keith,5.0,0.4,Colby,5.0,0.2
+Amber,Jerri,4.0,1.0,Colby,6.0,0.8333333333333334,Tina,6.0,0.6666666666666666,Keith,6.0,0.5,Elisabeth,4.0,0.0
+Nick,Elisabeth,5.0,1.0,Rodger,5.0,1.0,,,,,,,,,
+Jerri,Amber,4.0,1.0,Tina,4.0,0.75,Colby,4.0,0.75,Keith,4.0,0.5,,,

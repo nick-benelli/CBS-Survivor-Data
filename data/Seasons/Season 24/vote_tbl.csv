@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,16,16
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,14,14,14,14
+Voted out:,Kourtney,Nina,Matt,Bill,Monica,Colton,Jonas,Michael,Jay,Leif,Troyzan,Kat,Tarzan,Alicia,Christina,Chelsea,Sabrina,Kim
+Vote:,No Vote,6-1-1,7-1-1,7-1,5-2,No Vote,10-2,7-2-2,5-2-1-0,4-3-2,4-3-1,6-1,5-1,3-2,3-1,7-2-0,7-2-0,7-2-0
+Kim,-,Nina,-,-,-,-,Jonas,Michael,Jay,Tarzan,Troyzan,Kat,Tarzan,Alicia,Christina,Jury Vote,Jury Vote,Jury Vote
+Sabrina,-,Nina,-,-,-,-,Jonas,Michael,Jay,Leif,Christina,Kat,Tarzan,Alicia,Christina,Jury Vote,Jury Vote,Jury Vote
+Chelsea,-,Nina,-,-,-,-,Jonas,Michael,Troyzan,Leif,Troyzan,Kat,Tarzan,Alicia,Christina,Jury Vote,Jury Vote,Jury Vote
+Christina,-,Nina,-,-,Tarzan,-,Jonas,Tarzan,Jay,Tarzan,Chelsea,Kat,Tarzan,Chelsea,Sabrina,,,Kim
+Alicia,-,Nina,-,-,Monica,-,Jonas,Tarzan,Jay,Tarzan,Troyzan,Kat,Tarzan,Chelsea,,,,Kim
+Tarzan,-,-,Matt,Bill,Monica,-,Jonas,Christina,Jay,Leif,Christina,Kat,Chelsea,,,,,Kim
+Kat,-,Nina,-,-,-,-,Jonas,Michael,Troyzan,Leif,Troyzan,Sabrina,,,,,,Kim
+Troyzan,-,-,Matt,Bill,-,-,Jonas,Michael,Kim,Kim,Christina,,,,,,Sabrina,
+Leif,-,-,Matt,Bill,Monica,-,Michael,Michael,Alicia,Kim,,,,,,,Sabrina,
+Jay,-,-,Matt,Bill,-,-,Jonas,Michael,Alicia,,,,,,,,,Kim
+Michael,-,-,Bill,Bill,-,-,Jonas,Christina,,,,,,,,,,Kim
+Jonas,-,-,Matt,Bill,Monica,-,Michael,,,,,,,,,,,Kim
+Colton,-,-,Matt,Bill,Monica,Evacuated,,,,,,,,,,,,
+Monica,-,Christina,-,-,Tarzan,,,,,,,,,,,,,
+Bill,-,-,Matt,Leif,,,,,,,,,,,,,,
+Matt,-,-,Colton,,,,,,,,,,,,,,,
+Nina,-,Kat,,,,,,,,,,,,,,,,
+Kourtney,Evacuated,,,,,,,,,,,,,,,,,

@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tiebreak_8,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tiebreak_14,Tribal_14,Tribal_15,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,8,9,10,11,12,13,14,14,15,16,16,16
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,8,9,10,10,11,12,13,13,13,13,13,13
+Voted out:,Katrina,Simone,Patrick,Alan,Roark,Ali,Jessica,Tie,Desi,Cole,JP,Joe,Lauren,Ashley,Tie,Mike,Devon,Ryan,Chrissy,Ben
+Vote:,5-1,5-1,4-1,2-0,3-2,3-1,7-5,4-4-1-1,7-1,7-1-0,5-3-1,4-2-0,1-0,5-1,1-1-0,2-1,No Vote,5-2-1,5-2-1,5-2-1
+Ben,Katrina,-,-,-,-,-,Jessica,Desi,Desi,Cole,Mike,Joe,Lauren,Ashley,Devon,Devon,-,Jury Vote,Jury Vote,Jury Vote
+Chrissy,Katrina,-,-,-,Roark,Ali,Jessica,Joe,Desi,Mike,Joe,Ashley,Ben,Ashley,Ben,Mike,-,Jury Vote,Jury Vote,Jury Vote
+Ryan,-,Simone,Patrick,-,Roark,Ali,Jessica,Desi,Desi,Cole,Mike,Ashley,Ben,Ashley,Ben,Mike,-,Jury Vote,Jury Vote,Jury Vote
+Devon,-,Simone,Patrick,None,-,-,Jessica,Desi,Desi,Cole,JP,Joe,Ben,Ashley,Mike,None,Eliminated,Ryan,,
+Mike,-,-,-,-,-,-,Chrissy,Joe,Joe,Cole,JP,Ryan,Ben,Ashley,Ben,None,,,Chrissy,
+Ashley,Katrina,-,-,Joe,-,-,Jessica,Joe,Desi,Cole,JP,Joe,Ben,Mike,,,,,Chrissy,
+Lauren,-,Simone,Patrick,-,-,-,Jessica,None,None,Cole,JP,Joe,Ben,,,,,,,Ben
+Joe,-,-,-,Alan,-,-,Chrissy,Ben,None,Cole,JP,Ryan,,,,,,,,Ben
+JP,Katrina,-,-,-,Roark,Ali,Jessica,Desi,Desi,Mike,Mike,,,,,,,,,Ben
+Cole,-,-,-,-,-,-,Chrissy,Joe,Desi,Ben,,,,,,,,,,Ben
+Desi,-,-,-,Alan,-,-,Chrissy,Lauren,None,,,,,,,,,,,Ben
+Jessica,-,-,-,-,-,-,Chrissy,,,,,,,,,,,,,
+Ali,-,Simone,Patrick,-,Chrissy,JP,,,,,,,,,,,,,,
+Roark,-,-,-,-,Chrissy,,,,,,,,,,,,,,,
+Alan,Katrina,-,-,Joe,,,,,,,,,,,,,,,,
+Patrick,-,Simone,Lauren,,,,,,,,,,,,,,,,,
+Simone,-,Patrick,,,,,,,,,,,,,,,,,,
+Katrina,Ashley,,,,,,,,,,,,,,,,,,,

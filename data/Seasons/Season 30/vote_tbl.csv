@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tiebreak_4,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tiebreak_15,Tribal_15,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,4,5,6,7,8,9,10,11,12,13,14,15,15,16,16,16
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,4,5,6,7,8,9,10,11,12,13,14,14,14,14,14,14
+Voted out:,So,Vince,Nina,Tie,Lindsey,Max,Joaquin,Kelly,Hali,Joe,Jenn,Shirin,Tyler,Dan,Sierra,Tie,Rodney,Will,Carolyn,Mike
+Vote:,4-2,3-2-1,3-2,2-2-2,3-0-0,5-2,4-3,4-1-0,7-4,5-4-1,5-3-1,4-2-2,3-0,2-0,4-1,2-2,Tiebreaker,6-1-1,6-1-1,6-1-1
+Mike,-,-,-,Lindsey,Lindsey,-,Joaquin,Jenn,Hali,Joe,Jenn,Tyler,Tyler,Dan,Sierra,Rodney,-,Jury Vote,Jury Vote,Jury Vote
+Carolyn,So,-,-,-,-,Max,-,Jenn,Hali,Jenn,Jenn,Shirin,Tyler,Dan,Sierra,Rodney,-,Jury Vote,Jury Vote,Jury Vote
+Will,-,Vince,Nina,-,-,Max,-,Hali,Hali,Jenn,Jenn,Dan,Mike,Carolyn,Sierra,Carolyn,-,Jury Vote,Jury Vote,Jury Vote
+Rodney,-,-,-,Sierra,None,-,Joe,Jenn,Hali,Joe,Shirin,Shirin,Mike,Carolyn,Sierra,Carolyn,Voted out,Will,,
+Sierra,-,-,-,Rodney,None,-,Joaquin,Jenn,Hali,Joe,Shirin,Shirin,Tyler,Carolyn,Rodney,,,,Carolyn,
+Dan,-,-,-,Lindsey,Lindsey,-,Joaquin,Jenn,Hali,Joe,Shirin,Shirin,Mike,Carolyn,,,,,,Mike
+Tyler,So,-,-,-,-,-,Joe,Jenn,Hali,Jenn,Jenn,Dan,Mike,,,,,,,Mike
+Shirin,So,-,-,-,-,Will,-,Kelly,Dan,Joe,Jenn,Tyler,,,,,,,,Mike
+Jenn,-,Vince,Nina,-,-,Max,-,Kelly,Dan,Dan,Carolyn,,,,,,,,,Mike
+Joe,-,Nina,Nina,-,-,-,Joaquin,Kelly,Dan,Jenn,,,,,,,,,,Mike
+Hali,-,Vince,Will,-,-,Max,-,Kelly,Dan,,,,,,,,,,,Mike
+Kelly,-,-,-,Sierra,Lindsey,Max,-,Jenn,,,,,,,,,,,,
+Joaquin,Carolyn,-,-,-,-,-,Joe,,,,,,,,,,,,,
+Max,So,-,-,-,-,Will,,,,,,,,,,,,,,
+Lindsey,-,-,-,Rodney,None,,,,,,,,,,,,,,,
+Nina,-,Jenn,Will,,,,,,,,,,,,,,,,,
+Vince,-,Jenn,,,,,,,,,,,,,,,,,,
+So,Carolyn,,,,,,,,,,,,,,,,,,,

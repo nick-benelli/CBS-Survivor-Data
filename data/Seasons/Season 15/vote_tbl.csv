@@ -1,0 +1,21 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,14,14
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,9,11,12,13,14,14,14,14
+Voted out:,Chicken,Ashley,Leslie,Dave,Aaron,Sherea,Jaime,Jean-Robert,Frosti,James,Erik,Peih-Gee,Denise,Amanda,Courtney,Todd
+Vote:,5-2-1,6-1,6-2,5-1,3-1-1,5-2,7-3,5-3-1,7-1,5-1-1,4-2,4-1,3-1,4-2-1,4-2-1,4-2-1
+Todd,-,-,Leslie,-,-,Sherea,Jaime,Jean-Robert,Frosti,James,Erik,Peih-Gee,Denise,Jury Vote,Jury Vote,Jury Vote
+Courtney,-,-,Jean-Robert,-,-,Jean-Robert,Jaime,Jean-Robert,Frosti,James,Erik,Peih-Gee,Denise,Jury Vote,Jury Vote,Jury Vote
+Amanda,-,-,Leslie,-,-,Sherea,Jaime,Jean-Robert,Frosti,James,Erik,Peih-Gee,Denise,Jury Vote,Jury Vote,Jury Vote
+Denise,-,-,Leslie,-,-,Sherea,Jaime,Peih-Gee,Frosti,James,Erik,Peih-Gee,Todd,,Courtney,
+Peih-Gee,Chicken,Ashley,-,Dave,Aaron,-,Jean-Robert,James,Frosti,Todd,Todd,Todd,,,,Todd
+Erik,Chicken,Ashley,-,Dave,Aaron,-,Jean-Robert,James,Frosti,James,Todd,,,Amanda,,
+James,-,-,Leslie,-,Peih-Gee,-,Jaime,Jean-Robert,Frosti,Peih-Gee,,,,,Courtney,
+Frosti,Chicken,Ashley,-,Dave,-,Sherea,Jaime,Jean-Robert,Erik,,,,,,,Todd
+Jean-Robert,-,-,Leslie,-,-,Sherea,Jaime,James,,,,,,,,Todd
+Jaime,Chicken,Ashley,-,Dave,Aaron,-,Jean-Robert,,,,,,,,,Todd
+Sherea,Chicken,Ashley,-,Dave,-,Jean-Robert,,,,,,,,,,
+Aaron,-,-,Leslie,-,James,,,,,,,,,,,
+Dave,Ashley,Ashley,-,Sherea,,,,,,,,,,,,
+Leslie,-,-,Jean-Robert,,,,,,,,,,,,,
+Ashley,Peih-Gee,Dave,,,,,,,,,,,,,,

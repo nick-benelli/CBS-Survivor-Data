@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,7,8,9,10,11,12,13,14,14,14,14
+Voted out:,Carolina,Candace,Jerry,Sandy,Spencer,Sydney,Joe,Brendan,Tyson,Sierra,Debbie,Coach,Taj,Erinn,Stephen,J.T.
+Vote:,7-1,7-1,6-1,5-1-1,5-1,3-2,No Vote,4-3-2,5-3,4-2-1,4-1-1,3-2,3-1,1-0,7-0,7-0
+J.T.,Carolina,-,-,Sandy,Spencer,Sydney,-,Sierra,Tyson,Sierra,Debbie,Erinn,Taj,Erinn,Jury Vote,Jury Vote
+Stephen,Carolina,-,-,Sandy,Spencer,Sydney,-,Brendan,Tyson,Sierra,Debbie,Coach,Taj,None,Jury Vote,Jury Vote
+Erinn,-,Candace,Jerry,-,-,-,-,Sierra,Tyson,Stephen,Debbie,Coach,Taj,None,,J.T.
+Taj,Carolina,-,-,Joe,Spencer,Sydney,-,Brendan,Tyson,Debbie,Debbie,Coach,Erinn,,,J.T.
+Coach,-,Candace,Jerry,-,-,-,-,Brendan,Sierra,Sierra,Taj,Erinn,,,,J.T.
+Debbie,-,Candace,Jerry,-,-,-,-,Brendan,Sierra,Sierra,Coach,,,,,J.T.
+Sierra,-,Candace,Jerry,-,-,-,-,Coach,Tyson,Debbie,,,,,,J.T.
+Tyson,-,Candace,Jerry,-,-,-,-,Sierra,Sierra,,,,,,,J.T.
+Brendan,-,Candace,Jerry,-,-,-,-,Coach,,,,,,,,J.T.
+Joe,Carolina,-,-,Sandy,Spencer,Taj,Evacuated,,,,,,,,,
+Sydney,Carolina,-,-,Sandy,Spencer,Taj,,,,,,,,,,
+Spencer,Carolina,-,-,Sandy,Taj,,,,,,,,,,,
+Sandy,Carolina,-,-,Sydney,,,,,,,,,,,,
+Jerry,-,Candace,Erinn,,,,,,,,,,,,,
+Candace,-,Sierra,,,,,,,,,,,,,,
+Carolina,Sandy,,,,,,,,,,,,,,,

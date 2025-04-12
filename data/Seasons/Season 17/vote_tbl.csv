@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tiebreak_15,Tribal_15,Final Tribal,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,15,16,16,16
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,First Switched Tribes,First Switched Tribes,First Switched Tribes,First Switched Tribes,First Switched Tribes,Second Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,1,2,3,4,5,6,6,7,8,9,11,12,13,13,13,13,13,13
+Voted out:,Michelle,Gillian,Paloma,Jacquie,GC,Kelly,Ace,Dan,Marcus,Charlie,Randy,Corinne,Crystal,Ken,Tie,Matty,Sugar,Susie,Bob
+Vote:,8-1,7-1,7-2,5-2,6-1,5-1,3-2,4-3,3-2,5-4,5-3,4-3,4-0,4-1,2-2,Tiebreaker,4-3-0,4-3-0,4-3-0
+Bob,-,-,Paloma,-,-,-,-,Dan,Ken,Crystal,Susie,Matty,Crystal,Ken,Matty,-,Jury Vote,Jury Vote,Jury Vote
+Susie,Michelle,Gillian,-,-,-,-,-,Dan,Marcus,Charlie,Randy,Corinne,Crystal,Ken,Bob,-,Jury Vote,Jury Vote,Jury Vote
+Sugar,-,-,Paloma,Exiled,GC,Kelly,Ace,-,-,Charlie,Randy,Corinne,Crystal,Ken,Matty,-,Jury Vote,Jury Vote,Jury Vote
+Matty,Michelle,Gillian,-,Jacquie,GC,Kelly,Crystal,-,-,Charlie,Randy,Corinne,Crystal,Ken,Bob,Voted out,,Susie,
+Ken,Michelle,Gillian,-,Jacquie,GC,Kelly,Ace,-,Marcus,Charlie,Randy,Matty,Matty,Susie,,,,Susie,
+Crystal,Michelle,Gillian,-,Jacquie,GC,Kelly,Ace,-,Marcus,Charlie,Randy,Corinne,Matty,,,,,Susie,
+Corinne,-,-,Paloma,-,-,-,-,Dan,-,Crystal,Susie,Matty,,,,,,,Bob
+Randy,Michelle,Gillian,-,-,-,-,-,Susie,-,Crystal,Susie,,,,,,,,Bob
+Charlie,-,-,Paloma,-,-,-,-,Dan,-,Crystal,,,,,,,,,Bob
+Marcus,-,-,Paloma,-,-,-,-,Susie,Ken,,,,,,,,,,Bob
+Dan,Michelle,Gillian,-,-,-,-,-,Susie,,,,,,,,,,,
+Ace,-,-,Paloma,Kelly,GC,Kelly,Crystal,,,,,,,,,,,,
+Kelly,-,-,Ace,Jacquie,GC,Crystal,,,,,,,,,,,,,
+GC,Michelle,Gillian,-,Jacquie,Kelly,,,,,,,,,,,,,,
+Jacquie,-,-,Paloma,Kelly,,,,,,,,,,,,,,,
+Paloma,-,-,Ace,,,,,,,,,,,,,,,,
+Gillian,Michelle,Ken,,,,,,,,,,,,,,,,,
+Michelle,Gillian,,,,,,,,,,,,,,,,,,

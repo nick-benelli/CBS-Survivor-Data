@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Tony,Woo,9.0,0.8888888888888888,Kass,8.0,0.75,LJ,4.0,0.75,Jefra,6.0,0.6666666666666666,Trish,8.0,0.625
+Woo,Tony,9.0,0.8888888888888888,Kass,8.0,0.75,Trish,8.0,0.5,Jefra,6.0,0.5,LJ,4.0,0.5
+Kass,Jefra,5.0,1.0,Trish,7.0,0.8571428571428571,Tony,8.0,0.75,Woo,8.0,0.75,Tasha,10.0,0.3
+Spencer,Jeremiah,5.0,1.0,Tasha,10.0,0.9,Tony,8.0,0.375,Woo,8.0,0.375,Kass,12.0,0.25
+Trish,Jefra,6.0,1.0,LJ,4.0,1.0,Kass,7.0,0.8571428571428571,Tony,8.0,0.625,Woo,8.0,0.5
+Tasha,Jeremiah,5.0,1.0,Spencer,10.0,0.9,Tony,6.0,0.3333333333333333,Woo,6.0,0.3333333333333333,Kass,10.0,0.3
+Jefra,Trish,6.0,1.0,LJ,5.0,1.0,Kass,5.0,1.0,Tony,6.0,0.6666666666666666,Woo,6.0,0.5
+Jeremiah,Spencer,5.0,1.0,Tasha,5.0,1.0,Morgan,4.0,0.75,LJ,4.0,0.25,Tony,4.0,0.25
+LJ,Jefra,5.0,1.0,Trish,4.0,1.0,Tony,4.0,0.75,Woo,4.0,0.5,Jeremiah,4.0,0.25
+Morgan,Jeremiah,4.0,0.75,,,,,,,,,,,,

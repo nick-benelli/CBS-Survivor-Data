@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,6,7,8,9,10,11,12,13,14,14,14,14
+Voted out:,Jim,Morgan,Brianna,Brooke,Blake,Margaret,Brian,Amy,Brandon,Bobby Jon,Jamie,Gary,Judd,Cindy,Lydia,Rafe,Stephenie,Danni
+Vote:,8-1,8-1,7-1,5-3,5-2,6-1,5-1,4-1,6-4,6-2-1,6-2,6-1,4-2,4-1,3-1,1-0,6-1,6-1
+Danni,Jim,-,-,-,Blake,-,Brian,Amy,Jamie,Stephenie,Jamie,Gary,Judd,Cindy,Lydia,Rafe,Jury Vote,Jury Vote
+Stephenie,-,Morgan,Brianna,Brooke,-,Margaret,-,-,Brandon,Bobby Jon,Jamie,Gary,Judd,Cindy,Lydia,None,Jury Vote,Jury Vote
+Rafe,-,Morgan,Brianna,Brooke,-,Margaret,-,-,Brandon,Bobby Jon,Jamie,Gary,Judd,Cindy,Lydia,None,Stephenie,
+Lydia,-,Morgan,Brianna,Brooke,-,Margaret,-,-,Brandon,Bobby Jon,Jamie,Gary,Judd,Cindy,Danni,,,Danni
+Cindy,Jim,-,-,Lydia,-,Margaret,-,-,Brandon,Bobby Jon,Jamie,Gary,Lydia,Rafe,,,,Danni
+Judd,Jim,-,-,Brooke,-,Margaret,-,-,Brandon,Bobby Jon,Gary,Gary,Lydia,,,,,Danni
+Gary,-,Morgan,Brianna,-,Blake,-,Brian,Amy,Jamie,Cindy,Jamie,Cindy,,,,,,Danni
+Jamie,-,Morgan,Brianna,Brooke,-,Margaret,-,-,Brandon,Bobby Jon,Gary,,,,,,,Danni
+Bobby Jon,Jim,-,-,-,Blake,-,Brian,Amy,Jamie,Stephenie,,,,,,,,Danni
+Brandon,Jim,-,-,-,Brian,-,Brian,Amy,Jamie,,,,,,,,,
+Amy,-,Morgan,Brianna,-,Blake,-,Brian,Bobby Jon,,,,,,,,,,
+Brian,-,Morgan,Brianna,-,Blake,-,Bobby Jon,,,,,,,,,,,
+Margaret,Jim,-,-,Lydia,-,Judd,,,,,,,,,,,,
+Blake,Jim,-,-,-,Brian,,,,,,,,,,,,,
+Brooke,Jim,-,-,Lydia,,,,,,,,,,,,,,
+Brianna,-,Morgan,Lydia,,,,,,,,,,,,,,,
+Morgan,-,Lydia,,,,,,,,,,,,,,,,
+Jim,Margaret,,,,,,,,,,,,,,,,,

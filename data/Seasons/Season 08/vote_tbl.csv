@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17
+Tribe Status:,Original Tribe,Original Tribe,Original Tribe,Original Tribe,Absorbed Tribes,Absorbed Tribes,Absorbed Tribes,Absorbed Tribes,SwitchedTribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,16,16,16
+Voted out:,Tina,Rudy,Jenna M.,Rob C.,Richard,Susan,Colby,Ethan,Jerri,Lex,Kathy,Alicia,Shii Ann,Tom,Rupert,Jenna L.,Rob M.,Amber
+Vote:,4-2,3-2,No Vote,5-1,6-1,No Vote,3-2,4-1,4-1,7-2,6-2,6-1,5-1,4-1,3-1,1-0,4-3,4-3
+Amber,-,-,-,Rob C.,-,-,-,-,Jerri,Lex,Kathy,Alicia,Shii Ann,Tom,Rupert,None,Jury Vote,Jury Vote
+Rob M.,-,-,-,Rob C.,-,-,-,-,-,Lex,Kathy,Alicia,Shii Ann,Tom,Rupert,Jenna L.,Jury Vote,Jury Vote
+Jenna L.,Tina,Rudy,-,-,-,-,-,-,-,Lex,Kathy,Alicia,Shii Ann,Tom,Rupert,None,Rob M.,
+Rupert,Tina,Ethan,-,-,-,-,-,-,-,Lex,Kathy,Alicia,Shii Ann,Tom,Rob M.,,Rob M.,
+Tom,-,-,-,Rob C.,-,-,-,-,-,Lex,Kathy,Alicia,Shii Ann,Jenna L.,,,,Amber
+Shii Ann,-,-,-,-,Richard,-,Colby,Ethan,Jerri,Lex,Amber,Alicia,Amber,,,,,Amber
+Alicia,-,-,-,Rob C.,-,-,-,-,-,Lex,Kathy,Rupert,,,,,,Amber
+Kathy,-,-,-,-,Richard,-,Kidnapped,Ethan,Jerri,Amber,Amber,,,,,,Rob M.,
+Lex,-,-,-,-,Richard,-,Colby,Ethan,Jerri,Amber,,,,,,,,Amber
+Jerri,Tina,Rudy,-,-,Richard,-,Colby,Ethan,Amber,,,,,,,,,
+Ethan,Jenna L.,Rudy,-,-,Richard,-,Jerri,Jerri,,,,,,,,,,
+Colby,-,-,-,-,Richard,-,Jerri,,,,,,,,,,,
+Susan,-,-,-,Rob C.,-,Quit,,,,,,,,,,,,
+Richard,-,-,-,-,Colby,,,,,,,,,,,,,
+Rob C.,-,-,-,Alicia,,,,,,,,,,,,,,
+Jenna M.,-,-,Quit,,,,,,,,,,,,,,,
+Rudy,Tina,Ethan,,,,,,,,,,,,,,,,
+Tina,Jenna L.,,,,,,,,,,,,,,,,,

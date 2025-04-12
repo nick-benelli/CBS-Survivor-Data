@@ -1,0 +1,19 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Switched Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Kourtney Moon,Kourtney,[],29,Austin,TX,Motorcycle Repairwoman,Salani,,,EvacuatedDay 3,0,18.0,False,False,False,1,False,1,0,0,0,2,0,0,0,0,0,0,0.0,,0,0
+1,Nina Acosta,Nina,[],51,Clovis,CA,Retired LAPD Officer,Salani,,,1st Voted OutDay 5,6,17.0,False,False,False,2,False,2,0,0,0,3,1,0,1,0,0,1,0.0,,0,6
+2,Matt Quinlan,Matt,[],33,San Francisco,CA,Attorney,Manono,,,2nd Voted OutDay 8,7,16.0,False,False,False,3,False,3,2,0,0,4,2,1,1,0,0,1,0.6666666666666666,,0,7
+3,Bill Posley,Bill,[],27,Venice,CA,Stand-Up Comedian,Manono,,,3rd Voted OutDay 11,8,15.0,False,False,False,4,False,4,3,0,0,5,3,1,2,0,1,1,0.75,,0,8
+4,Monica Culpepper,Monica,[],41,Tampa,FL,Ex-NFL Player's Wife,Salani,Manono,,4th Voted OutDay 14,5,14.0,False,False,False,5,False,5,1,0,0,6,4,2,2,0,0,2,0.2,,0,5
+5,Colton Cumbie,Colton,[],20,Monroeville,AL,Student,Manono,Manono,,EvacuatedDay 16,1,13.0,False,False,False,6,False,5,3,0,0,7,4,1,3,0,3,0,0.6,,0,1
+6,Jonas Otsuji,Jonas,[],37,Lehi,UT,Sushi Chef,Manono,Manono,Tikiano,5th Voted Out1st Jury MemberDay 20,10,12.0,False,False,False,7,True,5,3,1,0,8,5,1,4,0,3,1,0.5,0.0,0,10
+7,Michael Jefferson,Michael,[],29,Seattle,WA,Banker,Manono,Salani,Tikiano,6th Voted Out2nd Jury MemberDay 22,9,11.0,False,False,False,8,True,5,4,2,0,9,6,2,4,0,2,2,0.5714285714285714,0.0,0,9
+8,Jay Byars,Jay,[],24,Gaffney,SC,Model,Manono,Salani,Tikiano,7th Voted Out3rd Jury MemberDay 25,5,10.0,False,False,False,9,True,5,4,3,1,10,7,2,5,0,4,1,1.75,3.3333333333333335,0,5
+9,Leif Manson,Leif,[],27,San Diego,CA,Phlebotomist,Manono,Manono,Tikiano,8th Voted Out4th Jury MemberDay 27,5,9.0,False,False,False,10,True,5,3,4,0,11,8,1,7,0,4,3,0.3333333333333333,0.0,0,5
+10,Troyzan Robertson,Troyzan,[],50,Miami,FL,Swimsuit Photographer,Manono,Salani,Tikiano,9th Voted Out5th Jury MemberDay 30,6,8.0,False,False,False,11,True,5,4,5,2,12,9,2,7,0,4,3,2.3,3.8,0,6
+11,Kat Edorsson,Kat,[],22,Orlando,FL,Timeshare Representative,Salani,Salani,Tikiano,10th Voted Out6th Jury MemberDay 33,7,7.0,False,False,False,12,True,5,2,6,0,13,10,3,7,0,5,2,0.18181818181818182,0.0,0,7
+12,Tarzan Smith,Tarzan,[],63,Houston,TX,Plastic Surgeon,Manono,Manono,Tikiano,11th Voted Out7th Jury MemberDay 36,12,6.0,False,False,False,13,True,5,3,7,0,14,11,1,10,0,7,3,0.25,0.0,0,12
+13,Alicia Rosa,Alicia,[],24,Chicago,IL,Special Education Teacher,Salani,Manono,Tikiano,12th Voted Out8th Jury MemberDay 37,5,5.0,False,False,False,14,True,5,1,8,1,15,12,2,10,0,7,3,0.46153846153846156,0.625,0,5
+14,Christina Cha,Christina,[],28,West Hollywood,CA,Career Consultant,Salani,Manono,Tikiano,13th Voted Out9th Jury MemberDay 38,9,4.0,False,False,False,15,True,5,1,9,0,16,13,2,11,0,5,6,0.07142857142857142,0.0,0,9
+15,Chelsea Meissner,Chelsea,[],26,Charleston,SC,Medical Saleswoman,Salani,Salani,Tikiano,SecondRunner-Up,4,3.0,False,False,True,16,True,5,2,9,1,17,13,3,10,0,9,1,0.7857142857142857,1.0,0,4
+16,Sabrina Thompson,Sabrina,[],33,Brooklyn,NY,High School Teacher,Salani,Salani,Tikiano,Runner-Up,2,2.0,False,False,True,16,True,5,2,9,0,17,13,3,10,0,9,1,0.14285714285714285,0.0,2,2
+17,Kim Spradlin,Kim,[],28,San Antonio,TX,Bridal Shop Owner,Salani,Salani,Tikiano,Sole Survivor,3,1.0,False,True,True,16,True,5,2,9,4,17,13,3,10,0,9,1,1.5714285714285714,2.2222222222222223,7,3

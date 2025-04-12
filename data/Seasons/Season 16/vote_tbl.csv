@@ -1,0 +1,26 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Tribal_17,Tribal_18,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,19
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,6,7,7,8,9,10,11,12,12,13,14,14,14,14
+Voted out:,Jon,Mary,Yau-Man,Mikey B.,Joel,Jonathan,Chet,Kathy,Tracy,Ami,Eliza,Ozzy,Jason,James,Alexis,Erik,Natalie,Cirie,Amanda,Parvati
+Vote:,9-1,6-2-2,6-2-1,6-3,6-2,No Vote,5-2,No Vote,5-1,4-1,8-2,5-4,4-3-1,No Vote,2-0,4-1,3-1,1-0,5-3,5-3
+Parvati,Jon,-,Yau-Man,-,-,-,-,-,-,-,Eliza,Ozzy,Jason,-,Alexis,Erik,Natalie,None,Jury Vote,Jury Vote
+Amanda,Jon,-,Yau-Man,-,Joel,-,Chet,-,Tracy,Ami,Eliza,Jason,Jason,-,Alexis,Erik,Natalie,Cirie,Jury Vote,Jury Vote
+Cirie,Jon,-,Yau-Man,-,Joel,-,Chet,-,Tracy,Ami,Eliza,Ozzy,Jason,-,Amanda,Erik,Natalie,None,,Parvati
+Natalie,-,Mary,-,Mikey B.,-,-,-,-,-,-,Eliza,Ozzy,James,-,Amanda,Erik,Cirie,,,Parvati
+Erik,-,Mary,-,Mikey B.,Chet,-,Chet,-,Tracy,Ami,Eliza,Jason,Jason,-,Amanda,Parvati,,,Amanda,
+Alexis,-,Mary,-,Chet,-,-,-,-,-,-,Eliza,Ozzy,James,-,Amanda,,,,,Parvati
+James,Jon,-,Yau-Man,-,-,-,-,-,-,-,Eliza,Jason,Parvati,Evacuated,,,,,Amanda,
+Jason,-,Chet,-,Chet,-,-,-,-,-,-,Ozzy,Ozzy,James,,,,,,,Parvati
+Ozzy,Jon,-,Yau-Man,-,Joel,-,Chet,-,Tracy,Ami,Eliza,Jason,,,,,,,Amanda,
+Eliza,Jon,-,Yau-Man,-,-,-,-,-,-,-,Ozzy,,,,,,,,,Parvati
+Ami,Jon,-,Cirie,-,Joel,-,Chet,-,Tracy,Erik,,,,,,,,,,
+Tracy,-,Mary,-,Mikey B.,Joel,-,Erik,-,Ozzy,,,,,,,,,,,
+Kathy,-,Mary,-,Mikey B.,-,-,-,Quit,,,,,,,,,,,,
+Chet,-,Mary,-,Mikey B.,Joel,-,Erik,,,,,,,,,,,,,
+Jonathan,Jon,-,Parvati,-,-,Evacuated,,,,,,,,,,,,,,
+Joel,-,Tracy,-,Mikey B.,Chet,,,,,,,,,,,,,,,
+Mikey B.,-,Chet,-,Chet,,,,,,,,,,,,,,,,
+Yau-Man,Jon,-,Parvati,,,,,,,,,,,,,,,,,
+Mary,-,Tracy,,,,,,,,,,,,,,,,,,
+Jon,Ozzy,,,,,,,,,,,,,,,,,,,

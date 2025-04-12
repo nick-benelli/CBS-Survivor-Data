@@ -1,0 +1,20 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""Hot Girl with a Grudge""","February 26, 2014","['Solana', 'Aparri']","['Solana', 'Aparri']","['David', '4-2']",1st Voted OutDay 3,9.40,2.4/7,"['Solana', 'Aparri']"
+1,1,"""Hot Girl with a Grudge""","February 26, 2014","['Aparri', 'Solana']","['Aparri', 'Solana']","['Garrett', '3-2']",2nd Voted OutDay 6,9.40,2.4/7,"['Aparri', 'Solana']"
+2,2,"""Cops-R-Us""","March 5, 2014","['Aparri', 'Luzon']","['Aparri', 'Luzon']","['Brice', '2-2-2;3-0-0']",3rd Voted OutDay 8,9.58,2.4/8,"['Aparri', 'Luzon']"
+3,3,"""Our Time to Shine""","March 12, 2014","['Solana', 'Aparri']","['Solana', 'Aparri']","[""J'Tia"", '3-1']",4th Voted OutDay 11,9.66,2.5/8,"['Solana', 'Aparri']"
+4,4,"""Odd One Out""","March 19, 2014",Solana,Aparri,"['Cliff', '4-3']",5th Voted OutDay 14,9.46,2.5/8,['Aparri']
+5,5,"""We Found Our Zombies""","March 26, 2014",Solana,Solana,"['Lindsey', 'No Vote']",QuitDay 14,9.85,2.3/7,['Solana']
+6,5,"""We Found Our Zombies""","March 26, 2014",Solana,Solana,"['Alexis', '6-1']",6th Voted OutDay 16,9.85,2.3/7,['Solana']
+7,6,"""Head of the Snake""","April 2, 2014",None,Woo,"['Sarah', '6-5']",7th Voted Out1st Jury MemberDay 19,9.48,2.3/7,['Woo']
+8,7,"""Mad Treasure Hunt""","April 9, 2014","Jefra,Jeremiah,LJ, Morgan,Spencer",Spencer,"['Morgan', '6-4']",8th Voted Out2nd Jury MemberDay 22,9.62,2.4/7,['Spencer']
+9,8,"""Bag of Tricks""","April 16, 2014","Jeremiah,Spencer,Tony",Tasha,"['LJ', '5-3-1']",9th Voted Out3rd Jury MemberDay 25,9.35,2.3/8,['Tasha']
+10,9,"""Sitting in My Spy Shack""","April 23, 2014","Jefra,Jeremiah,Spencer,Tasha",Tasha,"['Jeremiah', '5-3']",10th Voted Out4th Jury MemberDay 28,9.43,2.3/7,['Tasha']
+11,10,"""Chaos Is My Friend""","April 30, 2014",SurvivorAuction,Tasha,"['Jefra', '4-3']",11th Voted Out5th Jury MemberDay 30,9.70,2.3/7,['Tasha']
+12,11,"""Havoc to Wreak""","May 7, 2014","Kass,Spencer,Woo",Spencer,"['Tasha', '4-1-1']",12th Voted Out6th Jury MemberDay 33,9.91,2.4/8,['Spencer']
+13,12,"""Straw That Broke the Camel's Back""","May 14, 2014",Tony[Trish],Spencer,"['Trish', '4-1']",13th Voted Out7th Jury MemberDay 36,9.93,2.6/9,['Spencer']
+14,13,"""It's Do or Die""","May 21, 2014",None,Kass,"['Spencer', '3-1']",14th Voted Out8th Jury MemberDay 37,9.58,2.6/8,['Kass']
+15,13,"""It's Do or Die""","May 21, 2014",None,Woo,"['Kass', '1-0']",15th Voted Out9th Jury MemberDay 38,9.58,2.6/8,['Woo']
+16,13,"""It's Do or Die""","May 21, 2014",Jury Vote,Jury Vote,"['Woo', '8-1']",Runner-Up,9.58,2.6/8,[]
+17,13,"""It's Do or Die""","May 21, 2014",Jury Vote,Jury Vote,"['Tony', '8-1']",Sole Survivor,9.58,2.6/8,[]
+18,14,"""Reunion""","May 21, 2014",,,,,7.14,1.9/6,[]

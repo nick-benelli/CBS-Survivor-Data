@@ -1,0 +1,15 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Cochran,Phillip,7.0,1.0,Sherri,8.0,0.875,Dawn,12.0,0.8333333333333334,Andrea,8.0,0.75,Erik,9.0,0.6666666666666666
+Dawn,Sherri,8.0,1.0,Andrea,8.0,0.875,Phillip,7.0,0.8571428571428571,Cochran,12.0,0.8333333333333334,Corinne,5.0,0.8
+Sherri,Dawn,8.0,1.0,Cochran,8.0,0.875,Brenda,7.0,0.8571428571428571,Andrea,6.0,0.8333333333333334,Michael,5.0,0.6
+Eddie,Reynold,8.0,0.875,Malcolm,4.0,0.75,Michael,5.0,0.6,Sherri,11.0,0.18181818181818182,Andrea,6.0,0.16666666666666666
+Erik,Brenda,9.0,0.7777777777777778,Cochran,9.0,0.6666666666666666,Phillip,5.0,0.6,Sherri,7.0,0.5714285714285714,Dawn,9.0,0.5555555555555556
+Brenda,Sherri,7.0,0.8571428571428571,Phillip,5.0,0.8,Dawn,9.0,0.7777777777777778,Erik,9.0,0.7777777777777778,Andrea,8.0,0.75
+Andrea,Phillip,5.0,1.0,Dawn,8.0,0.875,Sherri,6.0,0.8333333333333334,Cochran,8.0,0.75,Brenda,8.0,0.75
+Reynold,Eddie,8.0,0.875,Malcolm,4.0,0.75,Michael,5.0,0.6,Erik,5.0,0.2,Sherri,8.0,0.125
+Malcolm,Eddie,4.0,0.75,Reynold,4.0,0.75,Phillip,5.0,0.6,Cochran,6.0,0.5,Dawn,6.0,0.5
+Phillip,Cochran,7.0,1.0,Andrea,5.0,1.0,Dawn,7.0,0.8571428571428571,Brenda,5.0,0.8,Erik,5.0,0.6
+Michael,Matt,4.0,1.0,Sherri,5.0,0.6,Eddie,5.0,0.6,Reynold,5.0,0.6,Julia,5.0,0.6
+Corinne,Dawn,5.0,0.8,Cochran,5.0,0.6,Phillip,5.0,0.6,,,,,,
+Julia,Matt,4.0,0.75,Michael,5.0,0.6,,,,,,,,,
+Matt,Michael,4.0,1.0,Julia,4.0,0.75,,,,,,,,,

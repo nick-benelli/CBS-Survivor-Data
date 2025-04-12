@@ -1,0 +1,11 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4
+Brian,Clay,8.0,0.875,Jan,8.0,0.875,Ted,7.0,0.8571428571428571,Helen,8.0,0.75
+Clay,Brian,8.0,0.875,Jan,8.0,0.75,Ted,7.0,0.7142857142857143,Helen,8.0,0.625
+Jan,Brian,8.0,0.875,Clay,8.0,0.75,Ted,7.0,0.7142857142857143,Helen,8.0,0.625
+Helen,Brian,8.0,0.75,Ted,7.0,0.7142857142857143,Clay,8.0,0.625,Jan,8.0,0.625
+Ted,Brian,7.0,0.8571428571428571,Clay,7.0,0.7142857142857143,Jan,7.0,0.7142857142857143,Helen,7.0,0.7142857142857143
+Jake,Ken,6.0,1.0,Penny,7.0,0.8571428571428571,Erin,5.0,0.8,Shii Ann,4.0,0.75
+Penny,Ken,6.0,1.0,Jake,7.0,0.8571428571428571,Erin,5.0,0.8,Shii Ann,4.0,0.75
+Ken,Jake,6.0,1.0,Penny,6.0,1.0,Erin,5.0,0.8,Shii Ann,4.0,0.75
+Erin,Jake,5.0,0.8,Penny,5.0,0.8,Ken,5.0,0.8,Shii Ann,4.0,0.75
+Shii Ann,Jake,4.0,0.75,Penny,4.0,0.75,Ken,4.0,0.75,Erin,4.0,0.75

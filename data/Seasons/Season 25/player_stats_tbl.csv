@@ -1,0 +1,19 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Absorbed Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Zane Knight,Zane,[],28,Danville,VA,Tire Repairman,Matsing,,,1st Voted OutDay 3,5,18.0,False,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,5
+1,Roxy Morris,Roxy,[],27,Brooklyn,NY,Seminary Student,Matsing,,,2nd Voted OutDay 6,4,17.0,False,False,False,2,False,2,0,0,0,3,2,0,2,0,1,1,0.0,,0,4
+2,Angie Layton,Angie,[],20,Provo,UT,Model/Student,Matsing,,,3rd Voted OutDay 8,4,16.0,False,False,False,3,False,3,0,0,0,4,3,0,3,0,2,1,0.0,,0,4
+3,Russell Swan,Russell,['Samoa'],45,Glenside,PA,,Matsing,,,4th Voted OutDay 10,4,15.0,True,False,False,4,False,4,0,0,0,5,4,0,4,0,3,1,0.0,,0,4
+4,Dana Lambert,Dana,[],32,Winston-Salem,NC,Cosmetologist,Kalabaw,Kalabaw,,QuitDay 12,0,14.0,False,False,False,5,False,4,4,0,0,5,4,4,0,0,0,0,0.5,,0,0
+5,Sarah Dawson,Dawson,[],28,Silver Spring,MD,Insurance Saleswoman,Kalabaw,Kalabaw,,5th Voted OutDay 13,5,13.0,False,False,False,6,False,6,4,0,0,7,5,4,1,0,0,1,0.3333333333333333,,0,5
+6,Katie Hanson,Katie,[],22,Newark,DE,Former Miss Delaware,Kalabaw,Kalabaw,,6th Voted OutDay 16,4,12.0,False,False,False,7,False,7,4,0,0,8,6,4,2,0,1,1,0.2857142857142857,,0,4
+7,RC Saint-Amour,RC,[],26,New York City,NY,Investment Banker,Tandang,Tandang,Dangrayne,7th Voted Out1st Jury MemberDay 19,4,11.0,False,False,False,8,True,7,7,1,0,9,7,6,1,0,0,1,0.625,0.0,0,4
+8,Jeff Kent,Jeff,[],44,Austin,TX,Retired MLB Player,Kalabaw,Kalabaw,Dangrayne,8th Voted Out2nd Jury MemberDay 22,5,10.0,False,False,False,9,True,7,4,2,0,10,8,4,4,0,3,1,0.2222222222222222,0.0,0,5
+9,Artis Silvester,Artis,[],52,Terrytown,LA,Computer Engineer,Tandang,Tandang,Dangrayne,9th Voted Out3rd Jury MemberDay 25,5,9.0,False,False,False,10,True,7,7,3,0,11,9,6,3,0,2,1,0.5,0.0,0,5
+10,Pete Yurkowski,Pete,[],24,Holmdel,NJ,Engineering Graduate,Tandang,Tandang,Dangrayne,10th Voted Out4th Jury MemberDay 27,9,8.0,False,False,False,11,True,7,7,4,0,12,10,6,4,0,2,2,0.45454545454545453,0.0,0,9
+11,Jonathan Penner,Jonathan,"['Cook Islands', 'Micronesia']",50,Los Angeles,CA,,Kalabaw,Kalabaw,Dangrayne,11th Voted Out5th Jury MemberDay 30,14,7.0,True,False,False,12,True,7,4,5,1,13,11,4,7,0,4,3,0.9166666666666666,1.8,0,14
+12,Carter Williams,Carter,[],24,Shawnee,KS,Track Coach,Kalabaw,Kalabaw,Dangrayne,12th Voted Out6th Jury MemberDay 33,5,6.0,False,False,False,13,True,7,4,6,2,14,12,4,8,0,5,3,1.0384615384615385,1.9166666666666667,0,5
+13,Abi-Maria Gomes,Abi-Maria,[],32,Los Angeles,CA,Business Student,Tandang,Tandang,Dangrayne,13th Voted Out7th Jury MemberDay 36,9,5.0,False,False,False,14,True,7,7,7,1,15,13,6,7,0,2,5,0.7857142857142857,0.8571428571428571,0,9
+14,Malcolm Freberg,Malcolm,[],24,Hermosa Beach,CA,Bartender,Matsing,Tandang,Dangrayne,14th Voted Out8th Jury MemberDay 38,6,4.0,False,False,False,15,True,7,3,8,2,16,14,2,12,0,9,3,0.8,1.125,0,6
+15,Lisa Whelchel,Lisa,[],48,Dallas,TX,Former TV Teen Star,Tandang,Tandang,Dangrayne,Runners-Up,0,3.0,False,False,True,16,True,7,7,8,0,17,14,6,8,0,5,3,0.3333333333333333,0.0,1,0
+16,Michael Skupin,Michael,['The Australian Outback'],50,White Lake,MI,,Tandang,Tandang,Dangrayne,Runners-Up,0,2.0,True,False,True,16,True,7,7,8,2,17,14,6,8,0,6,2,1.0666666666666667,1.375,1,0
+17,Denise Stapley,Denise,[],41,Cedar Rapids,IA,Sex Therapist,Matsing,Kalabaw,Dangrayne,Sole Survivor,6,1.0,False,True,True,16,True,7,0,8,1,17,14,0,14,0,11,3,0.3,0.5625,6,6

@@ -1,0 +1,13 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Yul,Becky,9.0,1.0,Jonathan,6.0,0.8333333333333334,Ozzy,9.0,0.7777777777777778,Sundra,9.0,0.7777777777777778,Candice,4.0,0.5
+Ozzy,Sundra,9.0,1.0,Yul,9.0,0.7777777777777778,Becky,9.0,0.7777777777777778,Jonathan,6.0,0.6666666666666666,Candice,4.0,0.5
+Becky,Yul,9.0,1.0,Jonathan,6.0,0.8333333333333334,Ozzy,9.0,0.7777777777777778,Sundra,9.0,0.7777777777777778,Candice,4.0,0.5
+Sundra,Ozzy,9.0,1.0,Yul,9.0,0.7777777777777778,Becky,9.0,0.7777777777777778,Jonathan,6.0,0.6666666666666666,Candice,4.0,0.5
+Adam,Parvati,10.0,1.0,Candice,5.0,1.0,Jenny,6.0,0.8333333333333334,Rebecca,5.0,0.8,Nate,6.0,0.6666666666666666
+Parvati,Adam,10.0,1.0,Candice,5.0,1.0,Jenny,6.0,0.8333333333333334,Rebecca,5.0,0.8,Nate,6.0,0.6666666666666666
+Jonathan,Yul,6.0,0.8333333333333334,Becky,6.0,0.8333333333333334,Candice,7.0,0.7142857142857143,Ozzy,6.0,0.6666666666666666,Sundra,6.0,0.6666666666666666
+Candice,Adam,5.0,1.0,Parvati,5.0,1.0,Nate,4.0,0.75,Jonathan,7.0,0.7142857142857143,Yul,4.0,0.5
+Nate,Jenny,5.0,0.8,Candice,4.0,0.75,Adam,6.0,0.6666666666666666,Parvati,6.0,0.6666666666666666,Jonathan,4.0,0.5
+Jenny,Adam,6.0,0.8333333333333334,Parvati,6.0,0.8333333333333334,Nate,5.0,0.8,Rebecca,5.0,0.8,Brad,4.0,0.5
+Rebecca,Adam,5.0,0.8,Parvati,5.0,0.8,Jenny,5.0,0.8,Brad,4.0,0.5,Nate,5.0,0.4
+Brad,Adam,4.0,0.5,Parvati,4.0,0.5,Jenny,4.0,0.5,Rebecca,4.0,0.5,,,

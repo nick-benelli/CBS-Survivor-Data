@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,4,5,6,7,8,9,11,12,13,14,14,14,14
+Voted out:,Ryan,Janet,Daniel,JoAnna,Jeanne,Shawna,Roger,Dave,Deena,Alex,Christy,Heidi,Butch,Rob,Matthew,Jenna
+Vote:,4-3-1,5-1-1-1,6-1,4-2-1,4-2,4-2,7-3,8-1,6-2,4-3,4-2,3-2,3-1,1-0,6-1,6-1
+Jenna,-,Janet,-,JoAnna,-,Shawna,Roger,Dave,Deena,Matthew,Christy,Rob,Butch,Rob,Jury Vote,Jury Vote
+Matthew,Roger,-,Daniel,-,-,Shawna,Roger,Dave,Deena,Alex,Christy,Heidi,Butch,None,Jury Vote,Jury Vote
+Rob,Ryan,-,Daniel,-,-,Shawna,Roger,Dave,Deena,Alex,Christy,Heidi,Butch,None,,Jenna
+Butch,Ryan,-,Daniel,-,Jeanne,-,Christy,Dave,Deena,Alex,Jenna,Heidi,Rob,,Matthew,
+Heidi,-,Janet,-,JoAnna,Jeanne,-,Roger,Dave,Deena,Matthew,Christy,Rob,,,,Jenna
+Christy,-,Jenna,-,JoAnna,Butch,-,Roger,Dave,Alex,Alex,Jenna,,,,,Jenna
+Alex,Ryan,-,Daniel,-,-,Matthew,Roger,Dave,Deena,Matthew,,,,,,Jenna
+Deena,-,Janet,-,JoAnna,-,Shawna,Roger,Dave,Alex,,,,,,,Jenna
+Dave,Daniel,-,Daniel,-,Jeanne,-,Christy,Matthew,,,,,,,,Jenna
+Roger,Ryan,-,Daniel,-,Jeanne,-,Christy,,,,,,,,,
+Shawna,-,Janet,-,Christy,-,Matthew,,,,,,,,,,
+Jeanne,-,Janet,-,Shawna,Butch,,,,,,,,,,,
+JoAnna,-,Christy,-,Shawna,,,,,,,,,,,,
+Daniel,Roger,-,Roger,,,,,,,,,,,,,
+Janet,-,Jeanne,,,,,,,,,,,,,,
+Ryan,Roger,,,,,,,,,,,,,,,

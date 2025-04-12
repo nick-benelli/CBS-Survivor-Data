@@ -1,0 +1,22 @@
+Voter,Tribal_1,Tribal_2,Tiebreak_3,Tiebreak_3,Tribal_3,Tribal_4,Tribal_5,Tiebreak_6,Tiebreak_6,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Final Tribal,Final Tribal
+Tribal #:,1,2,3,3,3,4,5,6,6,6,7,8,9,10,11,12,13,14,15,15
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,2,3,3,3,4,5,6,6,6,7,9,10,11,12,13,14,14,14,14
+Voted out:,Diane,Jessie,Tie,Deadlock,Carl,Linda,Silas,Tie,Deadlock,Lindsey,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Tom,Lex,Kim J.,Ethan
+Vote:,6-2,5-2,4-4,3-3,Tiebreaker,4-3,5-1,3-3,2-2,Past votes,8-2,5-4,6-2,6-1,4-2,4-1,3-1,1-0,5-2,5-2
+Ethan,Diane,Jessie,-,-,-,-,Silas,-,-,-,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Tom,None,Jury Vote,Jury Vote
+Kim J.,Diane,Jessie,-,-,-,-,Silas,-,-,-,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Tom,Lex,Jury Vote,Jury Vote
+Lex,Diane,Jessie,-,-,-,-,-,Lindsey,Lindsey,-,Clarence,Kelly,Frank,Frank,Kim P.,Teresa,Tom,None,,Ethan
+Tom,Clarence,Clarence,-,-,-,-,-,Lindsey,None,-,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Lex,,,Ethan
+Teresa,-,-,Lindsey,Lindsey,-,Silas,Silas,-,-,-,Lex,Lex,Brandon,Frank,Lex,Tom,,,,Ethan
+Kim P.,-,-,Carl,Carl,-,Linda,-,Tom,Tom,-,Clarence,Lex,Brandon,Frank,Lex,,,,Kim J.,
+Frank,-,-,Lindsey,Lindsey,-,Silas,Silas,-,-,-,Clarence,Lex,Brandon,Kim J.,,,,,,Ethan
+Brandon,-,-,Carl,Carl,-,Linda,-,Tom,Tom,-,Clarence,Kelly,Frank,,,,,,Kim J.,
+Kelly,Diane,Jessie,-,-,-,-,-,Lindsey,Lindsey,-,Clarence,Lex,,,,,,,,Ethan
+Clarence,Diane,Jessie,-,-,-,-,Silas,-,-,-,Lex,,,,,,,,,
+Lindsey,-,-,Carl,None,-,Linda,-,Tom,None,Voted out,,,,,,,,,,
+Silas,-,-,Carl,Carl,-,Linda,Frank,,,,,,,,,,,,,
+Linda,-,-,Lindsey,Lindsey,-,Silas,,,,,,,,,,,,,,
+Carl,-,-,Lindsey,None,Voted out,,,,,,,,,,,,,,,
+Jessie,Diane,Clarence,,,,,,,,,,,,,,,,,,
+Diane,Clarence,,,,,,,,,,,,,,,,,,,

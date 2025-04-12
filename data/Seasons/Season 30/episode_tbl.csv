@@ -1,0 +1,19 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""It's Survivor Warfare""","February 25, 2015","['Nagarote', 'Escameca']","['Nagarote', 'Escameca']","['So', '4-2']",1st Voted OutDay 3,10.04,2.4/7,"['Nagarote', 'Escameca']"
+1,2,"""It Will Be My Revenge""","March 4, 2015","['Masaya', 'Escameca']","['Masaya', 'Escameca']","['Vince', '3-2-1']",2nd Voted OutDay 6,9.77,2.3/7,"['Masaya', 'Escameca']"
+2,3,"""Crazy Is as Crazy Does""","March 11, 2015","['Escameca', 'Masaya']","['Escameca', 'Masaya']","['Nina', '3-2']",3rd Voted OutDay 8,9.25,2.2/8,"['Escameca', 'Masaya']"
+3,4,"""Winner Winner, Chicken Dinner""","March 18, 2015","['Nagarote', 'Masaya']","['Nagarote', 'Masaya']","['Lindsey', '2-2-2;3-0-0']",4th Voted OutDay 11,9.62,2.3/7,"['Nagarote', 'Masaya']"
+4,5,"""We're Finally Playing Some Survivor""","March 18, 2015",Escameca,Escameca,"['Max', '5-2']",5th Voted OutDay 14,9.62,2.3/7,['Escameca']
+5,6,"""Odd Woman Out""","March 25, 2015",Nagarote,Nagarote,"['Joaquin', '4-3']",6th Voted OutDay 16,9.64,2.3/8,['Nagarote']
+6,7,"""The Line Will Be Drawn Tonight""","April 1, 2015",None,Joe,"['Kelly', '4-1-0']",7th Voted OutDay 19,9.59,2.2/8,['Joe']
+7,8,"""Keep It Real""","April 8, 2015","Joe[Carolyn,Shirin,Tyler, Will]",Joe,"['Hali', '7-4']",8th Voted Out1st Jury MemberDay 22,9.84,2.5/8,['Joe']
+8,9,"""Livin' on the Edge""","April 15, 2015","Dan, Mike,Shirin,Sierra, Tyler",Tyler,"['Joe', '5-4-1']",9th Voted Out2nd Jury MemberDay 24,9.35,2.2/8,['Tyler']
+9,10,"""Bring the Popcorn""","April 22, 2015",SurvivorAuction,Mike,"['Jenn', '5-3-1']",10th Voted Out3rd Jury MemberDay 27,10.19,2.4/8,['Mike']
+10,11,"""Survivor Russian Roulette""","April 29, 2015","Carolyn,Dan, Tyler,Will","['Carolyn', 'Mike']","['Shirin', '4-2-2']",11th Voted Out4th Jury MemberDay 29,9.25,2.2/8,"['Carolyn', 'Mike']"
+11,12,"""Holding On for Dear Life""","May 6, 2015","Carolyn,Mike,Sierra",Carolyn,"['Tyler', '3-0']",12th Voted Out5th Jury MemberDay 32,9.22,2.1/8,['Carolyn']
+12,13,"""My Word Is My Bond""","May 13, 2015","Carolyn,Mike,Will",Mike,"['Dan', '2-0']",13th Voted Out6th Jury MemberDay 35,9.61,2.3/8,['Mike']
+13,14,"""It's a Fickle, Fickle Game""","May 20, 2015",Mike,Mike,"['Sierra', '4-1']",14th Voted Out7th Jury MemberDay 37,9.74,2.3/7,['Mike']
+14,14,"""It's a Fickle, Fickle Game""","May 20, 2015",None,Mike,"['Rodney', '2-2;Tiebreaker']",15th Voted Out8th Jury MemberDay 38,9.74,2.3/7,['Mike']
+15,14,"""It's a Fickle, Fickle Game""","May 20, 2015",Jury Vote,Jury Vote,"['WillCarolyn', '6-1-1']",Runners-Up,9.74,2.3/7,[]
+16,14,"""It's a Fickle, Fickle Game""","May 20, 2015",Jury Vote,Jury Vote,"['Mike', '6-1-1']",Sole Survivor,9.74,2.3/7,[]
+17,15,"""Reunion""","May 20, 2015",,,,,7.21,1.8/6,[]

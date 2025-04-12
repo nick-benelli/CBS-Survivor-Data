@@ -1,0 +1,12 @@
+,Alliance_1,Tribal Count_1,Index_1,Alliance_2,Tribal Count_2,Index_2,Alliance_3,Tribal Count_3,Index_3,Alliance_4,Tribal Count_4,Index_4,Alliance_5,Tribal Count_5,Index_5
+Sandra,Christa,9.0,1.0,Rupert,6.0,1.0,Shawn,4.0,0.75,Lillian,7.0,0.7142857142857143,Jon,11.0,0.6363636363636364
+Lillian,Jon,7.0,0.8571428571428571,Burton,6.0,0.8333333333333334,Sandra,7.0,0.7142857142857143,Christa,5.0,0.6,Darrah,10.0,0.5
+Jon,Burton,7.0,0.8571428571428571,Lillian,7.0,0.8571428571428571,Christa,9.0,0.6666666666666666,Rupert,6.0,0.6666666666666666,Sandra,11.0,0.6363636363636364
+Darrah,Tijuana,7.0,1.0,Andrew,4.0,1.0,Ryan O.,5.0,0.8,Lillian,10.0,0.5,Burton,6.0,0.5
+Burton,Jon,7.0,0.8571428571428571,Lillian,6.0,0.8333333333333334,Christa,6.0,0.5,Darrah,6.0,0.5,Tijuana,4.0,0.5
+Christa,Sandra,9.0,1.0,Rupert,6.0,1.0,Shawn,4.0,0.75,Jon,9.0,0.6666666666666666,Lillian,5.0,0.6
+Tijuana,Darrah,7.0,1.0,Andrew,4.0,1.0,Ryan O.,5.0,0.8,Jon,4.0,0.5,Burton,4.0,0.5
+Rupert,Sandra,6.0,1.0,Christa,6.0,1.0,Jon,6.0,0.6666666666666666,,,,,,
+Ryan O.,Andrew,4.0,1.0,Darrah,5.0,0.8,Tijuana,5.0,0.8,Lillian,5.0,0.2,,,
+Andrew,Darrah,4.0,1.0,Tijuana,4.0,1.0,Ryan O.,4.0,1.0,Lillian,4.0,0.25,,,
+Shawn,Sandra,4.0,0.75,Christa,4.0,0.75,Jon,4.0,0.5,,,,,,

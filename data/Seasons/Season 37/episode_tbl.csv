@@ -1,0 +1,22 @@
+,Idx,Episode,Air date,Reward,Immunity,Eliminated(Vote),Finish,Viewers(in millions),Ratings/Share(18-49),Immunity_2
+0,1,"""Appearances Are Deceiving""","September 26, 2018","['David', 'Goliath']","['', 'Goliath']","['Pat', 'No Vote']",EvacuatedDay 3,7.83,1.7/7,['Goliath']
+1,2,"""The Chicken Has Flown the Coop""","October 3, 2018",Goliath,Goliath,"['Jessica', '5-4']",1st Voted OutDay 6,7.27,1.5/7,['Goliath']
+2,3,"""I Am Goliath Strong""","October 10, 2018",David,David,"['Jeremy', '9-1']",2nd Voted OutDay 9,7.28,1.4/6,['David']
+3,4,"""Time to Bring About the Charmpocalypse""","October 17, 2018",,Carl,"['Bi', 'No Vote']",QuitDay 10,7.21,1.4/6,['Carl']
+4,4,"""Time to Bring About the Charmpocalypse""","October 17, 2018","['Tiva', '']","['Tiva', 'Jabeni']","['Natalia', '3-1-1']",3rd Voted OutDay 11,7.21,1.4/6,"['Tiva', 'Jabeni']"
+5,5,"""Jackets and Eggs""","October 24, 2018","['Vuku', 'Jabeni']","['Vuku', 'Tiva']","['Natalie', '3-2']",4th Voted OutDay 15,7.37,1.5/6,"['Vuku', 'Tiva']"
+6,6,"""Aren't Brochachos Just Adorable?""","October 31, 2018","['Tiva', 'Jabeni']","['Tiva', 'Vuku']","['Lyrsa', '3-1']",5th Voted OutDay 17,7.06,1.3/6,"['Tiva', 'Vuku']"
+7,7,"""There's Gonna Be Tears Shed""","November 7, 2018",None,Alison,"['Elizabeth', '12-1']",6th Voted Out1st Jury MemberDay 20,7.69,1.6/7,['Alison']
+8,8,"""You Get What You Give""","November 14, 2018","Alec, Alison,Christian,Gabby,John, Nick",Dan,"['John', '3-0-0']",7th Voted Out2nd Jury MemberDay 22,7.20,1.4/6,['Dan']
+9,9,"""Breadth-First Search""","November 21, 2018","Alec, Dan,Davie,Kara, Mike",Alec,"['Dan', '6-3-2']",8th Voted Out3rd Jury MemberDay 25,7.09,1.3/6,['Alec']
+10,10,"""Tribal Lines Are Blurred""","November 28, 2018","Alec, Alison,Christian,Gabby, Mike",Christian,"['Alec', '9-1']",9th Voted Out4th Jury MemberDay 28,7.60,1.6/7,['Christian']
+11,10,"""Tribal Lines Are Blurred""","November 28, 2018","Carl, Davie,Kara, Mike",Davie,"['Carl', '5-4']",10th Voted Out5th Jury MemberDay 30,7.60,1.6/7,['Davie']
+12,11,"""So Smart They're Dumb""","December 5, 2018","Angelina,Nick[Davie, Mike]",Kara,"['Gabby', '2-1-0']",11th Voted Out6th Jury MemberDay 32,7.51,1.5/7,['Kara']
+13,12,"""Are You Feeling Lucky?""","December 12, 2018","Davie[Kara,Nick]",Mike,"['Christian', '3-2-0']",12th Voted Out7th Jury MemberDay 35,7.77,1.5/7,['Mike']
+14,13,"""With Great Power Comes Great Responsibility""","December 19, 2018","['Nick', '[Angelina,Mike]']","['Nick', '']","['Davie', '4-2']",13th Voted Out8th Jury MemberDay 36,7.72,1.5/7,['Nick']
+15,13,"""With Great Power Comes Great Responsibility""","December 19, 2018",None,Nick,"['Alison', '4-1']",14th Voted Out9th Jury MemberDay 37,7.72,1.5/7,['Nick']
+16,13,"""With Great Power Comes Great Responsibility""","December 19, 2018",None,Nick,"['Kara', 'No Vote']",Eliminated10th Jury MemberDay 38,7.72,1.5/7,['Nick']
+17,13,"""With Great Power Comes Great Responsibility""","December 19, 2018",Jury Vote,Jury Vote,"['Angelina', '7-3-0']",Second Runner-Up,7.72,1.5/7,[]
+18,13,"""With Great Power Comes Great Responsibility""","December 19, 2018",Jury Vote,Jury Vote,"['Mike', '7-3-0']",Runner-Up,7.72,1.5/7,[]
+19,13,"""With Great Power Comes Great Responsibility""","December 19, 2018",Jury Vote,Jury Vote,"['Nick', '7-3-0']",Sole Survivor,7.72,1.5/7,[]
+20,14,"""Reunion""","December 19, 2018",,,,,5.17,1.0/5,[]

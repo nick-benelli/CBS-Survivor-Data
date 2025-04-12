@@ -1,0 +1,17 @@
+,Full Name,Contestant,Prev Season,Age,City,State,Job,Tribe Affiliation Original Tribe,Tribe Affiliation Switched Tribe,Tribe Affiliation Merged Tribe,Finish,VotesAgainst,Place,Returnee,Sole_Survivor,Made_Finale,Voted_Off,Made_Merge,Tm_IC,Tm_IC_W,Idv_IC,Idv_IC_W,Weeks_Played,Votes_Around,Votes_Safe,Votes_Cast,Votes_Sat_Out,Vote_Boot,Vote_Wrong,Wgt_Avg_IC,Wgt_Avg_Idv_IC,Final_Votes,Votes_Against
+0,Diane Ogden,Diane,[],42,Lincoln,NE,Mail Carrier,Boran,,,1st Voted OutDay 3,6,16.0,False,False,False,1,False,1,0,0,0,2,1,0,1,0,0,1,0.0,,0,6
+1,Jessie Camacho,Jessie,[],26,Orlando,FL,Sheriff,Boran,,,2nd Voted OutDay 6,5,15.0,False,False,False,2,False,2,0,0,0,3,2,0,2,0,1,1,0.0,,0,5
+2,Carl Bilancione,Carl,[],46,Winter Springs,FL,Dentist,Samburu,,,3rd Voted OutDay 9,7,14.0,False,False,False,3,False,3,2,0,0,4,3,2,1,0,0,1,0.6666666666666666,,0,4
+3,Linda Spencer,Linda,[],44,Boston,MA,Career Counselor,Samburu,,,4th Voted OutDay 12,4,13.0,False,False,False,4,False,4,2,0,0,5,4,2,2,0,0,2,0.5,,0,4
+4,Silas Gaither,Silas,[],23,Los Angeles,CA,Bartender,Samburu,Boran,,5th Voted OutDay 15,8,12.0,False,False,False,5,False,5,2,0,0,6,5,2,3,0,2,1,0.4,,0,8
+5,Lindsey Richter,Lindsey,[],26,Portland,OR,Advertising Executive,Samburu,Samburu,,6th Voted OutDay 18,12,11.0,False,False,False,6,False,5,3,0,0,7,6,3,3,0,2,1,0.6,,0,7
+6,Clarence Black,Clarence,[],24,Detroit,MI,Basketball Coach,Boran,Boran,Moto Maji,7th Voted OutDay 21,12,10.0,False,False,False,7,True,5,2,1,0,8,7,3,4,0,3,1,0.3333333333333333,0.0,0,12
+7,Kelly Goldsmith,Kelly,[],22,San Diego,CA,Behavior Analyst,Boran,Samburu,Moto Maji,8th Voted Out1st Jury MemberDay 24,5,9.0,False,False,False,8,True,5,3,2,0,9,8,3,5,0,4,1,0.42857142857142855,0.0,0,5
+8,Brandon Quinton,Brandon,[],25,Dallas,TX,Bartender,Samburu,Samburu,Moto Maji,9th Voted Out2nd Jury MemberDay 27,6,8.0,False,False,False,9,True,5,3,3,0,10,9,3,6,0,4,2,0.375,0.0,0,6
+9,Frank Garrison,Frank,[],42,Odessa,NY,Telephone Technician,Samburu,Boran,Moto Maji,10th Voted Out3rd Jury MemberDay 30,9,7.0,False,False,False,10,True,5,2,4,0,11,10,3,7,0,3,4,0.2222222222222222,0.0,0,9
+10,Kim Powers,Kim P.,[],29,Conshohocken,PA,Freelance Marketer,Samburu,Samburu,Moto Maji,11th Voted Out4th Jury MemberDay 33,4,6.0,False,False,False,11,True,5,3,5,0,12,11,3,8,0,5,3,0.3,0.0,0,4
+11,Teresa Cooper,Teresa,[],42,Jackson,GA,Flight Attendant,Samburu,Boran,Moto Maji,12th Voted Out5th Jury MemberDay 36,4,5.0,False,False,False,12,True,5,2,6,1,13,12,3,9,0,3,6,1.0,1.5,0,4
+12,Tom Buchanan,Tom,[],45,Rich Valley,VA,Goat Farmer,Boran,Samburu,Moto Maji,13th Voted Out6th Jury MemberDay 37,9,4.0,False,False,False,13,True,5,3,6,1,14,13,3,10,0,7,3,0.7272727272727273,0.8333333333333334,0,7
+13,Lex van den Berghe,Lex,[],38,Santa Cruz,CA,Marketing Manager,Boran,Samburu,Moto Maji,14th Voted Out7th Jury MemberDay 38,10,3.0,False,False,False,14,True,5,3,7,3,15,14,3,10,1,9,1,1.6666666666666667,2.4285714285714284,0,10
+14,Kim Johnson,Kim J.,[],56,Oyster Bay,NY,Retired Teacher,Boran,Boran,Moto Maji,Runner-Up,1,2.0,False,False,True,15,True,5,2,7,1,16,14,3,11,0,11,0,0.3333333333333333,0.2857142857142857,2,1
+15,Ethan Zohn,Ethan,[],27,New York City,NY,Professional Soccer Player,Boran,Boran,Moto Maji,Sole Survivor,0,1.0,False,True,True,15,True,5,2,7,1,16,14,3,10,1,10,0,0.8333333333333334,1.1428571428571428,5,0

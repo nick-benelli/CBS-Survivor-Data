@@ -1,0 +1,24 @@
+Voter,Tribal_1,Tribal_2,Tiebreak_3,Tribal_3,Tribal_4,Tribal_5,Tribal_6,Tribal_7,Tribal_8,Tribal_9,Tribal_10,Tribal_11,Tribal_12,Tribal_13,Tribal_14,Tribal_15,Tribal_16,Final Tribal,Final Tribal
+Tribal #:,1,2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17
+Tribe Status:,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Original Tribes,Switched Tribes,Switched Tribes,Switched Tribes,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe,Merged Tribe
+Episode #:,1,1,2,2,3,4,5,5,6,7,8,9,10,11,12,13,13,13,13
+Voted out:,David,Garrett,Tie,Brice,J'Tia,Cliff,Lindsey,Alexis,Sarah,Morgan,LJ,Jeremiah,Jefra,Tasha,Trish,Spencer,Kass,Woo,Tony
+Vote:,4-2,3-2,2-2-2,3-0-0,3-1,4-3,No Vote,6-1,6-5,6-4,5-3-1,5-3,4-3,4-1-1,4-1,3-1,1-0,8-1,8-1
+Tony,-,-,-,-,-,Cliff,-,-,Sarah,Morgan,LJ,Jeremiah,Jefra,Tasha,Trish,Spencer,None,Jury Vote,Jury Vote
+Woo,-,-,-,-,-,LJ,-,-,Sarah,Morgan,LJ,Jeremiah,Jefra,Tasha,Trish,Spencer,Kass,Jury Vote,Jury Vote
+Kass,J'Tia,Garrett,-,-,J'Tia,-,-,Alexis,Sarah,Morgan,Jeremiah,Jeremiah,Spencer,Tasha,Trish,Spencer,None,,Tony
+Spencer,David,J'Tia,-,-,J'Tia,-,-,Alexis,Jefra,Tony,LJ,Woo,Jefra,Tony,Trish,Woo,,,Tony
+Trish,-,-,-,-,-,Cliff,-,-,Sarah,Morgan,Jeremiah,Jeremiah,Spencer,Tasha,Kass,,,,Tony
+Tasha,David,Garrett,-,-,J'Tia,-,-,Alexis,Jefra,Tony,LJ,Woo,Jefra,Trish,,,,Woo,
+Jefra,-,-,Brice,Brice,-,Cliff,-,-,Sarah,Morgan,Jeremiah,Jeremiah,Spencer,,,,,,Tony
+Jeremiah,-,-,Morgan,Brice,-,-,-,Alexis,Jefra,Tony,LJ,Woo,,,,,,,Tony
+LJ,-,-,Morgan,Brice,-,Cliff,-,-,Sarah,Morgan,Spencer,,,,,,,,Tony
+Morgan,-,-,Alexis,None,-,-,-,Alexis,Jefra,Tony,,,,,,,,,Tony
+Sarah,-,-,-,-,-,-,-,Alexis,Jefra,,,,,,,,,,Tony
+Alexis,-,-,Brice,None,-,-,-,Jeremiah,,,,,,,,,,,
+Lindsey,-,-,-,-,-,LJ,Quit,,,,,,,,,,,,
+Cliff,-,-,-,-,-,LJ,,,,,,,,,,,,,
+J'Tia,David,Garrett,-,-,Spencer,,,,,,,,,,,,,,
+Brice,-,-,Alexis,None,,,,,,,,,,,,,,,
+Garrett,David,J'Tia,,,,,,,,,,,,,,,,,
+David,J'Tia,,,,,,,,,,,,,,,,,,
